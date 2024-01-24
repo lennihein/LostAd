@@ -1,0 +1,145 @@
+porofessor.gg##.vertical-ad-2-container
+porofessor.gg###bigTooltip
+porofessor.gg##.site-footer
+
+hipdf.com###sharePopup > div.mei-dialog-wrap1:last-child > div.mei-modal-content1:first-child
+srf.ch##.srgssr-subdivisions
+
+ebay-kleinanzeigen.de###vap-ovrly-secure
+ebay-kleinanzeigen.de##div.mfp-wrap.mfp-close-btn-in.mfp-auto-cursor.mfp-ready:nth-child(2)
+
+genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_sideBar__yXGVR.Farm_stickyBar__85QIF:first-child > div:nth-child(2)
+genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_listWrapper__RXUDB:last-child > div.units_lb1Wrapper__0Zd2d:nth-child(2)
+genshin-center.com###__next > div.App_app__96S8v > div.Footer_footer__GLL0J:last-child
+
+twitch.tv###root > div.Layout-sc-nxg1ff-0.eoQePv > div.Layout-sc-nxg1ff-0.qViOJ:nth-child(2) > div.Layout-sc-nxg1ff-0.kSdScw:first-child > div.Layout-sc-nxg1ff-0.cSFwmv.consent-banner
+twitch.tv###f896048f7cb400f47f390e9f75f88c4e > div.Layout-sc-nxg1ff-0.iYwoNw.right-column.right-column--theatre.right-column--beside > div.Layout-sc-nxg1ff-0.hoDdPM:first-child > div.channel-root__right-column > div.Layout-sc-nxg1ff-0.hmkGMl > div.Layout-sc-nxg1ff-0.SVxtW.chat-shell.chat-shell__expanded > div.Layout-sc-nxg1ff-0.cHunhC > div.Layout-sc-nxg1ff-0.ciSpU.stream-chat > section.InjectLayout-sc-588ddc-0.chat-room.kmTSDC:last-child > div.Layout-sc-nxg1ff-0.gsjsMm.chat-room__content > div.Layout-sc-nxg1ff-0.gDuGLD:first-child > div.Layout-sc-nxg1ff-0.gDuGLD:first-child
+
+vlr.gg###float-right-160
+vlr.gg###float-left-160
+/img/pr/gg_006.gif$domain=vlr.gg
+
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.site-container.trn-grid.trn-grid--vertical.trn-grid--small:last-child > div.alert-banner.alert-banner--warning:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > footer:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > div.mobile-promo:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph__cover:first-child > div.ph__cover-edit:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-navigation:first-child > div.trn-site-nav.trn-navigation__main:last-child > nav > ul:first-child > li.apps:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-navigation:first-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:nth-child(6) > a.trn-tabs__item.router-link-exact-active.router-link-active
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:last-child > a.trn-tabs__item
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div.content.no-card-margin:nth-child(3) > div.ph:first-child > div.ph-nav:nth-child(3) > ul.trn-tabs > li:nth-child(6)
+tracker.gg###app > nav.trn-game-bar:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.summary:last-child
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > section.media-container:nth-child(4)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.custom-content:nth-child(2)
+tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.cover:first-child > div.cover-content > div.hero > div.leaders:last-child
+
+aiming.pro###ss-top
+
+metasrc.com###header_wrapper
+metasrc.com###sidebar
+metasrc.com###bottom_of_page
+
+youtube.com###footer
+youtube.com###voice-search-button
+
+github.com##footer.footer.width-full.container-xl.p-responsive:nth-child(8)
+
+photopea.com##div.flexrow.app:last-child > div:last-child
+
+anti-adblocker$important
+
+##.container--sponsored, .container--sponsored--nitropay, .visible
+##.container--share
+##.css-1czd2me, .e7ebutk5
+##.promo
+##.cookie*
+##.autoprivacy, .pending
+##*.front-page-carousel
+###ad-vertical-left
+###ad-vertical-left-wrapper
+##.ad, .advertisement, .ad-v
+##.otCenterRounded, .ot-iab-2, .default, .vertical-align-content
+##.ads-dialog
+
+@@||vscode.dev^$important,document
+@@||lostinthe.cloud^$important,document
+@@||github.dev^$important,document
+@@||www.icloud.com^$important,document
+@@||localhost^$important,document
+@@||web.telegram.org^$important,document
+@@||events.gfe.nvidia.com^
+@@||t.co^$important
+@@||answers.microsoft.com^
+@@||device.auth.xboxlive.com^
+@@||login.live.com^
+@@||launchercontent.mojang.com^
+@@||ichnaea-web.netflix.com^$important
+@@||news.ycombinator.com^$important,document
+@@||distiller.com^$elemhide
+
+@@||s.youtube.com
+@@||video-stats.I.google.com
+
+@@||wikipedia.org^$document
+wikipedia.org$$script, important
+de.m.wikipedia.org###siteNotice$important
+
+||howstuffworks.com
+
+||ads.google.com^
+||browser.sentry-cdn.com^
+||business.samsungusa.com^
+||ads.reddit.com^
+||log-upload-os.mihoyo.com^
+||googleadservices.com^$important
+||frontier-va.tiktokv.com^
+watson.*.microsoft.com
+
+##.gdprCookieBanner_container
+###GetIn_CookieConsentBox
+##.registration-banner, .registration-banner-isopen
+###uhfCookieAlert
+##.mihoyo-cookie-tips, .mihoyo-cookie-tips--bottom, .mihoyo-cookie-tips--pc
+
+||wikipedia.org###siteNotice^$important
+
+||sourcepoint.theguardian.com/index.html
+
+||*.amazon.*$removeparam=tag
+||*.amazon.*$removeparam=creative
+||*.amazon.*$removeparam=creativeASIN
+||*.amazon.*$removeparam=camp
+||*.amazon.*$removeparam=ascsubtag
+||*.amazon.*$removeparam=ref
+||*.amazon.*$removeparam=vt
+||*.amazon.*$removeparam=refRID
+||*.amazon.*$removeparam=pd_rd_i
+||*.amazon.*$removeparam=pd_rd_r
+||*.amazon.*$removeparam=pd_rd_wg
+||*.amazon.*$removeparam=pd_rd_w
+||*.amazon.*$removeparam=pf_rd_i
+||*.amazon.*$removeparam=pf_rd_m
+||*.amazon.*$removeparam=pf_rd_p
+||*.amazon.*$removeparam=pf_rd_r
+||*.amazon.*$removeparam=pf_rd_s
+||*.amazon.*$removeparam=pf_rd_t
+||*.amazon.*$removeparam=pf_rd_w
+||*.amazon.*$removeparam=initialIssue
+||*.amazon.*$removeparam=smid
+||*.amazon.*$removeparam=plattr
+||*.amazon.*$removeparam=field-lbr_brands_browse-bin
+||*.amazon.*$removeparam=ingress
+||*.amazon.*$removeparam=visitId
+||*.amazon.*$removeparam=rdc
+||*.amazon.*$removeparam=qid
+||*.amazon.*$removeparam=dchild
+||*.amazon.*$removeparam=c
+||*.amazon.*$removeparam=ts_id
+||*.amazon.*/dp/$removeparam=tag
+||*.amazon.*/aa$removeparam=bitCampaignCode
+||*.amazon.*/hz/contact-us/csp$removeparam=/entries/
+||*.amazon.*/hz/contact-us/csp$removeparam=/Version/
+||*.amazon.*/hz/contact-us/csp$removeparam=source
+||*.amazon.*/hz/contact-us/csp$removeparam=from
+||*.amazon.*/message-us$removeparam=muClientName

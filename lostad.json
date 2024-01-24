@@ -1,0 +1,16 @@
+{
+    "name": "LostAd Full",
+    "sources": [
+        {
+            "source": "lostad_dns.txt"
+        },
+        {
+            "source": "lostad_filter.txt"
+        }
+    ],
+    "transformations": [
+        "Deduplicate",
+        "Compress",
+        "RemoveComments"
+    ]
+}
