@@ -887,6 +887,7 @@ watson.*.microsoft.com
 ||1437953666.rsc.cdn77.org^
 ||144.dragonparking.com^
 ||144757879640504-dot-ifile-document.appspot.com^
+||1453683541.rsc.cdn77.org^
 ||1472566097.rsc.cdn77.org^
 ||1486777118.rsc.cdn77.org^
 ||148dfe140d0f3d5e.com^
@@ -1003,6 +1004,7 @@ watson.*.microsoft.com
 ||18348beef08fa88d1f4f2ee04adeec3d.dioprl.pl^
 ||184c4i95p.de^
 ||184d6c5595.dff2c5fc33.com^
+||1858742167.rsc.cdn77.org^
 ||1866roofway.com^
 ||18788fdb24.com^
 ||1888checkup.com^
@@ -2745,6 +2747,7 @@ watson.*.microsoft.com
 ||55093.com^
 ||550b3ikb9j.com^
 ||5558x7.com^
+||555bbb333bbb.com^
 ||555lotte.com^
 ||555p555p.com^
 ||555shopify.com^
@@ -15955,6 +15958,7 @@ watson.*.microsoft.com
 ||adzbaba.com^
 ||adzbazar.com^
 ||adzblockersentinel.net^
+||adzdgr-wadd2-f1d.com^
 ||adzep.com.br^
 ||adzerk.net^
 ||adzerk.s3.amazonaws.com^
@@ -25802,6 +25806,7 @@ watson.*.microsoft.com
 ||atype.jp^
 ||atyphy.cyou^
 ||atzekromchan.com^
+||atzhcjv.xyz^
 ||atzzrq.tbs.co.jp^
 ||au-ad-reporter.bonniernews.se^
 ||au-go.experian.com^
@@ -28989,6 +28994,7 @@ watson.*.microsoft.com
 ||bdjdhouhoipj.com^
 ||bdjdpyrt.xyz^
 ||bdjf2ls.com^
+||bdjfea.cn^
 ||bdjiaoben.wmxa.cn^
 ||bdjj.bzr99.com^
 ||bdjj.makepolo.net^
@@ -47505,6 +47511,7 @@ watson.*.microsoft.com
 ||d142i1hxvwe38g.cloudfront.net^
 ||d145ghnzqbsasr.cloudfront.net^
 ||d14821r0t3377v.cloudfront.net^
+||d14l1tkufmtp1z.cloudfront.net^
 ||d14nx4uiqzwnqt.cloudfront.net^
 ||d14pdm1b7fi5kh.cloudfront.net^
 ||d14qd3he45186l.cloudfront.net^
@@ -50619,6 +50626,7 @@ watson.*.microsoft.com
 ||dctracking.com^
 ||dcubedinteriors.co.za^
 ||dcuonsugikrma.com^
+||dcv4p460uqa46.cloudfront.net^
 ||dcvefz.xyz^
 ||dcventail.com^
 ||dcvjz9cvwmcmu.cloudfront.net^
@@ -57933,6 +57941,7 @@ watson.*.microsoft.com
 ||edthechildrenandthe.info^
 ||edtheparllase.com^
 ||edtoolsvt.com^
+||edtotigainare.info^
 ||edtp.de^
 ||edtrainingcenter.actonservice.com^
 ||edttfiou.com^
@@ -70749,6 +70758,7 @@ watson.*.microsoft.com
 ||gfx.infomine.com^
 ||gfxa.sheetmusicplus.com^
 ||gfxf9ppj.dreamwp.com^
+||gfylyw.xyz^
 ||gfzbdtwtlw.com^
 ||gg-ads.b-cdn.net^
 ||gg-bet-pl.com^
@@ -73662,6 +73672,7 @@ watson.*.microsoft.com
 ||gpt.prxof.live^
 ||gpt.quanntum.top^
 ||gptchat.quiverr.xyz^
+||gptkjrseu.com^
 ||gpuguided.com^
 ||gpv.ex.co^
 ||gpylmwtjiy.com^
@@ -82117,6 +82128,8 @@ watson.*.microsoft.com
 ||img4.airdroid.com^
 ||img5-ak.cpcdn.com^
 ||img50.pingguolv.com^
+||img8e51zy4bg.com^
+||img8e94zy4bg.com^
 ||imgad0.pcauto.com.cn^
 ||imgad0.pconline.com.cn^
 ||imgadpai.thepaper.cn^
@@ -98722,6 +98735,7 @@ watson.*.microsoft.com
 ||m100.chosun.com^
 ||m10strk.com^
 ||m11.com^
+||m1170.top^
 ||m161.sbsun.com^
 ||m1crosoft.co^
 ||m1e.net^
@@ -110845,6 +110859,7 @@ watson.*.microsoft.com
 ||naifshinnied.top^
 ||naiglipu.xyz^
 ||naigristoa.com^
+||naihyvz.cn^
 ||nailrr.com^
 ||nailsfertilecreche.com^
 ||nailspony.com^
@@ -116339,6 +116354,7 @@ watson.*.microsoft.com
 ||obeysatman.com^
 ||obfrok.partyking.no^
 ||obgdk.top^
+||obgekjz.icu^
 ||obhggjchjkpb.xyz^
 ||obhnrw.furniturebox.se^
 ||obhxvb.tmktools.ru^
@@ -120009,6 +120025,7 @@ watson.*.microsoft.com
 ||ovs.us.wagbridge.ad.alibabacorp.com.gds.alibabadns.com^
 ||ovs.us.wagbridge.ad.alibabacorp.com^
 ||ovsdnhpigmtd.xyz^
+||ovsgalzea.com^
 ||ovsiicni.com^
 ||ovsrhikuma.com^
 ||ovssahmamvuz.com^
@@ -129093,6 +129110,7 @@ watson.*.microsoft.com
 ||ptron.net^
 ||ptrpro.activeprog2.top^
 ||ptsc.shoplocal.com^
+||ptsixwereksbef.info^
 ||ptssa.net^
 ||ptstnews.pro^
 ||ptt-corp.com^
@@ -172668,6 +172686,7 @@ watson.*.microsoft.com
 ||vejagermany.de^
 ||vejaskor.com.se^
 ||vejasskor.com^
+||vejhln.xyz^
 ||vekroata.net^
 ||vekyavm.info^
 ||vel.prxof.live^
@@ -178383,6 +178402,7 @@ watson.*.microsoft.com
 ||widgets.meilleursagents.com^
 ||widgets.membership.s-msft.com^
 ||widgets.mobilelocalnews.com^
+||widgets.monito.com^
 ||widgets.mozo.com.au^
 ||widgets.oddschecker.com^
 ||widgets.openli.com^
@@ -179105,6 +179125,7 @@ watson.*.microsoft.com
 ||wn.worknest.com^
 ||wn1kvtj4vtgnmblt2jvblne6.gossipflor.com^
 ||wn1semueh43u4vrv2sg4r5uq.architecturepreview.com^
+||wnalzle.top^
 ||wnaszymmiescie.click^
 ||wnathan.fr^
 ||wnawrot.emilianbaran.com.pl^
@@ -187381,6 +187402,7 @@ watson.*.microsoft.com
 ||zekeeksaita.com^
 ||zekkdxt.com^
 ||zekuw.com^
+||zekzoh.icu^
 ||zel-zel-fie.com^
 ||zelatorpukka.com^
 ||zelle.odencat.com^
