@@ -318,6 +318,7 @@ watson.*.microsoft.com
 ||02ip.ru^
 ||030277188517882-dot-ifile-document.appspot.com^
 ||0306tilohio9.pro^
+||0322cfmtl.cc^
 ||0339106262.co.jp^
 ||0342b40dd6.com^
 ||03505ed0f4.com^
@@ -3006,6 +3007,7 @@ watson.*.microsoft.com
 ||61ba68472f.com^
 ||61bd8c9f.kortfilmfestivalen.no^
 ||61c65dbbc8ac11b1f122e2fec0f773b4.dioprl.pl^
+||61zdn1c9.skin^
 ||6207684432.com^
 ||624883159907672-dot-wet-rans-fer-254621.appspot.com^
 ||62b70ac32d4614b.com^
@@ -42535,6 +42537,7 @@ watson.*.microsoft.com
 ||collector.viki.io^
 ||collector.wassenaar.org^
 ||collector.wawlabs.com^
+||collector.xhaccess.com^
 ||collector.xhamster*.
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
@@ -50447,6 +50450,7 @@ watson.*.microsoft.com
 ||dbl.cadriamarketing.com^
 ||dblbkinsuswpr.com^
 ||dblfreight.com^
+||dblijd.xyz^
 ||dblindsey.com^
 ||dblks.net^
 ||dblueclaockbro.info^
@@ -71109,6 +71113,7 @@ watson.*.microsoft.com
 ||giliplg.biz^
 ||gilledwebeye.life^
 ||gillettlawoffice.com^
+||gillpwiul.com^
 ||gillsapp.com^
 ||gillsisabellaunarmed.com^
 ||gillspaste.com^
@@ -98784,6 +98789,7 @@ watson.*.microsoft.com
 ||m65ln.com^
 ||m6690.top^
 ||m6c4t9vmqarj.www.cefirates.com^
+||m6j37.xyz^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m6r.eu^
 ||m73lae5cpmgrv38.com^
@@ -125322,6 +125328,7 @@ watson.*.microsoft.com
 ||pmimdcjx.com^
 ||pmir.3g.qq.com^
 ||pmir.sec.miui.com^
+||pmiskc.cn^
 ||pmm.people.com.cn^
 ||pmma.ch^
 ||pmmojatx.com^
@@ -130857,6 +130864,7 @@ watson.*.microsoft.com
 ||qn-5.com^
 ||qn.expobarrio.com^
 ||qnajplxtvz-a.akamaihd.net^
+||qnalzly.top^
 ||qnartpbxjaxep.com^
 ||qnbiiygyrox.com^
 ||qnbskk.oqvestir.com.br^
@@ -150925,6 +150933,7 @@ watson.*.microsoft.com
 ||srvsynd.com^
 ||srvtrck.com^
 ||srwfwllymprt.com^
+||srwwce.xyz^
 ||srwww1.com^
 ||srx.main.ebayrtm.com^
 ||srxy.xyz^
@@ -167908,6 +167917,7 @@ watson.*.microsoft.com
 ||tsancii.top^
 ||tsandycateup.com^
 ||tsapphires.buzz^
+||tsapphiresand.info^
 ||tsaristcanapes.com^
 ||tsarkinds.com^
 ||tsastrmq.com^
@@ -173961,6 +173971,7 @@ watson.*.microsoft.com
 ||viowyf.khaiafi.com^
 ||vioxx.1.p2l.info^
 ||vioytuituunmsr.com^
+||vioyugo.cn^
 ||vip-click.de^
 ||vip-datings.life^
 ||vip-dien-mayxanh.com^
