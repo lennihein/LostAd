@@ -748,6 +748,7 @@ watson.*.microsoft.com
 ||113794ab.kortfilmfestivalen.no^
 ||113vod-adaptive.akamaized.net^
 ||114-33-222-62.hinet-ip.hinet.net^
+||1141658275.rsc.cdn77.org^
 ||1145thavenue.com^
 ||114la.com^
 ||115167266654944-dot-ifile-document.appspot.com^
@@ -877,6 +878,7 @@ watson.*.microsoft.com
 ||132dfd.cc^
 ||1337x.vpnonly.site^
 ||134tr4ck.com^
+||1350112703.rsc.cdn77.org^
 ||1350d476401cb290d3d2028230a250c0.pltvs.pl^
 ||135309.com^
 ||1355769017.rsc.cdn77.org^
@@ -925,6 +927,7 @@ watson.*.microsoft.com
 ||1505nigyrou8.pro^
 ||150d.com^
 ||150poundsocial.com^
+||1513825105.rsc.cdn77.org^
 ||1516shop.com^
 ||151e-berry.com^
 ||1521121815.parchicky.com^
@@ -1029,6 +1032,7 @@ watson.*.microsoft.com
 ||1858742167.rsc.cdn77.org^
 ||1866roofway.com^
 ||18788fdb24.com^
+||1879481963.rsc.cdn77.org^
 ||1888checkup.com^
 ||18897b9a4ed8c8624dd91f9390a61074.nmdj.pl^
 ||188affiliates.com^
@@ -3168,6 +3172,7 @@ watson.*.microsoft.com
 ||6669667.com^
 ||666aa777bb.com^
 ||666bb777ww.com^
+||666bbb222www.com^
 ||666bbb333bbb.com^
 ||666lotte.com^
 ||6677648.reddoorz.com^
@@ -25928,6 +25933,7 @@ watson.*.microsoft.com
 ||auchoocm.com^
 ||auchoons.net^
 ||auciuqxoyqobj.xyz^
+||aucoudsa.net^
 ||aucred.com^
 ||auction-it-all.com^
 ||auction-release.mlpapi.com^
@@ -32619,6 +32625,7 @@ watson.*.microsoft.com
 ||bnjotruds.com^
 ||bnk.wolterskluwerfs.com^
 ||bnl2bii.icu^
+||bnlbecm.xyz^
 ||bnlif.com^
 ||bnmjjwinf292.com^
 ||bnmkl.com^
@@ -45266,6 +45273,7 @@ watson.*.microsoft.com
 ||cowerscrowers.top^
 ||cowhmc.docmorris.de^
 ||cowlandagroindustries.com^
+||cowm199.com^
 ||cowmankai.com^
 ||cowmoss.com^
 ||coworking.moscow^
@@ -54857,6 +54865,7 @@ watson.*.microsoft.com
 ||doostauge.com^
 ||dooste.com^
 ||doostozoa.net^
+||doozersunkept.com^
 ||dop.progofficial.top^
 ||dop.truproggs.top^
 ||dop994.wixsite.com^
@@ -74177,6 +74186,7 @@ watson.*.microsoft.com
 ||grfx.mp3.com^
 ||grfz.de^
 ||grgnsht.nzxt.com^
+||gribblefessing.com^
 ||gribsastiw.com^
 ||grickevaugn.com^
 ||grid-ad-manager-amtboqthza-uw.a.run.app^
@@ -80707,6 +80717,7 @@ watson.*.microsoft.com
 ||idescargarapk.com^
 ||idevaffiliate.com^
 ||idevdirect.com^
+||idffhq.cn^
 ||idg.dmdelivery.com^
 ||idgdmgroup.com.cn^
 ||idgptg.esm-computer.de^
@@ -91158,6 +91169,7 @@ watson.*.microsoft.com
 ||kopsil.com^
 ||kopsooli.com^
 ||kopterka.ru^
+||koqjok.xyz^
 ||koqsxdpx.xyz^
 ||koraboe.com^
 ||koradu.com^
@@ -93482,6 +93494,7 @@ watson.*.microsoft.com
 ||les-oncheres.fr^
 ||les-toiles-cinema.fr^
 ||lesantivirus.net^
+||lesasfp.icu^
 ||lesavik.net^
 ||lesecchos.fr^
 ||lesechoss.fr^
@@ -93686,6 +93699,7 @@ watson.*.microsoft.com
 ||lforr.elainelfo.de^
 ||lfov.net^
 ||lfpmtibqwqre.com^
+||lfrfzr.xyz^
 ||lfs.muskprog.top^
 ||lfs.valuez.top^
 ||lfscpttracking.com^
@@ -119315,6 +119329,7 @@ watson.*.microsoft.com
 ||os.vudu.com^
 ||os3.jouwauhesurvey.top^
 ||osa.pl^
+||osafsr.xyz^
 ||osakado.cc^
 ||osancik.top^
 ||osangauh.net^
@@ -122693,6 +122708,7 @@ watson.*.microsoft.com
 ||persianrank.ir^
 ||persianstat.com^
 ||persianstat.ir^
+||persistarcticthese.com^
 ||persistbrittle.com^
 ||perso.aws.arc.pub^
 ||perso.menara.ma^
@@ -135571,6 +135587,7 @@ watson.*.microsoft.com
 ||rkvyhuyab.com^
 ||rkwithcatuk.org^
 ||rkxmow.novasol-vacaciones.es^
+||rkymfevzeq.com^
 ||rkyynuthufhutew.xyz^
 ||rl-blog.tx1tx.click^
 ||rl.expobarrio.com^
@@ -157099,6 +157116,7 @@ watson.*.microsoft.com
 ||szpnz.cn^
 ||szprudka.stelladoman.pl^
 ||szptp.cn^
+||szpwf.cn^
 ||szpwg.cn^
 ||szpwh.cn^
 ||szpzm.cn^
@@ -161987,6 +162005,7 @@ watson.*.microsoft.com
 ||tjuhdrm.com^
 ||tjwzyjx.icu^
 ||tjxfkmlhubh.com^
+||tjxjpqa.com^
 ||tjzvuo.youcom.com.br^
 ||tk-adsystem.a2z.com^
 ||tk.504pk.com^
@@ -168684,6 +168703,7 @@ watson.*.microsoft.com
 ||twrencesprin.info^
 ||twshopeee.top^
 ||twstat.lifenewsjr.com^
+||twsylxp.com^
 ||twtad.com^
 ||twtdkzg.com^
 ||twtfdd.xyz^
@@ -169493,6 +169513,7 @@ watson.*.microsoft.com
 ||ujmobu.wealthydrawer.com^
 ||ujnkn.com^
 ||ujooshog.com^
+||ujovcb.cn^
 ||ujq1.destinia.is^
 ||ujrspnbf.xyz^
 ||ujrzymyprawde.click^
@@ -179160,6 +179181,7 @@ watson.*.microsoft.com
 ||wmail-schnellvpn.xyz^
 ||wmail-service.com^
 ||wmaoviagmphst.com^
+||wmaoxrk.com^
 ||wmbbsat.com^
 ||wmbd.gamersky.com^
 ||wmbldi.compass.it^
