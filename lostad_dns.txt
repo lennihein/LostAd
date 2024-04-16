@@ -855,6 +855,7 @@ watson.*.microsoft.com
 ||1274355588.rsc.cdn77.org^
 ||128574894258512-dot-bws-hak-kwu.appspot.com^
 ||1287a.xyz^
+||1291423135.rsc.cdn77.org^
 ||12915784.care.sanvello.com^
 ||129ldvip.com^
 ||12a0913ce38aba9213b9635b4d4c74d6.puoli.pl^
@@ -892,6 +893,7 @@ watson.*.microsoft.com
 ||139130.com^
 ||139trainticket.com^
 ||13b3403320.com^
+||13b696a4c1.com^
 ||13c.shooksuk.top^
 ||13d.jouwauhesurvey.top^
 ||13fe5eeccfc507b60a4d8954d3768b7e.nmdj.pl^
@@ -1046,6 +1048,7 @@ watson.*.microsoft.com
 ||18video-on.com^
 ||19093.jp^
 ||1909a8.satofull.jp^
+||1917516666.rsc.cdn77.org^
 ||192.com^
 ||192.luyouwang.com^
 ||19273817.com^
@@ -1740,6 +1743,7 @@ watson.*.microsoft.com
 ||2annalea.com^
 ||2asd3413.fsseeewzz.lol^
 ||2b15b8e193.com^
+||2b2359b518.com^
 ||2b2b3adee6.com^
 ||2b9c46fc4617efaa84a28db2e83dbfdd.sjri.pl^
 ||2basketballbundesliga.de^
@@ -8468,6 +8472,7 @@ watson.*.microsoft.com
 ||abrasivematch.com^
 ||abrhsuoamrnrx.com^
 ||abrhydona.com^
+||abridebouch.com^
 ||abridgealgedo.com^
 ||abridgeoverwhelmfireball.com^
 ||abridgesynchronizepleat.com^
@@ -9602,6 +9607,7 @@ watson.*.microsoft.com
 ||ad.adjw.co.kr^
 ||ad.admine.co.kr^
 ||ad.adnetwork.com.br^
+||ad.adpon-affi.net^
 ||ad.adsonpop.com^
 ||ad.aduserver.com^
 ||ad.aggrx.com^
@@ -11311,6 +11317,7 @@ watson.*.microsoft.com
 ||adi*.cnool.net^
 ||adi.ni.com^
 ||adial.co.uk^
+||adiam.tech^
 ||adiandgeorge.com^
 ||adiant.com^
 ||adical.de^
@@ -12139,6 +12146,7 @@ watson.*.microsoft.com
 ||adq.chinaso.com^
 ||adq.nextag.com^
 ||adqic.com^
+||adqit.com^
 ||adqongwuxvav.com^
 ||adquality.ch^
 ||adquan.com^
@@ -12218,6 +12226,7 @@ watson.*.microsoft.com
 ||adriver.ru^
 ||adriverm.narod2.ru^
 ||adrizer.com^
+||adrkspf.com^
 ||adrmuayene.org^
 ||adro.co^
 ||adro.io^
@@ -12983,6 +12992,7 @@ watson.*.microsoft.com
 ||ads.globescale.com^
 ||ads.globo.com^
 ||ads.go-games.gg^
+||ads.go2net.com.ua^
 ||ads.go2perseo.com^
 ||ads.gogel.al^
 ||ads.gogovest.com^
@@ -14200,6 +14210,7 @@ watson.*.microsoft.com
 ||adscale.net^
 ||adscampaign.net^
 ||adscan.yelabapp.com^
+||adscdn.net^
 ||adscdn.orbi.kr^
 ||adscdnseed.com^
 ||adscendmedia.com^
@@ -14232,6 +14243,7 @@ watson.*.microsoft.com
 ||adsdk.cmcm.com^
 ||adsdk.com^
 ||adsdk.idmzj.com^
+||adsdk.microsoft.com^
 ||adsdk.picooapps.com^
 ||adsdk.vivo.com.cn^
 ||adsdk.yandex.ru^
@@ -16887,6 +16899,7 @@ watson.*.microsoft.com
 ||afv.forestpub.co.jp^
 ||afvwwjcplvq.com^
 ||afwpc.com^
+||afxjwyg.com^
 ||afxncq.com^
 ||afy11.net^
 ||afyads.com^
@@ -17163,6 +17176,7 @@ watson.*.microsoft.com
 ||aheadday.com^
 ||aheadmachine.com^
 ||aheadprincessmeal.com^
+||aheadreflectczar.com^
 ||aheale.com^
 ||ahealthz.com^
 ||ahean.com^
@@ -17387,6 +17401,7 @@ watson.*.microsoft.com
 ||aimpocket.com^
 ||aimpointsiwan.com^
 ||aimpooft.com^
+||aimsounga.net^
 ||aimuscled.com^
 ||aimvein.net^
 ||aineghoo.xyz^
@@ -17527,6 +17542,7 @@ watson.*.microsoft.com
 ||aiwei365.net^
 ||aiwen.cc^
 ||aiwhogny.com^
+||aiwlxmy.com^
 ||aiwnxbbmig.com^
 ||aix-delivery.icu^
 ||aixcdn.com^
@@ -18786,6 +18802,7 @@ watson.*.microsoft.com
 ||aluhutmafia.de^
 ||aluin.live^
 ||alukizeiasnin.com^
+||alulaeegbert.top^
 ||aluminium.intertex-usa.com^
 ||aluminiumprofileonline.de^
 ||aluminiumreluctanterect.com^
@@ -21187,6 +21204,7 @@ watson.*.microsoft.com
 ||analyzer54.fc2.com^
 ||analyzz.com^
 ||anamaembush.com^
+||anamestreat.top^
 ||anametrix.com^
 ||anametrix.net^
 ||anamuel-careslie.com^
@@ -24232,6 +24250,7 @@ watson.*.microsoft.com
 ||arabcuff.com^
 ||arabdevastatingpatty.com^
 ||arabianpdfbooks.info^
+||arabinxerarch.top^
 ||arablefoundation.com^
 ||arablucidlygrease.com^
 ||arabnews365.com^
@@ -25427,6 +25446,7 @@ watson.*.microsoft.com
 ||assp.sohu.com^
 ||assrem.com^
 ||asssssik.maximilianjerzy.pl^
+||asstaraptora.com^
 ||assuageexcel.com^
 ||assumeditch.com^
 ||assurance-pour-chien.org^
@@ -25769,6 +25789,7 @@ watson.*.microsoft.com
 ||atoms.tennessean.com^
 ||atoms.usatoday.com^
 ||atonato.de^
+||atonefreeman.top^
 ||atonementfosterchild.com^
 ||atonementimmersedlacerate.com^
 ||atonementwisely.com^
@@ -26071,6 +26092,7 @@ watson.*.microsoft.com
 ||augaiksu.xyz^
 ||augailou.com^
 ||augendsfrisky.top^
+||aughableleade.info^
 ||augi.fr^
 ||augitna.com^
 ||augmentbarn.world^
@@ -26419,6 +26441,7 @@ watson.*.microsoft.com
 ||availroeamenity.com^
 ||avainviulu.com^
 ||avajwlwlwkkmb.top^
+||avajwlwlwkvma.top^
 ||avalanchelackinghomework.com^
 ||avalancheofnews.com^
 ||avalancherepercussion.com^
@@ -26457,6 +26480,7 @@ watson.*.microsoft.com
 ||avct.cloud^
 ||avdego.net^
 ||avdpmeated.uno^
+||ave-caesar-mas.modivo.io^
 ||avebedencathy.info^
 ||avehistoric.com^
 ||avehospitablestrangers.com^
@@ -26727,6 +26751,7 @@ watson.*.microsoft.com
 ||awmplus.com^
 ||awmserve.com^
 ||awnexus.com^
+||awningstoffees.top^
 ||awnyrightle.com^
 ||awogtl.1stopbedrooms.com^
 ||awokeconscious.com^
@@ -26957,6 +26982,7 @@ watson.*.microsoft.com
 ||axpjzhbh.com^
 ||axscvdcans.xyz^
 ||axsit.biz^
+||axtlqoo.com^
 ||axungetosher.top^
 ||axvkdpcnadgdt.com^
 ||axwakwdibkunq.com^
@@ -26966,6 +26992,7 @@ watson.*.microsoft.com
 ||axwpawahnwux.com^
 ||axx.aflamk1.net^
 ||axxcqwxdcijxl.xyz^
+||axxxfam.com^
 ||axxxfeee.lat^
 ||axzsd.pro^
 ||axzxkeawbo.com^
@@ -27320,6 +27347,7 @@ watson.*.microsoft.com
 ||b2.etrality.com^
 ||b2057d1647efda22988ce84e99006f23.btntls.pl^
 ||b20p6lt350nt.app.polymersearch.com^
+||b211.xyz^
 ||b21be0a0c8.com^
 ||b225.org^
 ||b2261a9931.com^
@@ -28700,6 +28728,7 @@ watson.*.microsoft.com
 ||bat-bing-com.a-0001.a-msedge.net^
 ||bat.adforum.com^
 ||bat.bing.com^
+||bat.bing.net^
 ||bat.folos.top^
 ||bat.izanami-antenna.com^
 ||bat.maydream.com^
@@ -28763,6 +28792,7 @@ watson.*.microsoft.com
 ||baubogla.com^
 ||baucdngb.xyz^
 ||bauchleredries.com^
+||baucraell.com^
 ||bauernative.com^
 ||baugroucapoo.com^
 ||baukeri.ehrydnmdoe.com^
@@ -29641,6 +29671,7 @@ watson.*.microsoft.com
 ||beergeneralization.com^
 ||beesforestallsuffer.com^
 ||beeshanoozuk.com^
+||beestraitstarvation.com^
 ||beestuneglon.com^
 ||beeswax.com^
 ||beetcrenula.com^
@@ -30869,6 +30900,7 @@ watson.*.microsoft.com
 ||bidsimulator.com^
 ||bidsopt.com^
 ||bidstack.com^
+||bidster.net^
 ||bidstreamserver.com^
 ||bidswitch.com^
 ||bidswitch.net^
@@ -31034,6 +31066,7 @@ watson.*.microsoft.com
 ||bikesmachineryi.com^
 ||bikesoupracing.com^
 ||bikewaft.com^
+||bikramclyses.top^
 ||bikrurda.net^
 ||bikuali.com^
 ||bilahh.feuvert.fr^
@@ -32903,6 +32936,7 @@ watson.*.microsoft.com
 ||boldoczesny.click^
 ||boldscantyfrustrating.com^
 ||bolebo24.xyz^
+||boledrouth.top^
 ||bolent.xyz^
 ||bolivarmaltol.website^
 ||boll.innwest.top^
@@ -33522,6 +33556,7 @@ watson.*.microsoft.com
 ||boxes-mix.net^
 ||boxhaulchrist.guru^
 ||boxingweaver.com^
+||boxiti.net^
 ||boxlikepavers.com^
 ||boxlivegarden.com^
 ||boxmta.com^
@@ -34251,6 +34286,7 @@ watson.*.microsoft.com
 ||brixel.cn^
 ||brjjkd.calzedonia.com^
 ||brjyhgebqwl.com^
+||brksxofnsadkb.xyz^
 ||brl.infosyst.site^
 ||brldassustitucion.eccocar.com^
 ||brlesrochesmarbella.eccocar.com^
@@ -35601,6 +35637,7 @@ watson.*.microsoft.com
 ||byasdebrisfie.cfd^
 ||byauyahgcobvjkq.com^
 ||bybastiodoner.com^
+||bybmahbyaidix.com^
 ||bybygnom.com^
 ||bybyjrnrqqqqr.top^
 ||bycarlosacostaonline.com^
@@ -36716,6 +36753,7 @@ watson.*.microsoft.com
 ||canoestallowrootsabre.com^
 ||canoevaguely.com^
 ||canonch.pro^
+||canoperation.com^
 ||canopicerasion.com^
 ||canopusacrux.com^
 ||canopusacrux.top^
@@ -36981,6 +37019,7 @@ watson.*.microsoft.com
 ||caribou.mcgregorpublishing.com^
 ||caribou.reiterstolz.com^
 ||cariboumoney.com^
+||caricaturechampionshipeye.com^
 ||caringcast.com^
 ||caringdeath.pro^
 ||caringzinc.com^
@@ -37448,6 +37487,7 @@ watson.*.microsoft.com
 ||caustopa.net^
 ||cauthaushoas.com^
 ||cautiondime.com^
+||cautionpursued.com^
 ||cautiotumfie.com^
 ||cautiouscamera.com^
 ||cautiouscherries.com^
@@ -37668,6 +37708,7 @@ watson.*.microsoft.com
 ||cchulo.com^
 ||ccieoqej.xyz^
 ||ccieurope.fr^
+||ccjhtrymhhljk.com^
 ||ccjzuavqrh.com^
 ||ccleaner.fr^
 ||ccloud.sdkclickurl.com^
@@ -38093,6 +38134,7 @@ watson.*.microsoft.com
 ||cdn.siteswithcontent.com^
 ||cdn.smartclick.io^
 ||cdn.socialbakers.com^
+||cdn.sov.stream^
 ||cdn.spectrumcustomizer.com^
 ||cdn.spiritshop.com^
 ||cdn.split.io^
@@ -38523,6 +38565,7 @@ watson.*.microsoft.com
 ||ceilingbruiseslegend.com^
 ||ceillons.site^
 ||ceiuip.icu^
+||cekgsyc.com^
 ||cekornapred.org^
 ||celal.org^
 ||celarsio.xyz^
@@ -38847,6 +38890,7 @@ watson.*.microsoft.com
 ||cfd.tragexpert.com^
 ||cfd.venturestradeplatform.com^
 ||cfd.xglobalmarkets.co^
+||cfd546b20a.com^
 ||cfda-grant.pages.dev^
 ||cfdb902e31.8ff41d1efd.com^
 ||cfdns.vip^
@@ -38892,6 +38936,7 @@ watson.*.microsoft.com
 ||cfsaze.retailmenot.com^
 ||cftrack.com^
 ||cfubdjsolbs.com^
+||cfugrnc.icu^
 ||cfw.dexscreener.com^
 ||cfx3d.xyz^
 ||cfxsmb.liveperson.net^
@@ -39057,6 +39102,7 @@ watson.*.microsoft.com
 ||changarreviver.com^
 ||changduk26.com^
 ||changeablecats.com^
+||changedmuffin.com^
 ||changeflamboyant.com^
 ||changeip.net^
 ||changeip.org^
@@ -39340,6 +39386,9 @@ watson.*.microsoft.com
 ||check-this.one^
 ||check-tl-ver-12-3.com^
 ||check-tl-ver-12-8.top^
+||check-tl-ver-17-8.com^
+||check-tl-ver-54-1.com^
+||check-tl-ver-54-3.com^
 ||check-update-today.com^
 ||check-updates.net^
 ||check-users.com^
@@ -39763,6 +39812,7 @@ watson.*.microsoft.com
 ||chong.sec.miui.com^
 ||chongyayakk.xyz^
 ||choobinoobi.com^
+||choocmailt.com^
 ||choogeet.net^
 ||chooghoash.com^
 ||choomsiesurvey.top^
@@ -39772,6 +39822,7 @@ watson.*.microsoft.com
 ||chooptaun.net^
 ||chooroogru.net^
 ||choose.adelaide.edu.au^
+||chooseimmersed.com^
 ||choosetotruck.com^
 ||chooseuus.com^
 ||chooseyourlimo.com^
@@ -41302,6 +41353,7 @@ watson.*.microsoft.com
 ||climaxlumpdonut.com^
 ||climaxmature.com^
 ||climbdestructionverse.com^
+||climbedcag.top^
 ||climbskoso.com^
 ||climbyourmountain.net^
 ||climesmazdoor.com^
@@ -42425,6 +42477,7 @@ watson.*.microsoft.com
 ||cohortgripghetto.com^
 ||coi.manasan.top^
 ||coi.tex-prog.top^
+||coiffesfluer.top^
 ||coignsunrent.com^
 ||coignydisship.guru^
 ||coigroun.kolotas.top^
@@ -45865,7 +45918,6 @@ watson.*.microsoft.com
 ||creative.hentaicams.xxx^
 ||creative.hot-india.com^
 ||creative.imagetwistcams.com^
-||creative.kbnmnl.com^
 ||creative.leojmp.com^
 ||creative.live.bestjavporn.com^
 ||creative.live.javhdporn.net^
@@ -46691,6 +46743,7 @@ watson.*.microsoft.com
 ||ctydsy.xyz^
 ||ctyguide.com^
 ||ctyjsf.cellphones.com.vn^
+||ctykxlvztyy.com^
 ||ctyojp.kibek.de^
 ||ctyusif.top^
 ||ctywimluf.com^
@@ -47577,6 +47630,7 @@ watson.*.microsoft.com
 ||czresus.cn^
 ||czsk.sharpmarketing.eu^
 ||czvdyzt.com^
+||czwxrnv.com^
 ||czxa.fsdvzxaq.shop^
 ||czxvgod.xyz^
 ||czyawbalfh.com^
@@ -49460,6 +49514,7 @@ watson.*.microsoft.com
 ||dancevalidator.io^
 ||dancingbell.com^
 ||dandelion-horsetail.work^
+||dandelionnoddingoffended.com^
 ||dandilysterna.com^
 ||dandrosoft.com^
 ||dandyblondewinding.com^
@@ -51188,6 +51243,7 @@ watson.*.microsoft.com
 ||decibelinsight.net^
 ||decide.co^
 ||decide.dev^
+||decidedlychips.com^
 ||decidedlylipstick.com^
 ||decidedmonsterfarrier.com^
 ||decidedrum.com^
@@ -51854,6 +51910,7 @@ watson.*.microsoft.com
 ||departgross.com^
 ||department06.fr^
 ||departmentcomplimentary.com^
+||departmentscontinentalreveal.com^
 ||departmentsweaseljerusalem.com^
 ||departtrouble.com^
 ||departurealtar.com^
@@ -52444,6 +52501,7 @@ watson.*.microsoft.com
 ||dfgymtx.icu^
 ||dfgyu876yujh.click^
 ||dfh.savek.xyz^
+||dfh48z16zqvm6.cloudfront.net^
 ||dfhajyevxmposa.xyz^
 ||dfhduh.xyz^
 ||dfhs.tanx.com^
@@ -52595,6 +52653,7 @@ watson.*.microsoft.com
 ||dhnxza.com^
 ||dhobeynandi.com^
 ||dhobieslocater.uno^
+||dhobisbeiges.top^
 ||dhobybailli.com^
 ||dhodskwqmwafkn.com^
 ||dholesiberia.digital^
@@ -53748,6 +53807,7 @@ watson.*.microsoft.com
 ||dispbaktun.com^
 ||dispelhighest.com^
 ||dispensablestranger.com^
+||dispensedessertbody.com^
 ||dispersecottage.com^
 ||disperserepeatedly.com^
 ||dispersereversewanderer.com^
@@ -53767,6 +53827,7 @@ watson.*.microsoft.com
 ||displayadimg.zumst.com^
 ||displayads-formats.googleusercontent.com^
 ||displayads.walmart.com^
+||displayadspro.click^
 ||displaycontentnetwork.com^
 ||displaycontentprofit.com^
 ||displayedchurchill.com^
@@ -54763,6 +54824,7 @@ watson.*.microsoft.com
 ||dolatiaschan.com^
 ||doldsoft.com^
 ||dolead.com^
+||dolefulcaller.com^
 ||dolefulitaly.com^
 ||dolefulwelcoming.com^
 ||dolemeasuringscratched.com^
@@ -55997,6 +56059,7 @@ watson.*.microsoft.com
 ||dronedgentile.com^
 ||dronediscussed.com^
 ||dronelskipper.com^
+||dronetmango.com^
 ||droomsoft.com^
 ||droopingfur.com^
 ||droopingrage.com^
@@ -56792,6 +56855,7 @@ watson.*.microsoft.com
 ||dyghye.fashionesta.com^
 ||dygtulfe.icu^
 ||dyh1wzegu1j6z.cloudfront.net^
+||dyhvtkijmeg.xyz^
 ||dyhxduicfngnumo.xyz^
 ||dyingconjunction.com^
 ||dyj8pbcnat4xv.cloudfront.net^
@@ -57174,6 +57238,7 @@ watson.*.microsoft.com
 ||e64287d5503b3d4e80bdcd55619397e1.nmdj.pl^
 ||e64daf74.kortfilmfestivalen.no^
 ||e664.theoaklandpress.com^
+||e67jpj6to.com^
 ||e67repidwnfu7gcha.com^
 ||e6wwd.top^
 ||e7.wetterkameras.com^
@@ -60501,6 +60566,7 @@ watson.*.microsoft.com
 ||entrailsintentionsbrace.com^
 ||entravision.com^
 ||entreatfulghuge.life^
+||entreatkeyrequired.com^
 ||entreatyfungusgaily.com^
 ||entrecard.s3.amazonaws.com^
 ||entrecjuang.uno^
@@ -61350,6 +61416,7 @@ watson.*.microsoft.com
 ||eternitygoatsassassin.com^
 ||eteveredgove.info^
 ||etfc.my.salesforce-sites.com^
+||etflpbk.com^
 ||ethalojo.com^
 ||ethan.wang^
 ||etharticles.substack.com^
@@ -61826,6 +61893,7 @@ watson.*.microsoft.com
 ||eventdock.net^
 ||eventechohub.site^
 ||eventexistence.com^
+||eventfulknights.com^
 ||eventgateway.soundcloud.com^
 ||eventgeniustracksdk.optimove.net^
 ||eventgw.twilio.com^
@@ -62512,6 +62580,7 @@ watson.*.microsoft.com
 ||exmarkt.de^
 ||exmedgroup.com^
 ||exmrwwt.com^
+||exmvpyq.com^
 ||exnesstrack.com^
 ||exnzg.de^
 ||exoads.click^
@@ -62616,6 +62685,7 @@ watson.*.microsoft.com
 ||expired-antiviruses.com^
 ||expired-targeted.com^
 ||expiredsession.com^
+||expiry-renewal.click^
 ||explainpompeywistful.com^
 ||explanationstaggered.com^
 ||explodemedicine.com^
@@ -62838,6 +62908,7 @@ watson.*.microsoft.com
 ||extremeshredcharm.com^
 ||extremetracking.com^
 ||extremitybagpipechallenge.com^
+||extremityzincyummy.com^
 ||extremiu.top^
 ||extrer.com^
 ||extsoft.app^
@@ -65007,6 +65078,7 @@ watson.*.microsoft.com
 ||fieldhigh.net^
 ||fieldofbachus.com^
 ||fieldoffers.net^
+||fieldparishskip.com^
 ||fieldtest.cc^
 ||fiendadmittance.com^
 ||fiendinsist.com^
@@ -65436,6 +65508,7 @@ watson.*.microsoft.com
 ||findbetterresults.com^
 ||findcommerce.com^
 ||findconvertersearch.com^
+||findcouponspromos.com^
 ||findcre.com^
 ||finddateslocally.com^
 ||finddatinglocally.com^
@@ -66585,6 +66658,7 @@ watson.*.microsoft.com
 ||focusios.punchh.com^
 ||focusmetrics.com^
 ||focusmixplant.com^
+||focwcuj.com^
 ||fod-cm-ad-v.webcdn.stream.ne.jp^
 ||fod.wekza.top^
 ||foddaughters.chimman.top^
@@ -66596,6 +66670,7 @@ watson.*.microsoft.com
 ||fods392pszsafsd.appspot.com^
 ||fodsoack.com^
 ||foeobjectacquaint.com^
+||foerpo.com^
 ||foetusastronautbuild.com^
 ||foetusconductfold.com^
 ||foetuslipstickreassure.com^
@@ -67215,6 +67290,7 @@ watson.*.microsoft.com
 ||fouleewu.net^
 ||foullypellate.space^
 ||foumulish.top^
+||founcedaimen.top^
 ||foundate-core.net^
 ||foundation.my.salesforce-sites.com^
 ||foundation.youdao.com^
@@ -67431,6 +67507,7 @@ watson.*.microsoft.com
 ||fqxjrbepn.com^
 ||fqxnlh.kgcshop.co.kr^
 ||fqybolmt.com^
+||fqyghqeeh.com^
 ||fqygyfvmz.com^
 ||fqyxbvuefdlt.com^
 ||fqzibqtjwfzp.com^
@@ -68126,6 +68203,7 @@ watson.*.microsoft.com
 ||frothadditions.com^
 ||frothirenews.top^
 ||frothsubmarine.com^
+||frottonracist.com^
 ||frownfirsthand.com^
 ||frowzlynecklet.top^
 ||frozen-food-exporter.com^
@@ -68926,6 +69004,7 @@ watson.*.microsoft.com
 ||g0-g3t-msg.com^
 ||g0-g3t-som3.com^
 ||g0-get-msg.net^
+||g0-get-s0me.net^
 ||g00gle-supp0rt.com^
 ||g01.a.alicdn.com^
 ||g024pwsdoxc.appspot.com^
@@ -69012,6 +69091,7 @@ watson.*.microsoft.com
 ||g792337341.co^
 ||g792337342.co^
 ||g792337343.co^
+||g8bb6j5pn.com^
 ||g8knjdtrk.com^
 ||g9111879410.co^
 ||g91games.com^
@@ -69416,6 +69496,7 @@ watson.*.microsoft.com
 ||ganalytics.live^
 ||ganardineroreal.com^
 ||ganasalas.com^
+||ganchedagrapha.com^
 ||gandikapper.ru^
 ||gandinut.space^
 ||gandmotivatin.info^
@@ -69442,6 +69523,7 @@ watson.*.microsoft.com
 ||ganjituiguang.ganji.com^
 ||gankana.com^
 ||ganobaz.com^
+||ganodusskunks.top^
 ||ganon.yahoo.com^
 ||gantcolombia.com^
 ||gantdanmark.com^
@@ -71825,6 +71907,7 @@ watson.*.microsoft.com
 ||gleetchisurvey.top^
 ||gleetedbunged.uno^
 ||gleetresis.com^
+||gleewhor.xyz^
 ||glegendspro.com^
 ||glegreel.xyz^
 ||glekrush.com^
@@ -72096,6 +72179,7 @@ watson.*.microsoft.com
 ||gloupa.com^
 ||glouseer.net^
 ||gloustoa.net^
+||gloutanacard.com^
 ||gloutchi.com^
 ||glouxaih.net^
 ||gloverbettingtips.com^
@@ -72212,6 +72296,7 @@ watson.*.microsoft.com
 ||gminnyportal.click^
 ||gminnyradca.click^
 ||gminnytowar.click^
+||gmiqicw.com^
 ||gmixiwowford.com^
 ||gmk.loj.mybluehost.me^
 ||gmkflsdaa.com^
@@ -72672,7 +72757,6 @@ watson.*.microsoft.com
 ||go.kareo.com^
 ||go.karger.com^
 ||go.kasa.co.kr^
-||go.kbnmnl.com^
 ||go.keenvibe.com^
 ||go.keenvibe.de^
 ||go.kidsoutandabout.com^
@@ -74194,6 +74278,7 @@ watson.*.microsoft.com
 ||grayoranges.com^
 ||grayreceipt.com^
 ||graystone-eye.actonservice.com^
+||graywithingrope.com^
 ||graz.at.eu.undernet.org^
 ||grazebraceletmaterials.com^
 ||grazynalow1.zacharykevin.pl^
@@ -74264,6 +74349,7 @@ watson.*.microsoft.com
 ||greeentea.ru^
 ||greeftougivy.com^
 ||greekbelievablesplit.com^
+||greekmankind.com^
 ||greekomythpo.com^
 ||greekroo.xyz^
 ||greekunbornlouder.com^
@@ -75243,6 +75329,7 @@ watson.*.microsoft.com
 ||gx101.com^
 ||gxcaxz.cresus.fr^
 ||gxcvxdeda.com^
+||gxdzfyg.com^
 ||gxe.ytr.mybluehost.me^
 ||gxeireojvtfoq.com^
 ||gxemtes.xyz^
@@ -75296,6 +75383,7 @@ watson.*.microsoft.com
 ||gym1505.ru^
 ||gymdeserves.com^
 ||gymellionize.com^
+||gymgipsy.com^
 ||gymnasticswag.com^
 ||gymshark-no.com^
 ||gymshark-polska.com^
@@ -76151,6 +76239,7 @@ watson.*.microsoft.com
 ||hauhws.asgoodasnew.de^
 ||hauixd.halistores.com^
 ||haukrgukep.org^
+||hauledforewordsentimental.com^
 ||haullollipop.com^
 ||haulme.info^
 ||haulmserinys.com^
@@ -76300,6 +76389,7 @@ watson.*.microsoft.com
 ||hbfqcy.com^
 ||hbgfight.com^
 ||hbhood.com^
+||hbhtpuvjpqsmf.com^
 ||hbi-ingest.net^
 ||hbible-verses.app^
 ||hbid.ams3.cdn.digitaloceanspaces.com^
@@ -76696,6 +76786,7 @@ watson.*.microsoft.com
 ||heavengleam.com^
 ||heavenly-landscape.com^
 ||heavenproxy.com^
+||heavently7s1.com^
 ||heavespectaclescoefficient.com^
 ||heavildoss.com^
 ||heavilytransformeven.com^
@@ -77121,6 +77212,7 @@ watson.*.microsoft.com
 ||hewalleges.guru^
 ||hewawkward.com^
 ||hewdisobedienceliveliness.com^
+||heweop.com^
 ||hewhimaulols.com^
 ||hewingssirer.life^
 ||hewiseryoun.com^
@@ -77137,6 +77229,7 @@ watson.*.microsoft.com
 ||hexfolar.xyz^
 ||hexiliell.com^
 ||hexometer.com^
+||hexonesimphees.top^
 ||hexovythi.pro^
 ||hexpresspackagefinder.com^
 ||hexschool.tw^
@@ -77415,6 +77508,7 @@ watson.*.microsoft.com
 ||hidraurest.com^
 ||hidusi.com^
 ||hiedflashed.com^
+||hiedgored.top^
 ||hiemsunsweat.com^
 ||hienbuitamtrangthuanchay.com^
 ||hieramuriel.com^
@@ -79072,6 +79166,7 @@ watson.*.microsoft.com
 ||howfingbrakes.com^
 ||howhow.cl^
 ||howkeddioc.digital^
+||howkpleural.top^
 ||howledmintier.com^
 ||howlerorlando.top^
 ||howlexhaust.com^
@@ -79349,6 +79444,7 @@ watson.*.microsoft.com
 ||hsonicpdfconverter.com^
 ||hsoub.com^
 ||hspbotdetection.azurewebsites.net^
+||hspdiom.cn^
 ||hspeedcheckerplus.com^
 ||hsrc-withus.com^
 ||hsrvv.com^
@@ -79559,6 +79655,7 @@ watson.*.microsoft.com
 ||hubp1-ads-sv2o.dir.eeft.com^
 ||hubp2-ads-sv1o.dir.eeft.com^
 ||hubpd.com^
+||hubrisone.com^
 ||hubristambacs.com^
 ||hubrus.com^
 ||hubsauwha.net^
@@ -79612,6 +79709,7 @@ watson.*.microsoft.com
 ||hui5.net^
 ||huichuan-mc.sm.cn^
 ||huichuan.sm.cn^
+||huigt6y.xyz^
 ||huikkoscustomtileandflooring.com^
 ||huimee.net^
 ||huishenghuiying.com.cn^
@@ -79628,6 +79726,7 @@ watson.*.microsoft.com
 ||hulabipptemux.com^
 ||hulajnet.pl^
 ||hulichuang.mobi^
+||hulledaries.top^
 ||hulohol.xyz^
 ||hulsairtid.com^
 ||hum.librprograms.xyz^
@@ -79760,6 +79859,7 @@ watson.*.microsoft.com
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
 ||huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws.com^
 ||huq.io^
+||huqbeiy.com^
 ||huqiinxy.click^
 ||huqindustries.co.uk^
 ||huqkbq.misterrunning.com^
@@ -79820,6 +79920,7 @@ watson.*.microsoft.com
 ||hustl.net^
 ||husuko.xyz^
 ||huszawnuqad.com^
+||hutajkerfvbman.com^
 ||hutanz.xyz^
 ||hutchieshode.com^
 ||hutkse.wecandoo.fr^
@@ -80137,6 +80238,7 @@ watson.*.microsoft.com
 ||hz9x6ka2t5gka7wa6c0wp0shmkaw7xj5x8vaydg0aqp6gjat5x.com^
 ||hzalwkcjbudom.info^
 ||hzaqkeuxstbpgwc.com^
+||hzcdwgcch.com^
 ||hzdfziaydqawar.com^
 ||hzeetn.natalie.mu^
 ||hzeez.com^
@@ -81161,6 +81263,7 @@ watson.*.microsoft.com
 ||iforestrytools.com^
 ||ifpartyingpile.com^
 ||ifplumhggkz.com^
+||ifqirmnkrlv.com^
 ||ifqtfo.rugsusa.com^
 ||iframable.com^
 ||iframe.lachainemeteo.com^
@@ -82635,6 +82738,7 @@ watson.*.microsoft.com
 ||immmomentum.site^
 ||immobileindustryround.com^
 ||immobilien-spektrum.de^
+||immoderateyielding.com^
 ||immoraldown.com^
 ||immortalhostess.com^
 ||immortalityfaintedobjections.com^
@@ -82756,6 +82860,7 @@ watson.*.microsoft.com
 ||impore.com^
 ||import.globalsources.com^
 ||import43.com^
+||importanceborder.com^
 ||importanceexhibitedamiable.com^
 ||importancysabber.info^
 ||important-notices.com^
@@ -85311,6 +85416,7 @@ watson.*.microsoft.com
 ||intentionallyathwart.com^
 ||intentionsarson.com^
 ||intentionscommunity.com^
+||intentionscurved.com^
 ||intentionsplacingextraordinary.com^
 ||intentiq.com^
 ||intentlybehaved.com^
@@ -87211,6 +87317,7 @@ watson.*.microsoft.com
 ||janexelblag.denisbukowski.warszawa.pl^
 ||janezk.50webs.co^
 ||jangiddywashed.com^
+||jangleachy.com^
 ||jangleccoya.com^
 ||janglecondemn.com^
 ||jangonetwork.com^
@@ -87258,6 +87365,7 @@ watson.*.microsoft.com
 ||japps.cn^
 ||japscat.org^
 ||japtron.es^
+||japw.cloud^
 ||jaqgkyfupna.com^
 ||jaqwtyajwp.com^
 ||jar2.eliaszzych.pl^
@@ -87474,6 +87582,7 @@ watson.*.microsoft.com
 ||jdata.vidmatefilm.org^
 ||jdb8.ktt55.my.id^
 ||jdbavspkhxqw.com^
+||jdbeht.xyz^
 ||jdbfknsbkldns.com^
 ||jdbjhd.saniweb.nl^
 ||jdcnwd.com^
@@ -87911,6 +88020,7 @@ watson.*.microsoft.com
 ||jigglywiggly.com^
 ||jighucme.com^
 ||jignairy.com^
+||jigsawchristianlive.com^
 ||jigsawthirsty.com^
 ||jiguang.cn^
 ||jihehuaban.com.cn^
@@ -89687,6 +89797,7 @@ watson.*.microsoft.com
 ||kalganpuppycensor.com^
 ||kali.mycom.co.jp^
 ||kalibrate.com^
+||kalifthorons.top^
 ||kalindicollege.com^
 ||kalitereklam.com^
 ||kallen.cotiedzn-prog.top^
@@ -89987,6 +90098,7 @@ watson.*.microsoft.com
 ||kbkxqkwpvq.xyz^
 ||kbmcpatd.com^
 ||kbmjhx.s3.us-east-005.backblazeb2.com^
+||kbnmnl.com^
 ||kbntx.ch^
 ||kbomku.xyz^
 ||kbqebfcubeiaa.com^
@@ -90093,6 +90205,7 @@ watson.*.microsoft.com
 ||keap-link020.com^
 ||keapeiros.xyz^
 ||keapgypsite.website^
+||keawmrohgxtl.com^
 ||kebesterum.com^
 ||kebi1.top^
 ||kebohjhh.xyz^
@@ -90217,6 +90330,7 @@ watson.*.microsoft.com
 ||kenomal.com^
 ||kenoscoulee.com^
 ||kensaq.com^
+||kensecuryrentat.info^
 ||kenshoo.com^
 ||kenskitscurt.com^
 ||kentent.streampiay.fun^
@@ -93915,6 +94029,7 @@ watson.*.microsoft.com
 ||levitra.1.p2l.info^
 ||levitra.3.p2l.info^
 ||levitra.4.p2l.info^
+||levityheartinstrument.com^
 ||levityprogramming.com^
 ||levityquestionshandcuff.com^
 ||levulicbenday.digital^
@@ -95330,6 +95445,7 @@ watson.*.microsoft.com
 ||link2.strawberrynet.com^
 ||link2me.ru^
 ||link2offer.co^
+||link2thesafeplayer.click^
 ||link2wash.com^
 ||link4ads.com^
 ||link4win.net^
@@ -95810,6 +95926,7 @@ watson.*.microsoft.com
 ||listwos.saotom.xyz^
 ||lit.valuez.top^
 ||litcensus.com^
+||litdeetar.live^
 ||lite.bz^
 ||lite.lenfls.top^
 ||liteapi.ekatox.com^
@@ -96103,6 +96220,7 @@ watson.*.microsoft.com
 ||lizardlink.biz^
 ||lizardslaugh.com^
 ||lizebruisiaculi.info^
+||lizouhaiwhe.com^
 ||lizzardsnail.com^
 ||lizzieforcepincers.com^
 ||lizziefullrounded.com^
@@ -96285,6 +96403,7 @@ watson.*.microsoft.com
 ||lmaynnkjbbjbb.top^
 ||lmaynnkjbbqrz.top^
 ||lmc.cz^
+||lmdfmd.com^
 ||lmekamrykbbjn.top^
 ||lmekamrykbbky.top^
 ||lmeniu.timberland.com.au^
@@ -96495,6 +96614,7 @@ watson.*.microsoft.com
 ||lobsterbusily.com^
 ||lobsterpopcorn.com^
 ||lobsterredress.com^
+||lobsudsauhiw.xyz^
 ||lobulewithen.guru^
 ||loc.api.nine.com.au^
 ||loc.bskarn.com^
@@ -96507,6 +96627,7 @@ watson.*.microsoft.com
 ||local-analytics.uberinternal.com^
 ||local-bang.com^
 ||local-download.com^
+||local-flirt.com^
 ||local-hot-dates.com^
 ||local-shares.ri.la^
 ||local.hniux.cn^
@@ -96712,6 +96833,7 @@ watson.*.microsoft.com
 ||log-phx.tiktokv.com^
 ||log-player.arte.tv^
 ||log-plo.zadn.vn^
+||log-pq.shopfully.cloud^
 ||log-ru.tiktokv.com^
 ||log-scv.lezhin.com^
 ||log-sdk.gifshow.com^
@@ -98067,6 +98189,7 @@ watson.*.microsoft.com
 ||lpa.idexpertscorp.com^
 ||lpa.idx.us^
 ||lpa.myzen.co.uk^
+||lpair.xyz^
 ||lpaizureik.com^
 ||lpaqjnfmxftqfx.com^
 ||lparket.com^
@@ -98160,6 +98283,7 @@ watson.*.microsoft.com
 ||lqpmulou.com^
 ||lqpzdi.coppel.com^
 ||lqriubyebqo.top^
+||lqsbqjuld.com^
 ||lqsowt.mona-mode.fr^
 ||lqtrk.com^
 ||lqvfkk.sosyopix.com^
@@ -99757,6 +99881,7 @@ watson.*.microsoft.com
 ||maispremium.com.br^
 ||maissaudemulher.com^
 ||maist.jp^
+||maithigloab.net^
 ||maithooh.net^
 ||maiuschaco.com^
 ||maiva.eu^
@@ -99878,6 +100003,7 @@ watson.*.microsoft.com
 ||maledisappointingscholarship.com^
 ||maleextra.com^
 ||maleliteral.com^
+||malelocated.com^
 ||malemiasteczko.click^
 ||malemiastko.click^
 ||maleproblemy.click^
@@ -100065,6 +100191,7 @@ watson.*.microsoft.com
 ||maniacalappliance.com^
 ||maniacpounce.com^
 ||maniasensiblecompound.com^
+||maniatoile.com^
 ||maniconclavis.com^
 ||manicurereprimand.com^
 ||manifefashiona.info^
@@ -102408,6 +102535,7 @@ watson.*.microsoft.com
 ||mazdeansteres.digital^
 ||maze.co^
 ||mazealexandra.com^
+||mazefoam.com^
 ||mazetoad.com^
 ||mazu-hk.3g.qq.com^
 ||mazu.3g.qq.com^
@@ -106409,6 +106537,7 @@ watson.*.microsoft.com
 ||mitegen.com^
 ||mithanconsultants.com^
 ||mito-med.pl^
+||mitosisaralia.top^
 ||mitour.de^
 ||mitowdcagos.com^
 ||mitraglobaltech.net^
@@ -108147,6 +108276,7 @@ watson.*.microsoft.com
 ||moevideo.biz^
 ||moevideo.com^
 ||mofersiser.top^
+||mofettecalmed.com^
 ||mofiebase.com^
 ||mofox.com^
 ||mogenromantik.com^
@@ -110077,6 +110207,7 @@ watson.*.microsoft.com
 ||mvkjeglvbbfvm.xyz^
 ||mvlkvth.cn^
 ||mvlvxzhxjci.com^
+||mvlxxocul.xyz^
 ||mvlyimxovnsw.xyz^
 ||mvmbs.com^
 ||mvng.cn^
@@ -110569,6 +110700,7 @@ watson.*.microsoft.com
 ||myip.la^
 ||myip.myzaker.com^
 ||myiryc.xyz^
+||myjack-potscore.life^
 ||myjapanonlineshop.xyz^
 ||myjaxx-wallet.com^
 ||myjdhmoiiwgise.com^
@@ -111214,6 +111346,7 @@ watson.*.microsoft.com
 ||nalhajarm.cfd^
 ||nalhedgelnhamf.info^
 ||nalimite.papiashvili.top^
+||naliw.xyz^
 ||naloblwidg.com^
 ||nalook.com^
 ||nalozhka.ay.inpost-pl-pacid273jks.abin.shopmuasic.icanmining.ru^
@@ -112106,6 +112239,7 @@ watson.*.microsoft.com
 ||neaclub.fr^
 ||neads.delivery^
 ||neahbutwehavein.info^
+||neandwillha.info^
 ||neapsberne.digital^
 ||near-s.com^
 ||nearby.3g.qq.com^
@@ -112272,6 +112406,7 @@ watson.*.microsoft.com
 ||nelonenmedia-pmd-ads-audio.nm-stream.nelonenmedia.fi^
 ||nelonenmedia-pmd-ads-manual.nm-stream.nelonenmedia.fi^
 ||nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi^
+||nelreerdu.net^
 ||nem0phila000.com^
 ||nemetschek-onmircosoft.com^
 ||nemewagro.com^
@@ -114119,6 +114254,7 @@ watson.*.microsoft.com
 ||nex.163.com^
 ||nex.pltel.site^
 ||nex8.net^
+||nexaapptwp.top^
 ||nexac.com^
 ||nexage.com^
 ||nexajourneys.com^
@@ -114727,6 +114863,7 @@ watson.*.microsoft.com
 ||nitropay.com^
 ||nitroscripts.com^
 ||nitrous-analytics.s3.amazonaws.com^
+||nitrousacuity.top^
 ||nitschkeverlag.de^
 ||nittaleucoma.guru^
 ||niu.retan.top^
@@ -116010,6 +116147,7 @@ watson.*.microsoft.com
 ||nulez.xyz^
 ||nulibam.com^
 ||null-point.com^
+||nullahsembira.top^
 ||nullboatloo.com^
 ||nulldiscussion.com^
 ||nullitics.com^
@@ -116191,6 +116329,7 @@ watson.*.microsoft.com
 ||nwhuomqmuym.com^
 ||nwidget.networkedblogs.com^
 ||nwkhgldkgejw.xyz^
+||nwmnd.com^
 ||nwmol.top^
 ||nwmum.com^
 ||nwpcptmm.xyz^
@@ -117201,6 +117340,7 @@ watson.*.microsoft.com
 ||offergate-apps-publicity.com^
 ||offergate-apps-pubrel.com^
 ||offergate-games-download1.com^
+||offergate-software6.com^
 ||offergate.pro^
 ||offerimage.com^
 ||offerit-track-lb-653047011.us-east-1.elb.amazonaws.com^
@@ -117745,6 +117885,7 @@ watson.*.microsoft.com
 ||okwan.cn^
 ||okwin77.com^
 ||okwkaa.xyz^
+||okxaplomkpca.com^
 ||okxhjbpfxqp.com^
 ||okxqmiagltpe.com^
 ||ol.dundeesmemo.com^
@@ -117998,6 +118139,7 @@ watson.*.microsoft.com
 ||ominateamt.com^
 ||omine.org^
 ||ominousconvenience.com^
+||omissionmexicanengineering.com^
 ||omitbailey.com^
 ||omitcalculategalactic.com^
 ||omitpollenending.com^
@@ -119493,6 +119635,7 @@ watson.*.microsoft.com
 ||orbitscripts.com^
 ||orblikevigonia.com^
 ||orbmatchingenough.com^
+||orbnarb.xyz^
 ||orbsclawand.com^
 ||orbsrv.com^
 ||orbxiul.xyz^
@@ -120271,6 +120414,7 @@ watson.*.microsoft.com
 ||outstandingsnails.com^
 ||outstandingspread.com^
 ||outstandingsubconsciousaudience.com^
+||outstantewq.info^
 ||outster.com^
 ||outstream.cdn.vidyome.com^
 ||outsudoo.net^
@@ -120602,6 +120746,7 @@ watson.*.microsoft.com
 ||oxrqdkfftw.com^
 ||oxrvfsi.xyz^
 ||oxthrilled.com^
+||oxtkmgvmgu.com^
 ||oxtracking.com^
 ||oxtsale1.com^
 ||oxu24.com^
@@ -121465,6 +121610,7 @@ watson.*.microsoft.com
 ||pan.tenire.com^
 ||panagiapivots.com^
 ||panama888.co^
+||panamakeq.info^
 ||panarunachaltambola.com^
 ||panaservers.com^
 ||panattain.com^
@@ -121563,6 +121709,7 @@ watson.*.microsoft.com
 ||panther.thestocks.im^
 ||pantherads.com^
 ||pantiesattemptslant.com^
+||pantomimecattish.com^
 ||pantomimecommitmenttestify.com^
 ||pantomimemistystammer.com^
 ||pantrydivergegene.com^
@@ -123310,6 +123457,7 @@ watson.*.microsoft.com
 ||pg.maftirkolo.com^
 ||pg.mastercard.de.hauptnavigation.mastercard.uebersicht.bereichsgabelseiten.mastercard.limoinuae.com^
 ||pgadmin.dev.duckduckfuck.com^
+||pgaictlq.xyz^
 ||pgalvaoteles.pt^
 ||pgammedia.com^
 ||pgbank.info^
@@ -125456,6 +125604,7 @@ watson.*.microsoft.com
 ||plecki.com^
 ||pledgeexceptionalinsure.com^
 ||pledgeincludingsteer.com^
+||pledgetolerate.com^
 ||pledgezoology.com^
 ||pleisty.com^
 ||plemvad.site^
@@ -125726,6 +125875,7 @@ watson.*.microsoft.com
 ||pmd-vp-aka.canal-plus.com^
 ||pmdnditvte.com^
 ||pmdtixbuvu.sa.com^
+||pmegulnunf.com^
 ||pmelon.com^
 ||pmetorealiukze.xyz^
 ||pmeuehivfps.com^
@@ -126070,6 +126220,7 @@ watson.*.microsoft.com
 ||pokkt.com^
 ||pokkt.fuse-ad.com^
 ||pokojnaswiecie.click^
+||pokomopunkin.top^
 ||pokoran.com^
 ||pokreess.com^
 ||pokrutim.ru^
@@ -126550,6 +126701,7 @@ watson.*.microsoft.com
 ||popupaval.com^
 ||popupblocker-download.com^
 ||popupblockergold.com^
+||popupblockernow.com^
 ||popupchat-live.com^
 ||popupclick.
 ||popupclick.ru^
@@ -126562,6 +126714,7 @@ watson.*.microsoft.com
 ||popupnation.com^
 ||popupplus.ir^
 ||popups.infostart.com^
+||popupsblocker.org^
 ||popuptraf.
 ||popuptraffic.com^
 ||popuzothe.com^
@@ -126801,6 +126954,7 @@ watson.*.microsoft.com
 ||possessedcrackinghart.com^
 ||possessionaddictedflight.com^
 ||possessionregimentunborn.com^
+||possessionsolemn.com^
 ||possessivebucket.com^
 ||possibilities.theajinetwork.com^
 ||possibilityformal.com^
@@ -127186,6 +127340,7 @@ watson.*.microsoft.com
 ||pppbr.com^
 ||pppl.forttuna.site^
 ||ppqiaspwto.sa.com^
+||ppqy.fun^
 ||ppqyrngjwdq.com^
 ||ppro.de^
 ||pprocessor.net^
@@ -127814,6 +127969,7 @@ watson.*.microsoft.com
 ||primecaster.net^
 ||primechoice.ru^
 ||primeconnect.shop^
+||primedirect.net^
 ||primedk.pl^
 ||primedreamsvalley.shop^
 ||primeinfospot.com^
@@ -128159,6 +128315,7 @@ watson.*.microsoft.com
 ||proctoriostatus.apphb.com^
 ||procuratorfontfireplace.com^
 ||procuratorpresumecoal.com^
+||procuratorthoroughlycompere.com^
 ||procuredgleeful.com^
 ||procurement.cipscomms.org^
 ||prod-adservices-prod-alb-lb-213069934.us-west-1.elb.amazonaws.com^
@@ -128783,6 +128940,7 @@ watson.*.microsoft.com
 ||proscholarshub.com^
 ||proschuhen.de.com^
 ||proscontaining.com^
+||prose-nou.com^
 ||prosearchconverter.com^
 ||prosearchconverters.com^
 ||prosecutesamjournal.com^
@@ -129193,6 +129351,7 @@ watson.*.microsoft.com
 ||pseglirgouy.com^
 ||pseidpmubwu.com^
 ||pselubeet.com^
+||psemotion.top^
 ||psensuds.net^
 ||psergete.com^
 ||psestwotothr.cfd^
@@ -129207,6 +129366,7 @@ watson.*.microsoft.com
 ||pshb.me^
 ||pshmetrk.com^
 ||pshnvtkglx.sa.com^
+||pshtop.com^
 ||pshtrk.com^
 ||psi.lbesecapi.com^
 ||psiceheloo.com^
@@ -130875,6 +131035,7 @@ watson.*.microsoft.com
 ||qatsbesagne.com^
 ||qatttuluhog.com^
 ||qauksl.icu^
+||qawbaxcpeku.com^
 ||qawcklos.com^
 ||qawskiqd.telemetry.connect.ap-southeast-1.amazonaws.com^
 ||qawskiqd.telemetry.connect.eu-central-1.amazonaws.com^
@@ -131019,6 +131180,7 @@ watson.*.microsoft.com
 ||qelarouqie.org^
 ||qelllwrite.com^
 ||qelqlunebz.com^
+||qelvaykwazlmz.top^
 ||qemailserver.com^
 ||qemyetwxfcwhtyy.com^
 ||qeoriyhjhkdrmbi.site^
@@ -133115,6 +133277,7 @@ watson.*.microsoft.com
 ||rdrhmxyitc.com^
 ||rdrkt.ru^
 ||rdrm1.click^
+||rdrm2.click^
 ||rdroot.com^
 ||rdrsec.com^
 ||rdrtrk.com^
@@ -133397,6 +133560,7 @@ watson.*.microsoft.com
 ||reasus.com^
 ||reatasfibro.uno^
 ||reate.info^
+||reated-pounteria.com^
 ||reatshasm.com^
 ||reautecryable.life^
 ||reauthenticator.com^
@@ -133697,6 +133861,7 @@ watson.*.microsoft.com
 ||redclick.ru^
 ||redcounter.net^
 ||reddenjerusalem.com^
+||reddenlightly.com^
 ||redderspsiloi.guru^
 ||reddestgramash.com^
 ||reddevilsrugby.co.uk^
@@ -134186,6 +134351,7 @@ watson.*.microsoft.com
 ||rehungrhythm.com^
 ||rehvbghwe.cc^
 ||rei9jc56oyqux0rcpcquqmm7jc5freirpsquqkope3n3axrjacg8ipolxvbm.codes^
+||reicegiraffa.com^
 ||reichelcormier.bid^
 ||reico.actonservice.com^
 ||reidaverdade.net^
@@ -134402,6 +134568,7 @@ watson.*.microsoft.com
 ||reluctanceghastlysquid.com^
 ||reluctanceleatheroptional.com^
 ||reluctantconfuse.com^
+||reluctantlycopper.com^
 ||reluctantlymovements.com^
 ||reluctantlysolve.com^
 ||reluctantyankpairs.com^
@@ -134462,6 +134629,7 @@ watson.*.microsoft.com
 ||remintrex.com^
 ||remintsmuggy.com^
 ||remipedembosk.com^
+||remissigloos.top^
 ||remisspig.com^
 ||remix-deploycompiler.com^
 ||remizowski.aleksanderjakub.pl^
@@ -134613,6 +134781,7 @@ watson.*.microsoft.com
 ||repdata.wzzm13.com^
 ||repdata.yorkdispatch.com^
 ||repdowling.com^
+||repeatedlyitsbrash.com^
 ||repeatloin.com^
 ||repeatresolve.com^
 ||repeatsweater.com^
@@ -135517,6 +135686,7 @@ watson.*.microsoft.com
 ||reyehathick.info^
 ||reykijnoac.com^
 ||reymvmqvkrooj.top^
+||reymvmqvkryoa.top^
 ||reynders.info^
 ||reynoldcotutor.com^
 ||reyormis.site^
@@ -135873,6 +136043,7 @@ watson.*.microsoft.com
 ||rimxqx.slickdeals.net^
 ||rinagym.pl^
 ||rinceaskedase.com^
+||rincipledecli.info^
 ||rinddelusional.com^
 ||ring.hatena.ne.jp^
 ||ring.staticmoly.me^
@@ -136430,6 +136601,7 @@ watson.*.microsoft.com
 ||rollad.ru^
 ||rollads.live^
 ||rollbackhear.com^
+||rollbackpop.com^
 ||rollbar.actonservice.com^
 ||rollbar.com^
 ||rollbaralit.com^
@@ -136684,6 +136856,7 @@ watson.*.microsoft.com
 ||rounddescribe.com^
 ||roundflow.net^
 ||roundlytrabal.cfd^
+||roundpush.com^
 ||roundspaniardindefinitely.com^
 ||roundyearfun.com^
 ||rounidorana.com^
@@ -138900,6 +139073,7 @@ watson.*.microsoft.com
 ||saintmedardfolk.be^
 ||saintselfish.com^
 ||saipeevit.net^
+||saipsoan.net^
 ||saishait.net^
 ||saiticcording.com^
 ||saititee.com^
@@ -139297,6 +139471,7 @@ watson.*.microsoft.com
 ||sanduon.com^
 ||sandwichconscientiousroadside.com^
 ||sandwichdeliveringswine.com^
+||sandysuspicions.com^
 ||sanff.com^
 ||sanfordcessor.space^
 ||sanfrancisco49ers.store^
@@ -139563,6 +139738,7 @@ watson.*.microsoft.com
 ||savoryorange.com^
 ||savorystructure.com^
 ||savourethicalmercury.com^
+||savourmarinercomplex.com^
 ||savouryadolescent.com^
 ||savoyedpollet.life^
 ||savtvkdny.xyz^
@@ -139689,6 +139865,7 @@ watson.*.microsoft.com
 ||sbscribeme.com^
 ||sbscrma.com^
 ||sbseunl.com^
+||sbteafd.com^
 ||sbttlj.togetter.com^
 ||sbux-dl.urbanairship.com^
 ||sbx.pagesjaunes.fr^
@@ -139859,6 +140036,7 @@ watson.*.microsoft.com
 ||scarcecard.com^
 ||scarcelyfebruarydice.com^
 ||scarcemontleymontley.com^
+||scarcerpokomoo.com^
 ||scarcesign.com^
 ||scarcesurprise.com^
 ||scarcinomic.com^
@@ -141027,6 +141205,7 @@ watson.*.microsoft.com
 ||seclore.actonservice.com^
 ||seclore.com^
 ||secludealcoholoverwhelm.com^
+||secludechurch.com^
 ||secmetrics.friendscout24.it^
 ||secmetrics.friendscout24.nl^
 ||secmetrics.leggmason.com^
@@ -141662,6 +141841,7 @@ watson.*.microsoft.com
 ||securybrowseapp.com^
 ||securysearch.com^
 ||securysearchapp.com^
+||sedarimundated.top^
 ||sedatebun.com^
 ||sedatecompulsiveout.com^
 ||sedatenerves.com^
@@ -141978,6 +142158,7 @@ watson.*.microsoft.com
 ||semicircledata.com^
 ||semicolondeterminationfaded.com^
 ||semicolonrichsieve.com^
+||semicolonsmall.com^
 ||semidapt.com^
 ||semifiboolongs.com^
 ||semifinal.top^
@@ -142367,6 +142548,7 @@ watson.*.microsoft.com
 ||serie-vostfr.com^
 ||serienstream.be^
 ||serieslife.online^
+||serifgorry.top^
 ||serious-partners.com^
 ||seriouslygesture.com^
 ||seriouspartner.biz^
@@ -142661,6 +142843,7 @@ watson.*.microsoft.com
 ||setaram.actonservice.com^
 ||setaware.com^
 ||setbeat.com^
+||seteamsobtantion.com^
 ||setgraph.lat^
 ||sethiteblindly.guru^
 ||setidlgzwc.com^
@@ -142937,6 +143120,7 @@ watson.*.microsoft.com
 ||sg.tdatamaster.com^
 ||sg2p.wns.windows.com^
 ||sg3.notarize.com^
+||sgad.site^
 ||sgad.surfsnow.jp^
 ||sgads.molilexue.com^
 ||sgali-mcs.byteoversea.com^
@@ -144950,6 +145134,7 @@ watson.*.microsoft.com
 ||sisulizer.com^
 ||siszzonelzzcy.com^
 ||sit-smetrics.nab.com.au^
+||sitamedal2.online^
 ||site-config.com^
 ||site-kaiseki-tool.com^
 ||site-rank.com^
@@ -145089,6 +145274,7 @@ watson.*.microsoft.com
 ||sizlsearch.net^
 ||sizmdx.com^
 ||sizmek.com^
+||sizqaxmiqa.com^
 ||sizybn.shipsltd.co.jp^
 ||sizzlejs.com^
 ||sj.ijinshan.com^
@@ -145108,6 +145294,7 @@ watson.*.microsoft.com
 ||sjetrk.com^
 ||sjevdjqhdmlelo.com^
 ||sjevsolutions.com^
+||sjgsgy.xyz^
 ||sjh.baidu.com^
 ||sjhfnmfki.com^
 ||sjjaewodpexdcyf.com^
@@ -145634,6 +145821,7 @@ watson.*.microsoft.com
 ||sluicebigheartedpeevish.com^
 ||sluicehamate.com^
 ||slumberloandefine.com^
+||slumdombigot.top^
 ||slumid.com^
 ||slumpyclueing.com^
 ||slushbuiltadvisor.com^
@@ -149489,6 +149677,7 @@ watson.*.microsoft.com
 ||solitudearbitrary.com^
 ||solitudeelection.com^
 ||solitudepeeves.com^
+||sollyaporger.top^
 ||solo.chinese-sex-tube.com^
 ||solocpm.com^
 ||solodar.ru^
@@ -149892,6 +150081,7 @@ watson.*.microsoft.com
 ||sonderwerkzeuge.de^
 ||soneticscorp.actonservice.com^
 ||songbird.fr^
+||songcorrespondence.com^
 ||songsar.com^
 ||songsify.com^
 ||songssmoke.com^
@@ -152193,6 +152383,7 @@ watson.*.microsoft.com
 ||stabam.com^
 ||stabconsiderationjournalist.com^
 ||stabfrizz.com^
+||stabilitydos.com^
 ||stabilityincarnateillegally.com^
 ||stabilityvatinventory.com^
 ||stabledkindler.com^
@@ -155356,6 +155547,7 @@ watson.*.microsoft.com
 ||straffic.io^
 ||straight-equipment.com^
 ||straight-shift.pro^
+||straight-storage.pro^
 ||straightenedsleepyanalysis.com^
 ||straightnest.com^
 ||straightresults.com^
@@ -155375,6 +155567,7 @@ watson.*.microsoft.com
 ||strangersponge.com^
 ||strangersrecantcoral.com^
 ||strangesink.com^
+||strangineer.info^
 ||strangledisposalfox.com^
 ||strapnetdisk.com^
 ||strasznewiesci.rent^
@@ -157380,6 +157573,7 @@ watson.*.microsoft.com
 ||sympathetic-competition.com^
 ||sympatheticclue.com^
 ||sympatheticfling.com^
+||sympathizecopierautobiography.com^
 ||sympathizededicated.com^
 ||sympathizeplumscircumstance.com^
 ||sympathybindinglioness.com^
@@ -158669,6 +158863,7 @@ watson.*.microsoft.com
 ||takemallelectric.com^
 ||takemetherelimo.com^
 ||takemoneysurvey24.top^
+||takemybackup.co^
 ||takemydesk.co^
 ||takemyorder.co^
 ||takeoff-notifications.com^
@@ -158781,6 +158976,7 @@ watson.*.microsoft.com
 ||tampedirenica.com^
 ||tamperlaugh.com^
 ||tampinbecker.com^
+||tampoewretch.top^
 ||tampvhio.com^
 ||tamus.net.anwalt.de^
 ||tan-media.com^
@@ -158867,6 +159063,7 @@ watson.*.microsoft.com
 ||tapeabruptlypajamas.com^
 ||tapefarewelltrembling.com^
 ||tapemathematical.com^
+||tapestrygenus.com^
 ||tapet.bonniernews.se^
 ||tapetalvolva.top^
 ||tapewherever.com^
@@ -158933,6 +159130,7 @@ watson.*.microsoft.com
 ||tarantula.tuxedo.media^
 ||taraponrigodon.guru^
 ||taratakesastand.com^
+||tarblezetas.top^
 ||tardangro.com^
 ||tarebearpaw.top^
 ||tarehzyr.com^
@@ -159194,6 +159392,7 @@ watson.*.microsoft.com
 ||tarpitbar.com^
 ||tarqk5.com^
 ||tarquiniagroup.com^
+||tarresdiptych.top^
 ||tarriesthetine.digital^
 ||tarrilyathenee.com^
 ||tars-file-upload.s3.amazonaws.com^
@@ -160454,6 +160653,7 @@ watson.*.microsoft.com
 ||tersius.axelero.hu^
 ||tert.prossaud.top^
 ||terte9spxzias.appspot.com^
+||tertracks.site^
 ||terttalkinhitin.pro^
 ||terypu.pro^
 ||terytoriummiejskie.click^
@@ -161079,6 +161279,7 @@ watson.*.microsoft.com
 ||theclickads.com^
 ||theclickers.net^
 ||thecoffeeilove.com^
+||thecoinworsttrack.com^
 ||theconcourse.deadspin.com^
 ||thecoolcarclinic.com^
 ||thecoolestmoviesearch.com^
@@ -161600,6 +161801,7 @@ watson.*.microsoft.com
 ||thinktarget.com^
 ||thinktot.com^
 ||thinneddarns.digital^
+||thinnertrout.com^
 ||thinperspectivetales.com^
 ||thinrabbitsrape.com^
 ||thinssence.top^
@@ -161697,6 +161899,7 @@ watson.*.microsoft.com
 ||thoogleeds.com^
 ||thoorest.com^
 ||thoorgins.com^
+||thoorteeboo.xyz^
 ||thooruwee.com^
 ||thoossilt.com^
 ||thootsoumsoa.com^
@@ -163564,6 +163767,7 @@ watson.*.microsoft.com
 ||topnews-24.com^
 ||topnewsfeeds.net^
 ||topnewsfresh.xyz^
+||topnewsgo.com^
 ||topnewsonline.xyz^
 ||topnewspulse.com^
 ||topofblogs.com^
@@ -163625,6 +163829,7 @@ watson.*.microsoft.com
 ||topsort.com^
 ||topspin.npo.nl^
 ||topsportssearch.com^
+||topsrcs.com^
 ||topstat.cn^
 ||topstat.com^
 ||topstat.ru^
@@ -165608,6 +165813,7 @@ watson.*.microsoft.com
 ||tracker.mspy.com^
 ||tracker.mtrtb.com^
 ||tracker.my.com^
+||tracker.myth.dev^
 ||tracker.myyschool.xyz^
 ||tracker.nbcuas.com^
 ||tracker.netklix.com^
@@ -166642,6 +166848,7 @@ watson.*.microsoft.com
 ||trackpush.com^
 ||trackr.vivenu.com^
 ||trackr.webmastr.de^
+||trackr1.co.in^
 ||trackrc.com^
 ||tracks.arubamediamarketing.it^
 ||tracks.foisonad.com^
@@ -166946,6 +167153,7 @@ watson.*.microsoft.com
 ||traffmgnt.com^
 ||traffmgnt.name^
 ||trafforsrv.com^
+||traffoxx.uk^
 ||traffplay.cc^
 ||traffprofit.com^
 ||traffrout.com^
@@ -169126,6 +169334,7 @@ watson.*.microsoft.com
 ||tweezesmalanga.com^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
+||twelvemissionjury.com^
 ||twelvethighpostal.com^
 ||twemarcentral.click^
 ||twemarclick.click^
@@ -169134,6 +169343,7 @@ watson.*.microsoft.com
 ||twentiescampusbarley.com^
 ||twentiesinquiry.com^
 ||twentiethparticipation.com^
+||twentyatonementflowing.com^
 ||twentyaviation.com^
 ||twentycustomimprovement.com^
 ||twentydisappearance.com^
@@ -169375,6 +169585,7 @@ watson.*.microsoft.com
 ||tymahuxv.xyz^
 ||tymd83trk.com^
 ||tymodaakau.live^
+||tyningtufa.top^
 ||tynt.com.cdn.cloudflare.net^
 ||tynt.com^
 ||tyodot.icu^
@@ -169632,6 +169843,7 @@ watson.*.microsoft.com
 ||uavejnys.xyz^
 ||uavelcale.com^
 ||uawefo.guylook.co.kr^
+||uawvmni.com^
 ||uazwqqlt.com^
 ||ub-analytics.com^
 ||ub-xjp.vvbrd.com^
@@ -169909,6 +170121,7 @@ watson.*.microsoft.com
 ||ufouxbwn.com^
 ||ufpcdn.com^
 ||ufpfbjcwdqumph.com^
+||ufphkyw.com^
 ||ufptkylyfa.com^
 ||ufqxgccf.com^
 ||ufqzrk.espritshop.ch^
@@ -169973,6 +170186,7 @@ watson.*.microsoft.com
 ||ugyplysh.com^
 ||ugyyod.com^
 ||ugzbsu.klimaworld.com^
+||uhclatdxsbidyk.com^
 ||uhd.vooresti.top^
 ||uhd5nn09mgml.fort-shop.kiev.ua^
 ||uhdokoq5ocmk.com^
@@ -170444,6 +170658,7 @@ watson.*.microsoft.com
 ||unburstballist.com^
 ||unbuttonfootprintssoftened.com^
 ||unc0ver.vip^
+||uncalmfencer.top^
 ||uncanny.marvel.com^
 ||uncanny.marvelkids.com^
 ||uncannyuneaths.com^
@@ -170549,6 +170764,7 @@ watson.*.microsoft.com
 ||underwilliameliza.com^
 ||undesirableslim.com^
 ||undiesthumb.com^
+||undigneseltzer.top^
 ||undimangen.cfd^
 ||undjsk912is.com^
 ||undm.qibulo.com^
@@ -171157,6 +171373,7 @@ watson.*.microsoft.com
 ||uphillgrandmaanger.com^
 ||uphilo.com^
 ||uphorse.homes^
+||uphorter.com^
 ||uphoveeh.xyz^
 ||upinu.xyz^
 ||upkoffingr.com^
@@ -171347,6 +171564,7 @@ watson.*.microsoft.com
 ||uranaionline-gluck.com^
 ||uranaisalon-gluck.com^
 ||uranianredrove.com^
+||uranicargine.top^
 ||uranismunshore.com^
 ||uranus.jd.com^
 ||uraotome.com^
@@ -172105,6 +172323,7 @@ watson.*.microsoft.com
 ||utcfhh.s3.us-east-005.backblazeb2.com^
 ||utclient.utorrent.com^
 ||utctime.tiltingpoint.io^
+||utecsfi.com^
 ||utensils.pro^
 ||utenti.lycos.it^
 ||utexas.actonservice.com^
@@ -173755,6 +173974,7 @@ watson.*.microsoft.com
 ||viabeldumchan.com^
 ||viableconferfitting.com^
 ||viablegiant.com^
+||viacavalryhepatitis.com^
 ||viacexreal.site^
 ||viacustomer.com^
 ||viad.fr^
@@ -174449,6 +174669,7 @@ watson.*.microsoft.com
 ||viipilo.com^
 ||viiportal.com^
 ||viipour.com^
+||viippugm.com^
 ||viipular.com^
 ||viipura.com^
 ||viipurakan.com^
@@ -174507,6 +174728,7 @@ watson.*.microsoft.com
 ||vilaghelyzete.blogspot.com^
 ||vilagpolgarok.blogspot.hu^
 ||vilagunk.hu^
+||vilddungari.top^
 ||vilefraud.com^
 ||vilelaaccable.com^
 ||vilereasoning.com^
@@ -174801,6 +175023,7 @@ watson.*.microsoft.com
 ||viscountgrater.com^
 ||viscountquality.com^
 ||visenze.com^
+||visfirst.com^
 ||vishalboo.guru^
 ||vishalpatwa.com^
 ||visiads.com^
@@ -175345,7 +175568,6 @@ watson.*.microsoft.com
 ||vnwish.shop^
 ||vnwrlhgvczf.com^
 ||vnzwxk.e-bebek.com^
-||vo.mofettecalmed.com^
 ||voadeezu.net^
 ||voaglazy.com^
 ||voagloupt.net^
@@ -176703,6 +176925,7 @@ watson.*.microsoft.com
 ||war.topprogit.xyz^
 ||warbio.ru^
 ||warbler.resumebuilder.dev^
+||warblyjuggler.top^
 ||ward.koothoomi-directory.com^
 ||wardenscene.life^
 ||wardhunterwaggoner.com^
@@ -177252,6 +177475,7 @@ watson.*.microsoft.com
 ||wearesaudis.net^
 ||wearesilverbullet.com^
 ||wearetopple.com^
+||wearevaporatewhip.com^
 ||wearinessfrozeanoitmentanoitment.com^
 ||wearinggenear.com^
 ||wearishalgins.com^
@@ -178670,6 +178894,7 @@ watson.*.microsoft.com
 ||whereuponcomicsraft.com^
 ||wherevertogo.com^
 ||wherewallpaperlesson.com^
+||wherretafley.top^
 ||wherunee.com^
 ||whestail.com^
 ||whestendurous.top^
@@ -180736,6 +180961,7 @@ watson.*.microsoft.com
 ||wtag.estlier.net^
 ||wtajemniczeni.click^
 ||wtbevents.pricespider.com^
+||wtcmjppejjb.com^
 ||wtcysmm.com^
 ||wtdpkq.tausendkind.de^
 ||wte45fv33phhgvlv2ppii4fe.lifestyleexact.com^
@@ -180950,6 +181176,7 @@ watson.*.microsoft.com
 ||wwa.dateformore.de^
 ||wwa.only-dates.de^
 ||wwads.cn^
+||wwaeljajwvywm.top^
 ||wwahuxzipoc.com^
 ||wwandle.top^
 ||wwaol.com^
@@ -184918,6 +185145,7 @@ watson.*.microsoft.com
 ||xhiit0n.xyz^
 ||xhit.com^
 ||xhivjkfghj.com^
+||xhlphpvgytyq.com^
 ||xhlzokzxoxykxf.com^
 ||xhmnbvn.com^
 ||xhnedvpcml.com^
@@ -186151,6 +186379,7 @@ watson.*.microsoft.com
 ||yabun.club^
 ||yachtcats.net^
 ||yachtingmagazine.fr^
+||yackedtahua.top^
 ||yacurlik.com^
 ||yad1.yad2.co.il^
 ||yada.com^
@@ -186321,6 +186550,7 @@ watson.*.microsoft.com
 ||yclxrj.top^
 ||ycmedia.cn^
 ||ycmgeb.icu^
+||ycnmwykrbv.com^
 ||ycpi-data.xobni.g01.yahoodns.net^
 ||ycpi-prod4cws.xobni.g03.yahoodns.net^
 ||ycqbgm.xyz^
@@ -187164,6 +187394,7 @@ watson.*.microsoft.com
 ||yourtrap.com^
 ||yourtubetvs.site^
 ||yourultimateprotection.com^
+||youruntie.com^
 ||yourvasurvey.info^
 ||yourviralnewz.com^
 ||yourvoice.co.in^
@@ -188729,6 +188960,7 @@ watson.*.microsoft.com
 ||zoachops.com^
 ||zoadoash.net^
 ||zoagfst.com^
+||zoagouwie.com^
 ||zoagreejouph.com^
 ||zoagremo.net^
 ||zoaheeth.com^
