@@ -8835,6 +8835,7 @@ watson.*.microsoft.com
 ||account-terminations.com^
 ||account-verification-id3.appspot.com^
 ||account-verify-case-71f01.firebaseapp.com^
+||account.beauty^
 ||account.com^
 ||account.eupartner.site^
 ||account.marketing-google.com^
@@ -8903,6 +8904,7 @@ watson.*.microsoft.com
 ||acecounter.com^
 ||acecrm.my.salesforce-sites.com^
 ||acedatacenter.com^
+||acedirect.net^
 ||acediscover.com^
 ||acedtousles.com^
 ||aceegtd.com^
@@ -16120,6 +16122,7 @@ watson.*.microsoft.com
 ||adx0a.tnkad.net^
 ||adx0b.tnkad.net^
 ||adx1.com^
+||adx1js.s3.amazonaws.com^
 ||adxadserv.com^
 ||adxadtracker.com^
 ||adxapi.jumei.com^
@@ -21773,6 +21776,7 @@ watson.*.microsoft.com
 ||antlion.hendrikhaack.de^
 ||antlionwaldorf.com^
 ||antmango.baby^
+||antoiew.com^
 ||antoinelamy.com^
 ||antoinettepoisson.fr^
 ||antonio112009.com^
@@ -28120,6 +28124,7 @@ watson.*.microsoft.com
 ||banita.izajasztadych.sklep.pl^
 ||baniyasquibs.space^
 ||banjiru.com^
+||bank.charity^
 ||bank.svb.com^
 ||bank247quocte-westernunion.weebly.com^
 ||bank86.net^
@@ -29207,6 +29212,7 @@ watson.*.microsoft.com
 ||bdnvklavbklabl.com^
 ||bdo.actonservice.com^
 ||bdp.cn^
+||bdpretc.cn^
 ||bdpxghphiwykioy.com^
 ||bdqjqfqyw.xyz^
 ||bdqolehoomnyk.com^
@@ -32527,6 +32533,7 @@ watson.*.microsoft.com
 ||bm.alimama.cn^
 ||bm.annonce.cz^
 ||bm.autotrdpl.xyz^
+||bm.h576.com^
 ||bm.trdplatform.xyz^
 ||bm1717.com^
 ||bm23.com^
@@ -39109,6 +39116,7 @@ watson.*.microsoft.com
 ||champspomskys.com^
 ||chamsockhachang.com^
 ||chamsockhachhangnanghanmuctindungmsb.com^
+||chamsocthekhachhang-thang4.com.vn^
 ||chamsoop.net^
 ||chan.ferreta.xyz^
 ||chance-ad.com^
@@ -41255,6 +41263,7 @@ watson.*.microsoft.com
 ||clicktale.net^
 ||clicktalecdn.sslcs.cdngc.net^
 ||clickterra.net^
+||clickthis.photo^
 ||clickthru.com^
 ||clickthru.lefbc.com^
 ||clickthru.net^
@@ -46381,6 +46390,7 @@ watson.*.microsoft.com
 ||cryo.socialblade.com^
 ||cryonickru.com^
 ||cryorganichash.com^
+||cryp-o.online^
 ||cryp2money.com^
 ||cryptca.com^
 ||cryptimi.com^
@@ -46396,6 +46406,7 @@ watson.*.microsoft.com
 ||crypto-loot.org^
 ||crypto-nation-pro.com^
 ||crypto-nationapp.com^
+||crypto-o.click^
 ||crypto-pool.fr^
 ||crypto-superstar.io^
 ||crypto-trader.cloud^
@@ -47082,6 +47093,7 @@ watson.*.microsoft.com
 ||customer-engagement.verintsystemsinc.com^
 ||customer-feedbacks.web.roku.com^
 ||customer-profile-realtime-serving.optimove.net^
+||customer.autos^
 ||customer.heartinternet.co.uk^
 ||customer.io^
 ||customer.libertycarz.com^
@@ -47097,6 +47109,7 @@ watson.*.microsoft.com
 ||customers-qa-post.com^
 ||customers.fptad.com^
 ||customersucceed.nanophase.com^
+||customersupport.click^
 ||customertransformation.net^
 ||customfingerprints.bablosoft.com^
 ||customfit.ai^
@@ -54123,6 +54136,7 @@ watson.*.microsoft.com
 ||djm080u34wfc5.cloudfront.net^
 ||djmaza.in^
 ||djmwwdrznntss.com^
+||djmwxpsijxxo.xyz^
 ||djnaivalj34ub.cloudfront.net^
 ||djnf6e5yyirys.cloudfront.net^
 ||djo.goodpltrmm.click^
@@ -63456,6 +63470,7 @@ watson.*.microsoft.com
 ||facebook.sdk-api.com^
 ||facebook.sm^
 ||facebook.tw^
+||facebook4288062.blogspot.com^
 ||facebook92288.blogspot.com^
 ||facebookcheckup.weebly.com^
 ||facebookj.fr^
@@ -66878,6 +66893,7 @@ watson.*.microsoft.com
 ||foodyyelf.com^
 ||foogpdywvrswrxl.com^
 ||fooid.xyz^
+||foojeshoops.xyz^
 ||foojimie.net^
 ||foolerybonded.com^
 ||fooligmfhts.site^
@@ -70053,6 +70069,7 @@ watson.*.microsoft.com
 ||gcoin.ximprrove.top^
 ||gcoiys.cutsclothing.com^
 ||gcomfbzrsa.com^
+||gcomwx.icu^
 ||gcon.ximprrove.top^
 ||gconin.ximprrove.top^
 ||gconn.ximprrove.top^
@@ -70769,6 +70786,7 @@ watson.*.microsoft.com
 ||get.spot.so^
 ||get.staging.tellusapp.com^
 ||get.starguide.app^
+||get.stoplocker.com^
 ||get.streambrossearch.com^
 ||get.successpath.ai^
 ||get.switchapp.com^
@@ -76028,6 +76046,7 @@ watson.*.microsoft.com
 ||hao91.com^
 ||hao916.com^
 ||hao934.com^
+||haoelo.com^
 ||haogo.cc^
 ||haohuan.com^
 ||haohuisheng555.cn^
@@ -76665,6 +76684,7 @@ watson.*.microsoft.com
 ||hdxjtl.xyz^
 ||hdy.valuez.top^
 ||hdz.dddplat.top^
+||hdzonline.pro^
 ||he.sirramugget.com^
 ||he2d.com^
 ||he2o9t.com^
@@ -78751,6 +78771,7 @@ watson.*.microsoft.com
 ||hoofexcessively.com^
 ||hoofgleaming.com^
 ||hoofpetdetour.com^
+||hoofsduke.com^
 ||hoogajee.net^
 ||hooglidi.net^
 ||hoojique.xyz^
@@ -79262,6 +79283,7 @@ watson.*.microsoft.com
 ||howtotroll.org^
 ||howtubray.com^
 ||howuku.com^
+||hoxha.nieuwspaal.network^
 ||hoyler.fun^
 ||hoyoufat.store^
 ||hozatr.xyz^
@@ -81910,6 +81932,7 @@ watson.*.microsoft.com
 ||imagecenter.fr^
 ||imagefirstservices.com^
 ||imagehost.pics^
+||imagehub.fun^
 ||imagelx.yidianzixun.com^
 ||imagenes.ubmmexico.com^
 ||imagens.conteudo.algartelecom.com.br^
@@ -82398,8 +82421,10 @@ watson.*.microsoft.com
 ||imageserv.adtech.us^
 ||imageshh.com^
 ||imagesmx.cdscdn.com^
+||imagestash.pics^
 ||imageter.com^
 ||imageup.sakuralive.com^
+||imagevault.cloud^
 ||imagica.brain.ai^
 ||imagiflex.com^
 ||imaginableblushsensor.com^
@@ -96360,6 +96385,7 @@ watson.*.microsoft.com
 ||lkenflknkd.com^
 ||lketpgwauan.com^
 ||lkeurotpmiz.com^
+||lkhfkjp.com^
 ||lkhmkmhlqst.xyz^
 ||lkidke.com^
 ||lkj-lijn.com^
@@ -96774,6 +96800,7 @@ watson.*.microsoft.com
 ||location.api.yuppcdn.net^
 ||location.appcloudbox.net^
 ||location.bloomberg.com^
+||location.cyou^
 ||location.hicloud.com^
 ||location.imsmetals.com^
 ||location.squarespace.com^
@@ -100356,6 +100383,7 @@ watson.*.microsoft.com
 ||maoqxyl.xyz^
 ||maoskk.com^
 ||map-location.support^
+||map-s.online^
 ||map.alpstationcles.com^
 ||map.rockwellautomation.com^
 ||mapachelab.com^
@@ -100416,6 +100444,7 @@ watson.*.microsoft.com
 ||mapsonlinepro.com^
 ||mapspilot.com^
 ||mapsrch-api.net^
+||mapss.icu^
 ||mapsscout.com^
 ||mapsstars.com^
 ||mapstrek.com^
@@ -110846,9 +110875,12 @@ watson.*.microsoft.com
 ||mymahuxv.xyz^
 ||mymailcenter.co^
 ||mymalamutes.eu^
+||mymap.icu^
+||mymap.quest^
 ||mymapdirections1tab.com^
 ||mymapsexpress.com^
 ||mymarketingreports.com^
+||mymassive.pics^
 ||mymedhealthreport.com^
 ||mymedia.club^
 ||mymediaindex.com^
@@ -110926,6 +110958,7 @@ watson.*.microsoft.com
 ||mypdftoolkit.com^
 ||myperfect2give.com^
 ||mypharmaciebox.com^
+||mypicparade.pics^
 ||mypicture.info^
 ||myplaycity.com^
 ||mypocztatracking.com^
@@ -110946,6 +110979,7 @@ watson.*.microsoft.com
 ||myprivacymanager.com^
 ||myprivacyworld.com^
 ||myprivate.pics^
+||myprivate.yachts^
 ||myprivate69.com^
 ||myprivateemails.com^
 ||myprivatephotoalbum.top^
@@ -111889,6 +111923,7 @@ watson.*.microsoft.com
 ||nattepush.com^
 ||nattierariosi.space^
 ||nattybumpercar.com^
+||natuarycomping.com^
 ||naturahirek.com^
 ||naturainmente.com^
 ||naturalhealthsource.club^
@@ -116088,6 +116123,7 @@ watson.*.microsoft.com
 ||nsmetrics.ni.com^
 ||nsmetrics.theaustralian.com.au^
 ||nsmetrics.vogue.com.au^
+||nsmpydfe.net^
 ||nsogroup.com^
 ||nsoimtgmnnbvi.com^
 ||nsomomo.com^
@@ -123987,7 +124023,9 @@ watson.*.microsoft.com
 ||photos.pixlee.co^
 ||photos.pixlee.com^
 ||photos.webcamclub.com^
+||photospace.life^
 ||photovault.pics^
+||photovault.store^
 ||photozoomchina.com^
 ||phougets.com^
 ||phougnothe.com^
@@ -124173,6 +124211,8 @@ watson.*.microsoft.com
 ||picscity.space^
 ||picsfun.online^
 ||picsfun.space^
+||picshare.hair^
+||picshare.mom^
 ||picshost.pics^
 ||picshouse.online^
 ||picsofdream.info^
@@ -124190,6 +124230,7 @@ watson.*.microsoft.com
 ||pictureoutwardaltitude.com^
 ||pictures-album.com^
 ||pictures.zooplus.com^
+||picturestash.mom^
 ||pictureturn.com^
 ||picupeebau.info^
 ||picupfresh.com^
@@ -140475,6 +140516,7 @@ watson.*.microsoft.com
 ||screenshot.best^
 ||screenshotfactory.com^
 ||screenshots.goguardian.com^
+||screensnaps.top^
 ||screwbarrels.net^
 ||scribbens.fr^
 ||scribblemidday.com^
@@ -143607,6 +143649,7 @@ watson.*.microsoft.com
 ||sharethrough.com^
 ||sharethru.com^
 ||sharetrace.com^
+||sharevault.cloud^
 ||shareweeknews.com^
 ||sharewithmenow.us^
 ||sharexy.com^
@@ -157944,6 +157987,7 @@ watson.*.microsoft.com
 ||szemlelo.com^
 ||szerzymypropagande.click^
 ||szfr.fr^
+||szftg.cn^
 ||szgaikk.com^
 ||szhcyxtszb.com^
 ||szhgmd.com^
@@ -175077,6 +175121,7 @@ watson.*.microsoft.com
 ||viperotika.net^
 ||vipfastmoney.com^
 ||vipfbtools.com^
+||vipgogo123.site^
 ||vipgooshop.com^
 ||vipicmou.net^
 ||vipkickz.com^
@@ -186220,6 +186265,7 @@ watson.*.microsoft.com
 ||xtroglobal.com^
 ||xttaff.com^
 ||xttrk.com^
+||xtube.chat^
 ||xtvhkbqmhqu.xyz^
 ||xtvrgxbiteit.xyz^
 ||xtvrtrya.xyz^
