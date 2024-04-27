@@ -1729,6 +1729,7 @@ watson.*.microsoft.com
 ||294586986039842-dot-vws-kaj-rhf.appspot.com^
 ||295a9f642d.com^
 ||295ac1fe33e6afc522dd2fbb82925c8b.janusznatan.pl^
+||295c.site^
 ||2989f3f0ff.com^
 ||29apfjmg2.de^
 ||29b4ce4d9ec6328ad7a1ec66b26b3a58.nmdj.pl^
@@ -34647,6 +34648,7 @@ watson.*.microsoft.com
 ||bsanciv.top^
 ||bsanvietnam.online^
 ||bsbaswq.cn^
+||bsbrcdna.com^
 ||bsc-pancakeswap.pages.dev^
 ||bschuyenkhoamat.biz^
 ||bscitours.com^
@@ -45881,6 +45883,7 @@ watson.*.microsoft.com
 ||crayonreareddreamt.com^
 ||crazinessdecomposemercy.com^
 ||crazinesssnitch.com^
+||crazy-baboon.com^
 ||crazy-lesbien.com^
 ||crazy-win-casino.com^
 ||crazyclickstats.com^
@@ -52589,6 +52592,7 @@ watson.*.microsoft.com
 ||dfs.alekkon.site^
 ||dfs5fy.com^
 ||dfsdkkka.com^
+||dfsgppz.icu^
 ||dfslk.online-cashhh.top^
 ||dfsshop66.com^
 ||dftckxqklqe.xyz^
@@ -54489,7 +54493,6 @@ watson.*.microsoft.com
 ||dmovyttqiu.com^
 ||dmowvblljmkqx.com^
 ||dmp.citiservi.es^
-||dmp.eland-tech.com^
 ||dmp.mall.tv^
 ||dmp.rtbsrv.com^
 ||dmp.sbermarketing.ru^
@@ -59022,6 +59025,7 @@ watson.*.microsoft.com
 ||elaifmeauswvlki.xyz^
 ||elainasblog.xyz^
 ||elaine-asp.de^
+||eland-tech.com^
 ||elapsesoulstakeover.com^
 ||elarbolabc.com^
 ||elas666.pics^
@@ -62368,6 +62372,7 @@ watson.*.microsoft.com
 ||ewikajs.com^
 ||ewioud.com^
 ||ewjanozo.waldemarnikodem.pl^
+||ewjhic.cn^
 ||ewkjfwwld.xyz^
 ||ewlfcpnqlylef.com^
 ||ewmeofmukindwo.com^
@@ -62380,6 +62385,7 @@ watson.*.microsoft.com
 ||ewp.live^
 ||ewpauvfnhfkqux.xyz^
 ||ewpktjvfmet.com^
+||ewpubiimput.com^
 ||ewqkrfjkqz.com^
 ||ewrerew29w09.com^
 ||ewrevenuewasad.info^
@@ -80103,6 +80109,7 @@ watson.*.microsoft.com
 ||hweatherforecaster.com^
 ||hweatherforecasterpro.com^
 ||hweathernation.co^
+||hweriou.top^
 ||hweyin.com^
 ||hwfmynim.com^
 ||hwfnlmmqn.com^
@@ -80357,6 +80364,7 @@ watson.*.microsoft.com
 ||hzsx.com^
 ||hzuheh.palcloset.jp^
 ||hzvcaadn.icu^
+||hzzgnwdsha.com^
 ||i-*.ci360.sas.com^
 ||i-200-b-0-0-5-content-bundles-bench.utorrent.com^
 ||i-74l.pages.dev^
@@ -81240,6 +81248,7 @@ watson.*.microsoft.com
 ||idwystdnvb.com^
 ||idx.m.hub.sandai.net^
 ||idydlesswale.info^
+||idyllicjazz.com^
 ||idynbff.cn^
 ||idywellness.com^
 ||ie-business.vodafone.com^
@@ -87115,6 +87124,7 @@ watson.*.microsoft.com
 ||ixrzwf.decathlon.be^
 ||ixsgoy.getpenta.com^
 ||ixspublic.com^
+||ixstng.cn^
 ||ixtlesamorist.guru^
 ||ixtqrdiwd.com^
 ||ixturevanlack.eu^
@@ -92337,6 +92347,7 @@ watson.*.microsoft.com
 ||ky.5.p2l.info^
 ||ky891.oss-*.aliyuncs.com^
 ||kya.futsikri.top^
+||kyaywy.xyz^
 ||kybdrd.com^
 ||kybzkiw.xyz^
 ||kyccmn.com^
@@ -98912,6 +98923,7 @@ watson.*.microsoft.com
 ||lwghtbqqmbxiet.com^
 ||lwh1.carrefour-banque.fr^
 ||lwhffh.xyz^
+||lwhyihajamafu.com^
 ||lwide.xyz^
 ||lwjdefxsrithve.com^
 ||lwjrudzmzygol.com^
@@ -116342,6 +116354,7 @@ watson.*.microsoft.com
 ||nupdhyzetb.com^
 ||nuphizarrafw.com^
 ||nupjzylhequ.com^
+||nuptoomaugou.net^
 ||nuquds.citizenwatch.com^
 ||nuqwe.com^
 ||nur.gratis^
@@ -116493,6 +116506,7 @@ watson.*.microsoft.com
 ||nwwais.com^
 ||nwway.pages.dev^
 ||nwwrtbbit.com^
+||nwxaxx.xyz^
 ||nwyer.coddes.top^
 ||nwzhmwux-api.findgravy.com^
 ||nx-cdn.nx2wl.com^
@@ -119809,6 +119823,7 @@ watson.*.microsoft.com
 ||orcinolroomthy.com^
 ||orcinsjewish.com^
 ||orcjagpox.com^
+||orclrul.com^
 ||orcomas.maxinvo.xyz^
 ||ordbng.extra.com.br^
 ||ordbzeokdxku.com^
@@ -126614,6 +126629,7 @@ watson.*.microsoft.com
 ||poly.taxility.com^
 ||polyad.net^
 ||polydarth.com^
+||polyfill.io^
 ||polygraphpretenceraw.com^
 ||polyh-nce.com^
 ||polymorphicads.jp^
@@ -128535,6 +128551,7 @@ watson.*.microsoft.com
 ||prod.zenkube.com^
 ||prod01-piwik.firstlook.org^
 ||prodaddkarl.com^
+||prodalet.ru^
 ||prodata.media^
 ||prodege.com^
 ||prodegemr.com^
@@ -136556,6 +136573,7 @@ watson.*.microsoft.com
 ||rnybul.gismeteo.lv^
 ||rnyhid.pepperfry.com^
 ||rnymohjs.telemetry.connect.us-east-1.amazonaws.com^
+||rnzmynh.cn^
 ||ro-go.experian.com^
 ||ro-up.vivoglobal.com^
 ||ro.aiwan4399.com^
@@ -152282,6 +152300,7 @@ watson.*.microsoft.com
 ||ssrart.net^
 ||ssrlot.lotoquebec.com^
 ||ssrud.com^
+||ssrv7.com^
 ||sss.maxiaztr.top^
 ||ssshimachal.org^
 ||sssie.org^
@@ -162968,6 +162987,7 @@ watson.*.microsoft.com
 ||tjavravj.com^
 ||tjbhng.hemington.com.tr^
 ||tjclskcamptg.com^
+||tjegljkugvrr.com^
 ||tjekscores.dk^
 ||tjfbh.icu^
 ||tjfot.com^
@@ -166915,7 +166935,6 @@ watson.*.microsoft.com
 ||tracking.tekoapis.com^
 ||tracking.test.insead.edu^
 ||tracking.theemeraldconference.com^
-||tracking.theoceanac.online^
 ||tracking.thermoinfo.com^
 ||tracking.thetvlair.com^
 ||tracking.thinkabt.com^
@@ -169080,6 +169099,7 @@ watson.*.microsoft.com
 ||ttkhtwqi.com^
 ||ttl9e3r0i.com^
 ||ttlmodels.com^
+||ttlmqhbbkd.com^
 ||ttm.goprogramia.top^
 ||ttmc.actonservice.com^
 ||ttmetrics.faz.net^
@@ -172678,6 +172698,7 @@ watson.*.microsoft.com
 ||utwyyrjdwgmynu.com^
 ||utxmb.cn^
 ||utxokv.emp.co.uk^
+||utygdjcs.xyz^
 ||utyurnh.com^
 ||utzwgittihhvn.com^
 ||uu-charisma.jp^
@@ -173635,6 +173656,7 @@ watson.*.microsoft.com
 ||vbtrax.com^
 ||vbucks.buzz^
 ||vbucks.cloud^
+||vbutycp.cn^
 ||vbv2yctrk.com^
 ||vby.dehhg.xyz^
 ||vbzfjh.xyz^
@@ -178637,6 +178659,7 @@ watson.*.microsoft.com
 ||weestuch.com^
 ||weethery.com^
 ||weevybe.com^
+||weewhunoamo.xyz^
 ||weewowshrinky.com^
 ||wef.startone.top^
 ||wefi.com^
@@ -181205,6 +181228,7 @@ watson.*.microsoft.com
 ||wstepneustalenia.click^
 ||wstepnewyniki.click^
 ||wsttimes.com^
+||wstyruafypihv.xyz^
 ||wsulvmma72p5aekv2g5i3o9o.traveloptione.com^
 ||wsuqzu.armani.com^
 ||wsvirvago.info^
@@ -181384,6 +181408,7 @@ watson.*.microsoft.com
 ||wuseng.net^
 ||wussucko.com^
 ||wustat.windows.com^
+||wutcifjtapa.com^
 ||wutienitme247.info^
 ||wutlar.fortumo.com^
 ||wutseelo.xyz^
@@ -186924,6 +186949,7 @@ watson.*.microsoft.com
 ||yefa.de^
 ||yefktd.avito.ru^
 ||yefzjingxudwib.com^
+||yeggscuvette.com^
 ||yegziyf.cn^
 ||yehyqc.hugoboss.com^
 ||yeiky.com^
@@ -189262,6 +189288,7 @@ watson.*.microsoft.com
 ||zodmovie.com^
 ||zodxgk.lecoqsportif.com^
 ||zoeaegyral.com^
+||zoeaethenar.com^
 ||zoeandjo.co.uk^
 ||zoey-lee.com^
 ||zofassou.com^
@@ -189350,6 +189377,7 @@ watson.*.microsoft.com
 ||zoossoft.cn^
 ||zoossoft.net^
 ||zooz.worldpeoplefx.top^
+||zoozishooh.com^
 ||zopqks.kavehome.com^
 ||zoptouhouniz.com^
 ||zopuqv.icu^
