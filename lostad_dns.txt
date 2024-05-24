@@ -249,7 +249,6 @@ vkcdnservice.appspot.com^
 watson.*.microsoft.com
 |c.blue.*.com^|
 |lgtvsdp.com^
-|mailgun.org^
 |piwik.
 |samsungcloudsolution.com^
 |samsungcloudsolution.net^
@@ -3426,6 +3425,7 @@ watson.*.microsoft.com
 ||75m.jouwauhesurvey.top^
 ||75z.com^
 ||76.digisphere.marketing^
+||7608d5.xyz^
 ||76236osm1.ru^
 ||763a1d063f6449d84e08fe1cc20eb446.vistvx.pl^
 ||76416dc840.com^
@@ -4070,6 +4070,7 @@ watson.*.microsoft.com
 ||975.vn^
 ||975708588114242-dot-rdj-wsv-lsi.appspot.com^
 ||97725.com^
+||977878.xyz^
 ||9786.pandasuite.io^
 ||97927e3b4d.com^
 ||97d73lsi.com^
@@ -35104,6 +35105,7 @@ watson.*.microsoft.com
 ||c93jsk1wm.com^
 ||c94105.24houcryptowatcher.com^
 ||c94830.cetusinvestmentsbtc.com^
+||c950.chronicle.com^
 ||c96.cetusinvestmentsbtc.com^
 ||c977.covidvcfund.com^
 ||c97fe6f55c8b35594bc8c3608d730f93.vistvx.pl^
@@ -35605,6 +35607,7 @@ watson.*.microsoft.com
 ||campus.ad.utdallas.edu^
 ||campusexcessively.com^
 ||campxanh.info^
+||cams.gratis^
 ||cams.imagetwist.com^
 ||cams.imgtaxi.com^
 ||cams.xvideos.com^
@@ -47251,6 +47254,7 @@ watson.*.microsoft.com
 ||d1u9wuqimc88kc.cloudfront.net^
 ||d1uae3ok0byyqw.cloudfront.net^
 ||d1uc64ype5braa.cloudfront.net^
+||d1udjti6mtxz9q.cloudfront.net^
 ||d1ue3yi0hkdsdl.cloudfront.net^
 ||d1ue5xz1lnqk0d.cloudfront.net^
 ||d1ugiptma3cglb.cloudfront.net^
@@ -52673,6 +52677,7 @@ watson.*.microsoft.com
 ||dirtrecurrentinapptitudeinapptitude.com^
 ||dirty-messenger.com^
 ||dirty-tinder.com^
+||dirty.games^
 ||dirtyasmr.com^
 ||dirtydating.com^
 ||dirtyleague.com^
@@ -66049,6 +66054,7 @@ watson.*.microsoft.com
 ||fondsbox.com^
 ||foneclick.com.br^
 ||fonecta.fi^
+||fonfn.com^
 ||fonnishcranked.com^
 ||font-vmg.s3.amazonaws.com^
 ||fontainsuny.club^
@@ -66193,6 +66199,7 @@ watson.*.microsoft.com
 ||forebypageant.com^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
+||forecast.nouvelobs.com^
 ||forecastpalmsixteen.com^
 ||forecasttiger.com^
 ||foreclosurehousesnearme.com^
@@ -86604,6 +86611,8 @@ watson.*.microsoft.com
 ||iwa.iplsc.com^
 ||iwanad.baidu.com^
 ||iwandlo.top^
+||iwanshang*.asia^
+||iwanshang8.asia^
 ||iwanttodeliver.com^
 ||iwantuonly.com^
 ||iwantusingle.com^
@@ -88572,6 +88581,7 @@ watson.*.microsoft.com
 ||jrojascigars.com^
 ||jrolyrlkjyeqw.top^
 ||jrpkizae.com^
+||jrpolj.xyz^
 ||jrqmkrggfwd.xyz^
 ||jrqwfdkksamx.com^
 ||jrrryblqkaejw.top^
@@ -88785,6 +88795,7 @@ watson.*.microsoft.com
 ||jsx.luyouwang.com^
 ||jsxwfb.xyz^
 ||jsyefc.com^
+||jsyliea.top^
 ||jsyrynq.com^
 ||jszavs1.com^
 ||jszctech.com^
@@ -91922,7 +91933,6 @@ watson.*.microsoft.com
 ||kuyun.com^
 ||kuzguncuk.net^
 ||kv-analytics.kiotviet.vn^
-||kv.outheelrelict.com^
 ||kv.patenssabzi.com^
 ||kv.stat.nearme.com.cn^
 ||kvaaa.com^
@@ -109820,6 +109830,7 @@ watson.*.microsoft.com
 ||mt34iofvjay.com^
 ||mt48.net^
 ||mt4v4.com^
+||mt67.net^
 ||mta.bloxg.top^
 ||mta.exacttarget.com^
 ||mtaa.troove.top^
@@ -120630,6 +120641,7 @@ watson.*.microsoft.com
 ||outglowkeysets.guru^
 ||outgoinggiraffe.com^
 ||outgrinuntold.com^
+||outheelrelict.com^
 ||outherunrid.digital^
 ||outhoahi.com^
 ||outhulem.net^
@@ -145984,6 +145996,7 @@ watson.*.microsoft.com
 ||sjs-mst.nl^
 ||sjs-rtm.nl^
 ||sjs.ssdsp.smt.docomo.ne.jp^
+||sjsabb.com^
 ||sjshop.biz^
 ||sjsmartcontent.org^
 ||sjtactic.com^
@@ -154268,6 +154281,7 @@ watson.*.microsoft.com
 ||statistx.com^
 ||statman.sesong.info^
 ||statok.net^
+||statorkumyk.com^
 ||statossy.com^
 ||statowl.com^
 ||statpipe.ru^
@@ -166773,6 +166787,7 @@ watson.*.microsoft.com
 ||tracking.averydennison.com^
 ||tracking.avestatidning.com^
 ||tracking.avladies.de^
+||tracking.b-cdn.net^
 ||tracking.bababam.com^
 ||tracking.babytree.com^
 ||tracking.badeladies.de^
@@ -167296,6 +167311,7 @@ watson.*.microsoft.com
 ||tracking.prd.mz.internal.unity3d.com^
 ||tracking.precollege.wisc.edu^
 ||tracking.premierflows.com^
+||tracking.prepr.io^
 ||tracking.prismpartner.smt.docomo.ne.jp^
 ||tracking.prmtracking2.com^
 ||tracking.prophet.com^
@@ -170890,6 +170906,7 @@ watson.*.microsoft.com
 ||udfwwbkxremv.xyz^
 ||udgpjfdzxrvecn.com^
 ||udgrbq.malwarebytes.com^
+||udheansv.com^
 ||udiab1.jianshu.com^
 ||udinugoo.com^
 ||udjdpyrt.xyz^
@@ -176604,6 +176621,7 @@ watson.*.microsoft.com
 ||volumedpageboy.com^
 ||volument.com^
 ||voluminoussoup.pro^
+||volumntime.com^
 ||volumtrk1.com^
 ||voluntarilylease.com^
 ||voluntarilystink.com^
@@ -180327,7 +180345,6 @@ watson.*.microsoft.com
 ||widgets.oddschecker.com^
 ||widgets.openli.com^
 ||widgets.opinary.com^
-||widgets.pinterest.com^
 ||widgets.planeta.ru^
 ||widgets.progrids.com^
 ||widgets.rankw.ru^
@@ -181703,6 +181720,7 @@ watson.*.microsoft.com
 ||wptraffic.xyz^
 ||wpttoeie9n8ih46vig9ru15u.trustsshow.com^
 ||wpu.sh^
+||wpuiuwh.icu^
 ||wpunativesh.com^
 ||wpunkt.newsweek.pl^
 ||wpush.org^
@@ -181891,6 +181909,7 @@ watson.*.microsoft.com
 ||wsapi.master.live^
 ||wsas.newchhance.top^
 ||wsbnk.com^
+||wscewc.xyz^
 ||wsdcq7wayud.com^
 ||wsdfame.com^
 ||wsds.cn^
@@ -187866,6 +187885,7 @@ watson.*.microsoft.com
 ||ygeqiky.com^
 ||ygfgzmzo.xyz^
 ||ygfyjmkxcxok.com^
+||ygh5.cn^
 ||ygkfjbgyqszdbr.com^
 ||ygkwjd.xyz^
 ||yglsearch.com^
