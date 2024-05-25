@@ -2147,6 +2147,7 @@ watson.*.microsoft.com
 ||367207f60c.com^
 ||3678a670.32ed7da54b02496ca207077e.workers.dev^
 ||3692022.com^
+||369bgrec.top^
 ||36a239a7f684b93c97fa06735d213801.marcoprzy.net.pl^
 ||36b7ca5028.com^
 ||36c4.net^
@@ -18751,6 +18752,7 @@ watson.*.microsoft.com
 ||analytics.core.ai^
 ||analytics.core.doutorfinancas.pt^
 ||analytics.corusent.com^
+||analytics.cosmonova.net^
 ||analytics.crazygames.com^
 ||analytics.crea.ca^
 ||analytics.credible.com.cdn.cloudflare.net^
@@ -27849,6 +27851,7 @@ watson.*.microsoft.com
 ||bc777.com^
 ||bc84617c73.com^
 ||bc86mdtrk.com^
+||bc98ad.xyz^
 ||bcac29bc1b7fbda29af7fca848a880b4.elusia.pl^
 ||bcae944449.com^
 ||bcajjtbzmdrl.com^
@@ -28741,6 +28744,7 @@ watson.*.microsoft.com
 ||belstat.fr^
 ||belstat.nl^
 ||beltarklate.live^
+||beltwaythrust.com^
 ||beludicolor.com^
 ||belwrite.com^
 ||bemachopor.com^
@@ -46900,6 +46904,7 @@ watson.*.microsoft.com
 ||d11zevc9a5598r.cloudfront.net^
 ||d1225795gabrip.cloudfront.net^
 ||d126kahie2ogx0.cloudfront.net^
+||d127s3e8wcl3q6.cloudfront.net^
 ||d12czbu0tltgqq.cloudfront.net^
 ||d12dky1jzngacn.cloudfront.net^
 ||d12nvv2jqzsaax.cloudfront.net^
@@ -65226,6 +65231,7 @@ watson.*.microsoft.com
 ||fkivwukm.com^
 ||fkjsjwbs.xyz^
 ||fkjzz.myshopify.com^
+||fklgndklbngg.com^
 ||fkllodaa.com^
 ||fkmdky.lifehacker.ru^
 ||fkodq.com^
@@ -67861,7 +67867,6 @@ watson.*.microsoft.com
 ||funbox.com^
 ||func-api-telemetry-prod.azurewebsites.net^
 ||funcats.info^
-||functionalclam.com^
 ||functionalcover.com^
 ||functionalcrown.com^
 ||functionalfeather.com^
@@ -80717,6 +80722,7 @@ watson.*.microsoft.com
 ||ie3wisa4.com^
 ||ie8eamus.com^
 ||ieamsbpzu.com^
+||ieapak.xyz^
 ||iebsmqevw.com^
 ||iedalo.fr^
 ||iedprivatedqu.com^
@@ -82768,6 +82774,7 @@ watson.*.microsoft.com
 ||inbornsodcharms.com^
 ||inbound-analytics.pixlee.co^
 ||inbound-analytics.pixlee.com^
+||inbound-step.heavenmedia.com^
 ||inboundwriter.com^
 ||inbowedkittled.top^
 ||inbowedtroak.top^
@@ -86983,6 +86990,7 @@ watson.*.microsoft.com
 ||jaksesah.net^
 ||jakspontanicznoscmoze.click^
 ||jakwartosctaki.boats^
+||jalapamaro.com^
 ||jalbcmc.click^
 ||jaletemetia.com^
 ||jalewaads.com^
@@ -89253,6 +89261,7 @@ watson.*.microsoft.com
 ||jxpjlb.xyz^
 ||jxpjltwdeu.com^
 ||jxpvstsb.com^
+||jxqdl.cn^
 ||jxsmzz.mytrauringstore.de^
 ||jxtejf.xyz^
 ||jxuhurp.icu^
@@ -92291,6 +92300,7 @@ watson.*.microsoft.com
 ||l790.bcgreportal.com^
 ||l7codex.com^
 ||l7ghj.xyz^
+||l7u3kf.cn^
 ||l80ays.com^
 ||l87.vooresti.top^
 ||l91.2jgc.lat^
@@ -97024,6 +97034,7 @@ watson.*.microsoft.com
 ||log.tinxe.vn^
 ||log.tmtreader.com^
 ||log.tokopedia.net^
+||log.tossinvest.com^
 ||log.tpns.gz2.tencent.com^
 ||log.travel.co.jp^
 ||log.tresorit.com^
@@ -98905,6 +98916,7 @@ watson.*.microsoft.com
 ||lyzvbjmeybyqj.top^
 ||lz-pub-ads.com^
 ||lz8trk.com^
+||lzbgeg.com^
 ||lzcwbt.schuhcenter.de^
 ||lzd2024.com^
 ||lzeld.com^
@@ -110062,6 +110074,7 @@ watson.*.microsoft.com
 ||mujweb.cz^
 ||mukhtarproving.com^
 ||mulato.info^
+||mulaukso.com^
 ||mulberryay.com^
 ||mulberrydoubloons.com^
 ||mulberryresistoverwork.com^
@@ -119318,6 +119331,7 @@ watson.*.microsoft.com
 ||opdowvamjv.com^
 ||ope.tanx.com^
 ||opeanresultanc.com^
+||opeanresultancete.info^
 ||opecloud.com^
 ||opefaq.com^
 ||opehs.tanx.com^
@@ -120743,6 +120757,7 @@ watson.*.microsoft.com
 ||ouvrestance.com^
 ||ouvyil.com^
 ||ouwezastavitiskola.com^
+||ouwhejoacie.xyz^
 ||ouxorausa.com^
 ||ouxvgihpkjfkhs.xyz^
 ||ouyaoxiazai.com^
@@ -122042,6 +122057,7 @@ watson.*.microsoft.com
 ||pannamsaluter.com^
 ||pannumregnal.com^
 ||panoniashop.com^
+||panorama.wixapps.net^
 ||panoramicbutter.com^
 ||panoramicplane.com^
 ||panoz.xyz^
@@ -124526,6 +124542,7 @@ watson.*.microsoft.com
 ||piko25.eliaszpluta.pl^
 ||pikrumsi.net^
 ||piksel.com^
+||piksrie.icu^
 ||piksyon.com^
 ||pikzor.com^
 ||pilaff-up.ru^
@@ -133758,6 +133775,7 @@ watson.*.microsoft.com
 ||rbqlbolklrvmk.top^
 ||rbrbr88p.cn^
 ||rbrightscarletcl.info^
+||rbrmhz.xyz^
 ||rbrvifibj.com^
 ||rbrxg.com^
 ||rbshopgreece.com^
@@ -153478,6 +153496,7 @@ watson.*.microsoft.com
 ||starterblackened.com^
 ||startface.net^
 ||startfenster.de^
+||startfinishthis.com^
 ||startfuarcilik.com^
 ||starti.pl^
 ||startielts.com^
@@ -161623,6 +161642,7 @@ watson.*.microsoft.com
 ||teslx.gelopro.com^
 ||tesmes.gelopro.com^
 ||tesmes.tradfls.top^
+||tesousefulhead.info^
 ||tesrt.tradfls.top^
 ||tess.carted.xyz^
 ||tessaraincuses.top^
@@ -170693,6 +170713,7 @@ watson.*.microsoft.com
 ||uadf.gov.sl^
 ||uads.cc^
 ||uads.digital^
+||uads.guru^
 ||uads.info^
 ||uads.pw^
 ||uads.space^
@@ -171304,6 +171325,7 @@ watson.*.microsoft.com
 ||ulmoyc.com^
 ||ulmpyqgfqkffe.com^
 ||ulmujev.com^
+||ulnaswotter.top^
 ||ulngjwvbhyyfkum.com^
 ||ulnhlnsw.com^
 ||ulnidkdlaxclpo.com^
@@ -172422,6 +172444,7 @@ watson.*.microsoft.com
 ||upsocial-media.com^
 ||upsolrocka.com^
 ||upspaketexpress.com^
+||upspewsafener.com^
 ||upspinarakor.com^
 ||upsre.us^
 ||upsservices-custom.net^
@@ -172994,6 +173017,7 @@ watson.*.microsoft.com
 ||uslsxe.com^
 ||usltmus.cn^
 ||usmetric.rediff.com^
+||usmgoxe.cn^
 ||usmiech-losu.xyz^
 ||usmilitarylawyer.com^
 ||usn.cc^
@@ -179215,7 +179239,6 @@ watson.*.microsoft.com
 ||webtrends.com^
 ||webtrends.de^
 ||webtrends.org^
-||webtrends.telegraph.co.uk^
 ||webtrends.thegeneral.com^
 ||webtrends.thisis.co.uk^
 ||webtrends1.britishgas.co.uk^
@@ -181761,6 +181784,7 @@ watson.*.microsoft.com
 ||wqweiog.xyz^
 ||wqytxm.kurly.com^
 ||wqzjfsmudvpct.com^
+||wqzmed.cn^
 ||wqzqoobqpubx.com^
 ||wqzyxxrrep.com^
 ||wr.rugosehoarish.com^
