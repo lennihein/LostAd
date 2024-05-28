@@ -93,7 +93,6 @@
 @@||api.docodoco.jp^|
 @@||api.karte.io^|
 @@||app-advertise.zhihuishu.com^
-@@||app-cdn.minepi.com^|
 @@||app.adjust.com^|
 @@||app.appsflyer.com^|
 @@||artifactory.appodeal.com^|
@@ -3086,6 +3085,7 @@ watson.*.microsoft.com
 ||600zi.com^
 ||6037-aktualizacja-zaakceptowac.gabkaj.co.pl^
 ||604038173920868-dot-auth-sys-67322.appspot.com^
+||605efe.xyz^
 ||6061de8597.com^
 ||6068372.huckleberry-labs.com^
 ||6068a17eed25.com^
@@ -3788,6 +3788,7 @@ watson.*.microsoft.com
 ||8822-zaloguj-organizowac.gabkaj.co.pl^
 ||88225233827.com^
 ||882edfbc.kortfilmfestivalen.no^
+||884de19f2b.com^
 ||885510427497582-dot-jbo-egx-ale.appspot.com^
 ||8855ec0e.kortfilmfestivalen.no^
 ||8855uh.com^
@@ -7061,6 +7062,7 @@ watson.*.microsoft.com
 ||abtyroguer.com^
 ||abuaac.suzette-shop.jp^
 ||abuajs.e-monsite.com^
+||abucki.xyz^
 ||abukss.com^
 ||abuleiasafflow.com^
 ||abuliasbubber.com^
@@ -19417,6 +19419,7 @@ watson.*.microsoft.com
 ||analytics.quantumworkplace.com^
 ||analytics.query.yahoo.com^
 ||analytics.qumucloud.com^
+||analytics.qushad.com^
 ||analytics.ramiyer.io^
 ||analytics.rapha.cc^
 ||analytics.rapidvisa.com^
@@ -24950,6 +24953,7 @@ watson.*.microsoft.com
 ||augustjadespun.com^
 ||auii3n.vercel.app^
 ||auirbnb.fr^
+||auisaoa.top^
 ||aujooxoo.com^
 ||aukalerim.com^
 ||aukana.jp^
@@ -30079,6 +30083,7 @@ watson.*.microsoft.com
 ||binet211.com^
 ||bineukdwithmef.info^
 ||binfileoffer.com^
+||bing001.shop^
 ||bingads.com^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
@@ -44535,6 +44540,7 @@ watson.*.microsoft.com
 ||coysjayesh.com^
 ||coysotown.com^
 ||coyward.com^
+||cozeswracks.com^
 ||cozibaneco.com^
 ||cozinyequy.live^
 ||cozmoinfo.com^
@@ -52788,6 +52794,7 @@ watson.*.microsoft.com
 ||disco-flipclock.netlify.app^
 ||discodjxkqya.com^
 ||discofoxfiles.com^
+||discomantles.com^
 ||discomforttruant.com^
 ||disconnectedponder.com^
 ||disconnectthirstyron.com^
@@ -63509,6 +63516,7 @@ watson.*.microsoft.com
 ||fbexternal-a.akamaihd.net^
 ||fbexternal-a.press^
 ||fbexternal-a.pw^
+||fbfec2.xyz^
 ||fbffdfproxwqi.com^
 ||fbfrbt.xyz^
 ||fbgajrlmjiotb.com^
@@ -65807,6 +65815,7 @@ watson.*.microsoft.com
 ||flwapp.com^
 ||flwto.biz^
 ||flx1.com^
+||flx2.pnl.agency^
 ||flxpxl.com^
 ||fly-ads.net^
 ||fly-analytics.com^
@@ -66787,6 +66796,7 @@ watson.*.microsoft.com
 ||fpctraffic2.com^
 ||fpctraffic3.com^
 ||fpdbccngiujp.com^
+||fpelfyeesuoivy.com^
 ||fpg.careprofit.xyz^
 ||fpgedsewst.com^
 ||fpghll.rossmann.hu^
@@ -84224,6 +84234,7 @@ watson.*.microsoft.com
 ||inkfgnf.cc^
 ||inkingleran.com^
 ||inklestutted.com^
+||inklikesearce.com^
 ||inklineglobal.com^
 ||inklinkor.com^
 ||inkoleasing.ru^
@@ -93814,6 +93825,7 @@ watson.*.microsoft.com
 ||leriqiihoo.live^
 ||lerloy.com^
 ||leroj.elitegol.tv^
+||leroonge.xyz^
 ||leros.blogoonline.top^
 ||leroymerln.fr^
 ||leroymrlin.fr^
@@ -115243,6 +115255,7 @@ watson.*.microsoft.com
 ||nltzqx.autodoc.co.uk^
 ||nlvgxr.xyz^
 ||nlvnht.miror.jp^
+||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
 ||nlyxqpeo.com^
 ||nlzxclfg.com^
@@ -125870,6 +125883,7 @@ watson.*.microsoft.com
 ||plausible.retune.de^
 ||plausible.safing.io^
 ||plausible.sbw.org^
+||plausible.scimago.es^
 ||plausible.server.hakai.app^
 ||plausible.shadygrovepca.org^
 ||plausible.simplelogin.io^
@@ -158305,6 +158319,7 @@ watson.*.microsoft.com
 ||swindlelaceratetorch.com^
 ||swindlerabblesunshine.com^
 ||swinegraveyardlegendary.com^
+||swinehalurgy.com^
 ||swinesuburbanclue.com^
 ||swing-zone.com^
 ||swingamazeinterface.com^
@@ -165619,6 +165634,7 @@ watson.*.microsoft.com
 ||tr.marketing.younited-credit.es^
 ||tr.marketingdisruption.co.uk^
 ||tr.marsflag.com^
+||tr.mediafin.be^
 ||tr.melhores-propostas.pt^
 ||tr.membres.boursorama.info^
 ||tr.mep.enkiapp.io^
@@ -173077,6 +173093,7 @@ watson.*.microsoft.com
 ||usisedprivatedqu.com^
 ||usivbt.qoo10.com^
 ||usjbwvtqwv.com^
+||uskecsx.icu^
 ||uskoie.xyz^
 ||uslbaht.top^
 ||uslimsofbr.cfd^
@@ -182075,6 +182092,7 @@ watson.*.microsoft.com
 ||wsws1234.net^
 ||wswsnews.net^
 ||wsyfsg.xyz^
+||wsyliee.top^
 ||wsytyz.tts.ru^
 ||wszelkienewsy.homes^
 ||wszwgs.cocopanda.fi^
@@ -189896,6 +189914,7 @@ watson.*.microsoft.com
 ||zhalinylqq.com^
 ||zhameharden.com^
 ||zhaner.xyz^
+||zhangqifeng12.top^
 ||zhangyuting04.cn^
 ||zhannei-dm.csdn.net^
 ||zhantai.com^
@@ -190030,6 +190049,7 @@ watson.*.microsoft.com
 ||zinipx.xyz^
 ||zinodo.today^
 ||zinovila.com^
+||zinovu.com^
 ||zinrora.pw^
 ||zinseritatum.com^
 ||zinspilot.de^
