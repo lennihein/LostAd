@@ -964,6 +964,7 @@ watson.*.microsoft.com
 ||15cccabe.kortfilmfestivalen.no^
 ||15d113e19a.com^
 ||15gifts.com^
+||15huhu.cn^
 ||15m.uteefaud.top^
 ||15tianqi.com^
 ||16-merchant-s.com^
@@ -14865,6 +14866,7 @@ watson.*.microsoft.com
 ||ae4bdf87.kortfilmfestivalen.no^
 ||ae888vip.com^
 ||aeaeii.com^
+||aeaw.cn^
 ||aeb92e4b9d.com^
 ||aebarros.com^
 ||aebvay.mesinspirationsculinaires.com^
@@ -23349,6 +23351,7 @@ watson.*.microsoft.com
 ||arkmedboo.live^
 ||arktonightinept.com^
 ||arkunexpectedtrousers.com^
+||arleavannya.com^
 ||arlento.pl^
 ||arleta.maximilianjerzy.pl^
 ||arlettta.jagodaokon.pl^
@@ -26173,6 +26176,7 @@ watson.*.microsoft.com
 ||b0a0bb3621.com^
 ||b0d2583d75.com^
 ||b0e8.com^
+||b0eb63.xyz^
 ||b0f1d2.com^
 ||b0nf1rebl1ss.xyz^
 ||b0oie4xjeb4ite.com^
@@ -33532,6 +33536,7 @@ watson.*.microsoft.com
 ||bs.yandex.ru^
 ||bs50tds.com^
 ||bsanciv.top^
+||bsantycbjnf.com^
 ||bsanvietnam.online^
 ||bsbaswq.cn^
 ||bsbrcdna.com^
@@ -33645,6 +33650,7 @@ watson.*.microsoft.com
 ||btienlv.top^
 ||btilxdpcco.com^
 ||btjbppltrdpyjsj.com^
+||btkwlsfvc.com^
 ||btloader.com^
 ||btmean.cardosystems.com^
 ||btmessage.com^
@@ -37531,9 +37537,11 @@ watson.*.microsoft.com
 ||ce.paliercleaned.com^
 ||ce.tutorel.top^
 ||ce.wlaoc.cn^
+||ce.x-opt.io^
 ||ce0effbbc1502e422a148e5784befd4f.janusznatan.pl^
 ||ce0oil1ibu.com^
 ||ce2c208e9f.com^
+||ce357c.xyz^
 ||ce4cb3ae.kortfilmfestivalen.no^
 ||ce5.jouwauhesurvey.top^
 ||ce8068df.bastionplus.pl^
@@ -43551,6 +43559,7 @@ watson.*.microsoft.com
 ||cooclk.papiashvili.top^
 ||cooeyeddarbs.com^
 ||coofumberty.digital^
+||coogauwoupto.com^
 ||coogoocy.com^
 ||coogumak.com^
 ||cooguo.com^
@@ -79284,6 +79293,7 @@ watson.*.microsoft.com
 ||huefvywc.com^
 ||huehinge.com^
 ||huellenhagen.giradns.com^
+||hufaztjist.com^
 ||huffingtopost.fr^
 ||huffson-delivery.com^
 ||huffsongpp.site^
@@ -87862,6 +87872,7 @@ watson.*.microsoft.com
 ||jinx.skullctf.com^
 ||jinxingquiff.com^
 ||jinxrussian.com^
+||jinzige.cn^
 ||jio.ouphoawe.top^
 ||jioads.akamaized.net^
 ||jioed.cyou^
@@ -92552,6 +92563,7 @@ watson.*.microsoft.com
 ||lajna.fr^
 ||lajouly.com^
 ||lake.joongang.co.kr^
+||lake.studydrive.net^
 ||lakequincy.com^
 ||lakeroteamnwl.com^
 ||lakerspreferences.gleague.nba.com^
@@ -97695,6 +97707,7 @@ watson.*.microsoft.com
 ||looksmiles.com^
 ||looksthrilled.com^
 ||lookszone.ru^
+||looktotheright.com^
 ||lookujie.net^
 ||lookup-domain.com^
 ||lookup.api.bsb.baidu.com^
@@ -107965,6 +107978,7 @@ watson.*.microsoft.com
 ||mni20trk.com^
 ||mniejszoscspoleczna.click^
 ||mnifdlax.top^
+||mninoq.xyz^
 ||mnjhrleahonkq.com^
 ||mnjmhp.biz^
 ||mnjxvtknnlai.com^
@@ -109561,6 +109575,7 @@ watson.*.microsoft.com
 ||mpzwsvueph.com^
 ||mq-support.pages.mus.br^
 ||mqabjtgli.xyz^
+||mqaoweu.icu^
 ||mqaqtwkbwcqty.xyz^
 ||mqcjqjhy.com^
 ||mqcoycx.icu^
@@ -115184,6 +115199,7 @@ watson.*.microsoft.com
 ||nkbpft.xyz^
 ||nkbpmxdubcd.com^
 ||nkcsycwf.com^
+||nkdgnsfsk.com^
 ||nkeajzkzuow.com^
 ||nkewdzp.com^
 ||nkezkyvmyr.com^
@@ -134848,6 +134864,7 @@ watson.*.microsoft.com
 ||refinance.shengen.ru^
 ||refinedads.com^
 ||refineminx.top^
+||refinerfiery.com^
 ||reflectingscoopcourse.com^
 ||reflection-network.eu^
 ||reflectionseldomnorth.com^
@@ -141276,6 +141293,7 @@ watson.*.microsoft.com
 ||sdiapi.com^
 ||sdjbcjsbdjk.com^
 ||sdjbvjsbvjz.com^
+||sdjbvskjvds.com^
 ||sdjkbcjksbdsvv.com^
 ||sdjkfn2iu3.com^
 ||sdjqhxmg.com^
@@ -188815,6 +188833,7 @@ watson.*.microsoft.com
 ||ysemblyjusting.info^
 ||ysesials.net^
 ||ysfrniylhh.com^
+||yshhfig.com^
 ||yshlor.icu^
 ||yskanba.com^
 ||yskvdo.gebrauchtwagen.at^
@@ -190783,6 +190802,7 @@ watson.*.microsoft.com
 ||zxqrdm.vinomofo.com^
 ||zxr9gpxf7j.com^
 ||zxrcfw.com^
+||zxrfzxb.com^
 ||zxrnfc.drinco.jp^
 ||zxrrop.musely.com^
 ||zxrtb.com^
