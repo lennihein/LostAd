@@ -224,6 +224,7 @@
 @@||torimochi.line-apps.com^|
 @@||tr.rdrtr.com^|
 @@||track.rutarget.ru^|
+@@||track.webgains.com^|
 @@||validate.perfdrive.com^|
 @@||vcentry3.valuecommerce.ne.jp^|
 @@||video-stats.I.google.com
@@ -19951,6 +19952,7 @@ watson.*.microsoft.com
 ||anconespulpier.top^
 ||ancorc.com^
 ||ancree.fr^
+||ancxeftgyu.top^
 ||ancznewozw.com^
 ||and-ads.pulse.weatherbug.net^
 ||and.co.uk^
@@ -27903,6 +27905,7 @@ watson.*.microsoft.com
 ||bd4adftrk.com^
 ||bd4jn7dk9u.com^
 ||bd4travel.com^
+||bd5a57.xyz^
 ||bd742.com^
 ||bd87a37d53da7e0c8f34bbff47ff270e.riplso.pl^
 ||bd888.qizuang.com^
@@ -29979,6 +29982,7 @@ watson.*.microsoft.com
 ||bing001.shop^
 ||bing003.shop^
 ||bing005.shop^
+||binga01.shop^
 ||bingads.com^
 ||bingads.microsoft.com^
 ||bingdianhuanyuan.cn^
@@ -33760,6 +33764,7 @@ watson.*.microsoft.com
 ||bugits.com^
 ||bugjyl.jkattire.co.uk^
 ||bugleczmoidgxo.com^
+||buglesembarge.top^
 ||buglick.com^
 ||buglife.com^
 ||buglister.sakura.ne.jp^
@@ -36453,6 +36458,7 @@ watson.*.microsoft.com
 ||cbcdn.bankofscotland.co.uk^
 ||cbcdn.lloydsbank.com^
 ||cbcdnkyyxubdsrmg.com^
+||cbcgqs.xyz^
 ||cbcnvbkjfhgfj324hjhjetrjhkt454.pw^
 ||cbcvou.xyz^
 ||cbd-bud.com^
@@ -43329,7 +43335,6 @@ watson.*.microsoft.com
 ||convertflow.co^
 ||convertful.com^
 ||convertglobal.com^
-||converti.se^
 ||convertingtraffic.com^
 ||convertize.com^
 ||convertize.io^
@@ -44933,6 +44938,7 @@ watson.*.microsoft.com
 ||creditwretchdestruct.com^
 ||credklub.com^
 ||credlim6.wixsite.com^
+||credotrigona.com^
 ||credulityicicle.com^
 ||creeddelirium.com^
 ||creedoverwork.com^
@@ -50572,6 +50578,7 @@ watson.*.microsoft.com
 ||deligrassdull.com^
 ||delikatsov.com^
 ||delikoko.openapp.link^
+||deliman.net^
 ||delimedltd.com^
 ||deline-sunction.com^
 ||delinquentlatelyslightest.com^
@@ -53226,6 +53233,7 @@ watson.*.microsoft.com
 ||dlink.upperinc.com^
 ||dlisuq.wbw-nail.com^
 ||dljuejfp.com^
+||dljzcl.cn^
 ||dlkdfuun.com^
 ||dll-host.cf^
 ||dll-server.ga^
@@ -64567,6 +64575,7 @@ watson.*.microsoft.com
 ||fine.azsportsent.info^
 ||finead.o00.kr^
 ||fineapptech.com^
+||finedbawrel.com^
 ||finedintersection.com^
 ||finednothue.com^
 ||finedscauper.top^
@@ -80453,6 +80462,7 @@ watson.*.microsoft.com
 ||ifjbtjf.com^
 ||ifjhkbmewdny.com^
 ||ifjmd.com^
+||ifjslio.top^
 ||ifkgdxhpt.com^
 ||ifknittedhurtful.com^
 ||iflgybyab.com^
@@ -87980,6 +87990,7 @@ watson.*.microsoft.com
 ||journey.vanityfair.com^
 ||journey.wired.com^
 ||journeyembankmentsubjects.com^
+||journeymv.com^
 ||journeys.journeyed.com^
 ||journity.com^
 ||jourohun.xyz^
@@ -88409,6 +88420,7 @@ watson.*.microsoft.com
 ||jtdqxsfzi.com^
 ||jtdujjsk.com^
 ||jtexpresse.top^
+||jtezxmpb.xyz^
 ||jtffjwecouldle.info^
 ||jtfqyewsaflnp.com^
 ||jtgit.com^
@@ -111086,6 +111098,7 @@ watson.*.microsoft.com
 ||nang-han-muc-vip-vpbank.com^
 ||nang-hang-ca-nhan-vib-mrk1.com^
 ||nang-hang-tin-dung-ca-nhan.com^
+||nangalupeose.com^
 ||nangelsaidthe.info^
 ||nanghanmuc-thetindung.com^
 ||nanghanmuc-tindungvn.com^
@@ -114669,6 +114682,7 @@ watson.*.microsoft.com
 ||nlvnht.miror.jp^
 ||nlvwdlnhfnnw.com^
 ||nlwjdxsa.com^
+||nlxgjwye.icu^
 ||nlyxqpeo.com^
 ||nlzxclfg.com^
 ||nm.5.p2l.info^
@@ -116465,6 +116479,7 @@ watson.*.microsoft.com
 ||oassis.zmh.zope.com^
 ||oast.live^
 ||oast.me^
+||oastoamox.com^
 ||oastoorg.com^
 ||oastoutsi.com^
 ||oataltaul.com^
@@ -128889,6 +128904,7 @@ watson.*.microsoft.com
 ||prosecutorkettle.com^
 ||prosecutorremarkablegodforsaken.com^
 ||prosedisavow.com^
+||proselyaltars.com^
 ||proseoverlook.com^
 ||prosestock.com^
 ||prosflirtatious.com^
@@ -131558,6 +131574,7 @@ watson.*.microsoft.com
 ||qrkhwe.xyz^
 ||qrkwvoomrbjoj.top^
 ||qrlsx.com^
+||qrmozsc.icu^
 ||qroagwadndwy.com^
 ||qroue.xyz^
 ||qrovwu.xyz^
@@ -142495,6 +142512,7 @@ watson.*.microsoft.com
 ||separtevallums.top^
 ||sephor.fr^
 ||sephora-qa.branch.rocks^
+||sepianshap.com^
 ||sepiasbalkis.com^
 ||sepodownload.mediatek.com^
 ||sepro.baidu.com^
@@ -168890,6 +168908,7 @@ watson.*.microsoft.com
 ||tsccqvlqjpchjcl.com^
 ||tscounter.com^
 ||tsddfvreet.com^
+||tsdfxv.xyz^
 ||tsdtocl.com^
 ||tse.telerama.fr^
 ||tsearch.snssdk.com^
@@ -169791,6 +169810,7 @@ watson.*.microsoft.com
 ||typiconrices.com^
 ||typiconsult.com^
 ||typiol.com^
+||typojesuit.com^
 ||typsxumcsjw.com^
 ||tyqptghilt.com^
 ||tyract.com^
@@ -174035,6 +174055,7 @@ watson.*.microsoft.com
 ||vfmahn.slevomat.cz^
 ||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
+||vfphbh.xyz^
 ||vfr.ltdroom.top^
 ||vfreecams.com^
 ||vfsvv1.com^
@@ -189711,6 +189732,7 @@ watson.*.microsoft.com
 ||ztevents.zaloapp.com^
 ||ztfjtn.liujo.com^
 ||ztfzizpkjrmhbc.com^
+||zthxobgk.icu^
 ||ztm-post.com^
 ||ztm-waw.com^
 ||ztnibpbkl.com^
