@@ -430,6 +430,7 @@ watson.*.microsoft.com
 ||0aae.com^
 ||0ac56fb52b.com^
 ||0ad4a42868fc920e69787853d2a02df3.dirks.pl^
+||0ae00c7c.xyz^
 ||0aef09749a.com^
 ||0af2a962b0102942d9a7df351b20be55.com^
 ||0b0db57b5f.com^
@@ -17789,6 +17790,7 @@ watson.*.microsoft.com
 ||amoazon.com^
 ||amobee.com^
 ||amobil.online^
+||amocyq.xyz^
 ||amoddishor.com^
 ||amoeba-plus.web.roku.com^
 ||amoeba.web.roku.com^
@@ -19936,6 +19938,7 @@ watson.*.microsoft.com
 ||anattospursier.com^
 ||anaxialaphonia.com^
 ||anbinh-finance.club^
+||anbkzt.xyz^
 ||anbusfomuvkf.com^
 ||anc.trdex.top^
 ||anceenablesas.info^
@@ -31350,6 +31353,7 @@ watson.*.microsoft.com
 ||bmggqehmcvny.xyz^
 ||bmgipyr.com^
 ||bmgiventures.com^
+||bmhept.xyz^
 ||bmiea.xyz^
 ||bmjidc.xyz^
 ||bmjlzyjwwmbyr.top^
@@ -38492,6 +38496,7 @@ watson.*.microsoft.com
 ||chevretherp.com^
 ||chevyrailly.top^
 ||chewcoat.com^
+||cheweemtaig.com^
 ||chewersobolary.com^
 ||chewie.internetat.tv^
 ||chewremittanceprovidence.com^
@@ -39130,6 +39135,7 @@ watson.*.microsoft.com
 ||cision.com^
 ||cisiwa.site^
 ||ciskotik.com^
+||cismqdx.icu^
 ||cisneseyker.info^
 ||cisouksawim.com^
 ||ciststoquets.space^
@@ -40572,6 +40578,7 @@ watson.*.microsoft.com
 ||cloudlogobox.com^
 ||cloudmade.com^
 ||cloudmax.jp^
+||cloudmetrics.xenforo.com^
 ||cloudmicrosoft.net^
 ||cloudmobi.net^
 ||cloudns.cl^
@@ -77509,6 +77516,7 @@ watson.*.microsoft.com
 ||hnshangzhongxia.com^
 ||hnt.ofmetset.com^
 ||hntkeiupbnoaeha.xyz^
+||hntkgpd.cn^
 ||hnudnorbpdcd.com^
 ||hnw.newaistar.top^
 ||hnxhksg.com^
@@ -86062,6 +86070,7 @@ watson.*.microsoft.com
 ||itintrip.com^
 ||itisatracker.com^
 ||itishindia.cfd^
+||itjgwn.xyz^
 ||itjsprogram.com^
 ||itl.ddq.mybluehost.me^
 ||itlinfosys.ad.infosys.com^
@@ -89875,6 +89884,7 @@ watson.*.microsoft.com
 ||kfjhd.com^
 ||kfjkgfgr.com^
 ||kfjpren.xyz^
+||kfjslid.top^
 ||kfkclxbmdptmehv.com^
 ||kflybplr.xyz^
 ||kfmhhfcrsqvza.com^
@@ -89883,6 +89893,7 @@ watson.*.microsoft.com
 ||kfpicimage.xyz^
 ||kfpnqug.cn^
 ||kfpodnaw.com^
+||kfqizu.cn^
 ||kftfhp.furusato-tax.jp^
 ||kfvjdvjzhddhc.com^
 ||kfxkxyb.com^
@@ -99663,6 +99674,7 @@ watson.*.microsoft.com
 ||managician.com^
 ||manahegazedatth.info^
 ||manakutahuduniainibegitukeras.net^
+||manalyticshub.com^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
 ||manatee.dk^
@@ -122577,6 +122589,7 @@ watson.*.microsoft.com
 ||pdns.nudt.edu.cn^
 ||pdns3.ultradns.org^
 ||pdns5.ultradns.info^
+||pdnwbwyf.icu^
 ||pdnyxyqoihia.xyz^
 ||pdo7e.com^
 ||pdpadserver.net^
@@ -130777,6 +130790,7 @@ watson.*.microsoft.com
 ||pxl.darchermedia.com^
 ||pxl.host^
 ||pxl.indeed.com^
+||pxl.knam.pro^
 ||pxl.retaku.net^
 ||pxl.sprouts.ai^
 ||pxlclnmdecom-a.akamaihd.net^
@@ -157311,6 +157325,7 @@ watson.*.microsoft.com
 ||svtlgjmqyzmwz.com^
 ||svtrd.com^
 ||svvev3.com^
+||svwhhiiyihcwh.com^
 ||svyksa.info^
 ||sw-assets.ekomiapps.de^
 ||sw.broadcom.com^
@@ -170053,6 +170068,7 @@ watson.*.microsoft.com
 ||uag.ouphoawe.top^
 ||uahozcfq.xyz^
 ||uahpycewbx.com^
+||uaiosio.top^
 ||uakxkb.icu^
 ||ualkzq.moobel1.ee^
 ||uamobile.net^
@@ -179385,6 +179401,7 @@ watson.*.microsoft.com
 ||whootascots.com^
 ||whootkhankah.com^
 ||whoppercreaky.com^
+||whopstriglot.com^
 ||whoptoorsaub.com^
 ||whorlysenior.top^
 ||whosbest.com^
@@ -187961,6 +187978,7 @@ watson.*.microsoft.com
 ||yqz.xe1v.lat^
 ||yr.fopbandido.com^
 ||yr9n47004g.com^
+||yrcedupgqe.com^
 ||yrcpsfqoyi.com^
 ||yrenterom.xyz^
 ||yrepmy.jochen-schweizer.de^
