@@ -2292,6 +2292,7 @@ watson.*.microsoft.com
 ||3fa20230512.live^
 ||3fa244b7eb.com^
 ||3fazowa-ostrzalka-do-nozy-pl.com^
+||3ffa255f.xyz^
 ||3fi.glootsus.top^
 ||3file.info^
 ||3fns.com^
@@ -26242,6 +26243,7 @@ watson.*.microsoft.com
 ||b50287.cetusinvestmentsbtc.com^
 ||b50faca981.com^
 ||b51375.kanuassociates.com^
+||b51475b8.xyz^
 ||b5216.kanuassociates.com^
 ||b53714.cetusinvestmentsbtc.com^
 ||b5456.kanuassociates.com^
@@ -31072,6 +31074,7 @@ watson.*.microsoft.com
 ||blpsearch.com^
 ||blremsgadc01.ad.infosys.com^
 ||blrkecsep01.ad.infosys.com^
+||blrpbt.xyz^
 ||blrupz.xyz^
 ||blsoof.wirwinzer.de^
 ||blt.tradx.top^
@@ -74142,6 +74145,7 @@ watson.*.microsoft.com
 ||gtptwrldnws.com^
 ||gtrack.opossumsauce.com^
 ||gtreus.aliexpress.com^
+||gtrhnhg.cn^
 ||gtrk.s3.amazonaws.com^
 ||gtrmshgbw.com^
 ||gtrsqer.com^
@@ -88255,6 +88259,7 @@ watson.*.microsoft.com
 ||jqbwhhxvcytgh.com^
 ||jqcyacoxrvada.com^
 ||jqdnvg.com^
+||jqfql.top^
 ||jqgqrsvcaos.xyz^
 ||jqitetsk.com^
 ||jqk2me2mzf.ru^
@@ -93686,6 +93691,7 @@ watson.*.microsoft.com
 ||lffsnhwhxnqn.com^
 ||lfhdryz.xyz^
 ||lfhnzbj.xyz^
+||lfjslil.top^
 ||lfjtiuy.cn^
 ||lfkxjcrlrrar.com^
 ||lflcbcb.com^
@@ -110682,6 +110688,7 @@ watson.*.microsoft.com
 ||myradiopc.com^
 ||myradiotoolbar.com^
 ||myraqcajwkeyqd.com^
+||myreadcloud.com^
 ||myrebelflag.com^
 ||myreferer.com^
 ||myreputationonline.net^
@@ -131391,6 +131398,7 @@ watson.*.microsoft.com
 ||qhdhtd.com^
 ||qhdwjjhvgqa.com^
 ||qhemphox.com^
+||qheose.xyz^
 ||qheoy.cn^
 ||qhigh.com^
 ||qhip.com^
@@ -142792,6 +142800,7 @@ watson.*.microsoft.com
 ||servads.net^
 ||servantheadingferal.com^
 ||servboost.tech^
+||servclick1move.com^
 ||servcliente.marathon-sports-ec.com^
 ||servdigitalesexteriorgrupobancolombia.com^
 ||serve-rtb.com^
@@ -154282,6 +154291,7 @@ watson.*.microsoft.com
 ||stats.fishersci.it^
 ||stats.fixweb.com^
 ||stats.flightsphere.com^
+||stats.flixhq.live^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
 ||stats.fluorescent.co^
@@ -163231,6 +163241,7 @@ watson.*.microsoft.com
 ||tjsicyijerce.com^
 ||tjtmjjigtdoah.com^
 ||tjuhdrm.com^
+||tjuspyk.icu^
 ||tjwzyjx.icu^
 ||tjxfkmlhubh.com^
 ||tjxjpqa.com^
@@ -176855,6 +176866,7 @@ watson.*.microsoft.com
 ||vxohkh.laboutiqueofficielle.com^
 ||vxoncbelghuic.com^
 ||vxorjza.com^
+||vxpdfb.xyz^
 ||vxrydraquqcwb.com^
 ||vxsnk.com^
 ||vxsscpctuiq.com^
@@ -189542,6 +189554,7 @@ watson.*.microsoft.com
 ||zkntjk.hikaku-cardloan.news.mynavi.jp^
 ||zkqegdgj.com^
 ||zkqhqv.sizeofficial.it^
+||zkrdzn.xyz^
 ||zktsygv.com^
 ||zkuotxaxkov.com^
 ||zkxggrwzswhpgn.com^
@@ -189596,6 +189609,7 @@ watson.*.microsoft.com
 ||zmail.avalon.cc^
 ||zmail221.appspot.com^
 ||zmaka.net^
+||zmbmoxij.icu^
 ||zmc.ca^
 ||zmdesf.cn^
 ||zmdjbl.xyz^
