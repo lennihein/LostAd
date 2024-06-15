@@ -13216,7 +13216,6 @@ watson.*.microsoft.com
 ||adserver1.adtech.com.tr^
 ||adserver1.hookyouup.com^
 ||adserver1.mediainsight.de^
-||adserver1.mindshare.de^
 ||adserver1.sonymusiceurope.com^
 ||adserver1.wmads.com^
 ||adserver2.atman.pl^
@@ -13224,7 +13223,6 @@ watson.*.microsoft.com
 ||adserver2.exgfnetwork.com^
 ||adserver2.goals365.com^
 ||adserver2.mediainsight.de^
-||adserver2.mindshare.de^
 ||adserver2.mojedelo.com^
 ||adserver9.contextad.com^
 ||adservercentral.com^
@@ -27054,7 +27052,6 @@ watson.*.microsoft.com
 ||banner.maido3.com^
 ||banner.media-system.de^
 ||banner.melon.com^
-||banner.mindshare.de^
 ||banner.missingkids.com^
 ||banner.mob.hr^
 ||banner.monacogoldcasino.com^
@@ -37028,6 +37025,7 @@ watson.*.microsoft.com
 ||cdn.production.townsquareblogs.com^
 ||cdn.provesrc.com^
 ||cdn.ptomw.com^
+||cdn.pubnub.com^
 ||cdn.pushalert.co^
 ||cdn.pushowl.com^
 ||cdn.qc24h.com^
@@ -45312,6 +45310,7 @@ watson.*.microsoft.com
 ||crumbrationally.com^
 ||crumbs.robinhood.com^
 ||crumbtypewriterhome.com^
+||crummerexisted.com^
 ||crummygoddess.com^
 ||crumpet.xxxpornhd.pro^
 ||crumplicious.shop^
@@ -48789,6 +48788,7 @@ watson.*.microsoft.com
 ||daskarnevalkostuem.de^
 ||daslethv.com^
 ||dasljfoq.top^
+||daslkdlqk.top^
 ||dasperdolus.com^
 ||dastinkoziol.pl^
 ||dastratus.com^
@@ -62442,6 +62442,7 @@ watson.*.microsoft.com
 ||faa9e9fdd8f64174a4294d98f8970c47.puoli.pl^
 ||faagilyur.site^
 ||faaglossary.com^
+||faaqgje.icu^
 ||faas.liveperson.net^
 ||fab4fant4.quest^
 ||fab57f3244c9bebbe60c1080a9d3cf0a.puoli.pl^
@@ -70733,6 +70734,7 @@ watson.*.microsoft.com
 ||gimg.baidu.com^
 ||gimi.co^
 ||gimjedlicze.cba.pl^
+||gimmalscutches.com^
 ||gimme-promo.com^
 ||gimmeacape.com^
 ||gimnsr.com^
@@ -76504,6 +76506,7 @@ watson.*.microsoft.com
 ||heurelocale.com^
 ||heusysianedu.com^
 ||hevc.site^
+||hevctt.xyz^
 ||hevdnzqu.com^
 ||hevienkov.com^
 ||hevqaz.submarino.com.br^
@@ -79361,6 +79364,7 @@ watson.*.microsoft.com
 ||hwmlmcbwpbkwas.com^
 ||hwmonitor-ru.ru^
 ||hwnod.xyz^
+||hwnojj.xyz^
 ||hwof.info^
 ||hworldeventstoday.com^
 ||hwosl.cloud^
@@ -95627,6 +95631,7 @@ watson.*.microsoft.com
 ||lituatetoea.digital^
 ||litvp.com^
 ||litznards.com^
+||liuhui111.top^
 ||liujiahao6.cn^
 ||liukzemydream.com^
 ||liupoaa.com^
@@ -117378,6 +117383,7 @@ watson.*.microsoft.com
 ||ofificeshrteosommore5mpaoz.appspot.com^
 ||ofimedan.xyz^
 ||ofitstefukste.org^
+||ofjslik.top^
 ||ofkcww.xyz^
 ||ofkqiy.knowfashionstyle.com^
 ||ofkrabbyr.com^
@@ -119821,6 +119827,7 @@ watson.*.microsoft.com
 ||osakado.cc^
 ||osancik.top^
 ||osangauh.net^
+||osanyc.xyz^
 ||osarmapa.net^
 ||osaunsot.net^
 ||osb-apps-v2.samsungqbe.com^
@@ -150700,6 +150707,7 @@ watson.*.microsoft.com
 ||sowp.cloud^
 ||sowsuwm.icu^
 ||sowuroeraa.life^
+||sowx.cn^
 ||soxnwz.lg.com^
 ||soxpbl.oka.com^
 ||soyjlnfatgxpfd.com^
@@ -189568,6 +189576,7 @@ watson.*.microsoft.com
 ||zivedeuweo.live^
 ||zivtux.com^
 ||ziwane.uno^
+||ziwelatum.com^
 ||ziwewm.tecovas.com^
 ||ziwuz.com^
 ||zix.toppchain.top^
