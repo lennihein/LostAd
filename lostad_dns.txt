@@ -19690,6 +19690,7 @@ watson.*.microsoft.com
 ||analytics.mncdigital.id^
 ||analytics.mncplus.com^
 ||analytics.mng.nintendo.net^
+||analytics.mobiedu.vn^
 ||analytics.mobile-cdn.walmart.com.akadns.net^
 ||analytics.mobile.bodegaaurrera.com.mx^
 ||analytics.mobile.sams.com.mx^
@@ -26925,6 +26926,7 @@ watson.*.microsoft.com
 ||bamboogrove.xyz^
 ||bambooshopsale4.xyz^
 ||baminw.com.cn^
+||bamtinseefta.xyz^
 ||bamulat.blogspot.hu^
 ||ban-host.ru^
 ||ban.bhol.co.il^
@@ -32697,6 +32699,7 @@ watson.*.microsoft.com
 ||brooksuitcase.com^
 ||broomdatevane.com^
 ||broomvaluable.com^
+||broredir*s.site^
 ||broredir1s.site^
 ||brosden.de^
 ||brostraffic.com^
@@ -33320,6 +33323,7 @@ watson.*.microsoft.com
 ||buipmusicgy.com^
 ||bujeihufessu-4797.vercel.app^
 ||bujerdaz.com^
+||bujlmitd.icu^
 ||bujot.com^
 ||bujrivfear.com^
 ||bujz.top^
@@ -38294,6 +38298,7 @@ watson.*.microsoft.com
 ||chunmiaosh.com^
 ||chuongtrinhgionghaatvietnhii2021.weebly.com^
 ||chuongtrinhgionghatvietnamnhi2021.weebly.com^
+||chupl.icu^
 ||chuptuwais.com^
 ||churchalexis.com^
 ||churchillalmighty.com^
@@ -39607,6 +39612,7 @@ watson.*.microsoft.com
 ||clinictuesdaywhereas.com^
 ||clinkeasiestopponent.com^
 ||clintmarceline.com^
+||clintonchewet.com^
 ||clintonfolders.com^
 ||clintsflawed.click^
 ||clio-drive-telemetry.prod-us-a.clio.systems^
@@ -44091,6 +44097,7 @@ watson.*.microsoft.com
 ||creatives.gunosy.com^
 ||creatives.inmotionhosting.com^
 ||creatives.livejasmin.com^
+||creatives.wetransfer.net^
 ||creatives.x2lt.com^
 ||creatives1.ftimg.net^
 ||creativeslim.com^
@@ -45358,6 +45365,7 @@ watson.*.microsoft.com
 ||cwcdmm.zennioptical.com^
 ||cwchmb.com^
 ||cwdndgshwx.xyz^
+||cweisif.top^
 ||cwerilxf.top^
 ||cweriof.top^
 ||cwgucvm.icu^
@@ -69995,6 +70003,7 @@ watson.*.microsoft.com
 ||gonumorc.site^
 ||goo-access-analytics.appspot.com^
 ||goo02.shop^
+||goobakocaup.com^
 ||goobbe.com^
 ||goobefirumaupt.net^
 ||goobreamed.com^
@@ -75950,6 +75959,7 @@ watson.*.microsoft.com
 ||httpdns-push.heytapmobile.com^
 ||httpdns.alicdn.com^
 ||httpdns.bcelive.com^
+||httpdns.bilivideo.com^
 ||httpdns.c.cdnhwc2.com^
 ||httpdns.gslb.yy.com^
 ||httpdns.huaweicloud.com^
@@ -76369,6 +76379,7 @@ watson.*.microsoft.com
 ||hweatherforecaster.com^
 ||hweatherforecasterpro.com^
 ||hweathernation.co^
+||hweisiu.top^
 ||hwerilxu.top^
 ||hweriou.top^
 ||hwfmynim.com^
@@ -83708,6 +83719,7 @@ watson.*.microsoft.com
 ||jgjyxf.xyz^
 ||jglgjz.xyz^
 ||jglinks.cn^
+||jgltbxlougpg.xyz^
 ||jgmbet.com^
 ||jgmlink.cn^
 ||jgmywh.icu^
@@ -99063,6 +99075,7 @@ watson.*.microsoft.com
 ||memuwombat.online^
 ||menacehabit.com^
 ||menacing-awareness.pro^
+||menacing-feature.pro^
 ||mename.de^
 ||menaon.com^
 ||menarietat.com^
@@ -104936,6 +104949,7 @@ watson.*.microsoft.com
 ||mssopenings.com^
 ||mssql2.aomg5bzv7.com^
 ||msssante.fr^
+||mst.rnd.de^
 ||mstat.acestream.net^
 ||mstcs.info^
 ||mstkvnya.xyz^
@@ -109298,6 +109312,7 @@ watson.*.microsoft.com
 ||nfgxadlbfzuy.click^
 ||nfj3iojks.com^
 ||nfj3njs.com^
+||nfjdxtfpclfh.com^
 ||nfjud.com^
 ||nfkd2ug8d9.com^
 ||nflcraze.com^
@@ -123157,6 +123172,7 @@ watson.*.microsoft.com
 ||production.wootric.com.herokudns.com^
 ||productionprinting.ricoh.co.uk^
 ||productionprinting.ricoh.ie^
+||productive-chemical.pro^
 ||productiveascertainedineffective.com^
 ||productively.net^
 ||productivityboss.com^
@@ -125594,6 +125610,7 @@ watson.*.microsoft.com
 ||pxxhbz.apamanshop.com^
 ||pxxnejx.xyz^
 ||pxyepmwex.com^
+||pxyjqea.icu^
 ||pxzrlf.xyz^
 ||py248.infusionsoft.app^
 ||pyani.com^
@@ -139668,6 +139685,7 @@ watson.*.microsoft.com
 ||sieumomo.top^
 ||sieumomo.win^
 ||sieunhitainangmua3-2022.weebly.com^
+||sieusalegiare.top^
 ||sieusao.lienquan-vgarena.com^
 ||sieuthibaby24h.com^
 ||sieuthidark.com^
@@ -144924,6 +144942,7 @@ watson.*.microsoft.com
 ||son.co.za^
 ||son.hospitalsituationoycq.com^
 ||sonalrecomefu.info^
+||sonar*.xy.fbcdn.net^
 ||sonar-iad.xx.fbcdn.net^
 ||sonar.viously.com^
 ||sonar6-akl1-1.xx.fbcdn.net.iberostar.com^
@@ -166879,6 +166898,7 @@ watson.*.microsoft.com
 ||us.micardapi.micloud.xiaomi.net.iberostar.com^
 ||us.micardapi.micloud.xiaomi.net^
 ||us.mobitech-content.xyz^
+||us.mplis.gov.vn^
 ||us.noteapi.micloud.xiaomi.net.iberostar.com^
 ||us.optimove.net^
 ||us.pdc.micloud.xiaomi.net.iberostar.com^
@@ -168808,6 +168828,7 @@ watson.*.microsoft.com
 ||vftbnl.com^
 ||vfthr.com^
 ||vftvbx.xyz^
+||vfuqivac.com^
 ||vfvad.top^
 ||vfvcxv.naturhaeuschen.de^
 ||vfvdsati.com^
@@ -178889,6 +178910,7 @@ watson.*.microsoft.com
 ||wwwww.asia^
 ||wwwwwmwmwmwwmwwww.blogspot.com^
 ||wwwwzeraqvazw.top^
+||wwwwzeraqvrej.top^
 ||wwwxaveninfo-a.akamaihd.net^
 ||wwxufo.com^
 ||wx.sendastrer.com^
@@ -180454,6 +180476,7 @@ watson.*.microsoft.com
 ||xuraeuz.com^
 ||xutolr.mainichikirei.jp^
 ||xutolr.mantan-web.jp^
+||xuugnuits.com^
 ||xuvo.tune2u.com^
 ||xuxwvh.xyz^
 ||xuyanlong1.cn^
@@ -180678,6 +180701,7 @@ watson.*.microsoft.com
 ||y00tspin.com^
 ||y03btrk.com^
 ||y06ney2v.xyz^
+||y0mwy.icu^
 ||y0utube.services^
 ||y1.arte.tv^
 ||y1.junshitt.com^
@@ -181464,6 +181488,7 @@ watson.*.microsoft.com
 ||yojanabandhan.com^
 ||yokeeroud.com^
 ||yokovr.site^
+||yoksamhain.com^
 ||yolage.uno^
 ||yolkcanes.com^
 ||yolkhandledwheels.com^
