@@ -18760,6 +18760,7 @@ watson.*.microsoft.com
 ||analytics-cdn.prezly.com^
 ||analytics-cdn.sport.es^
 ||analytics-cdn.unataops.com^
+||analytics-cds.mobiedu.vn^
 ||analytics-chi-nfl.yinzcam.com^
 ||analytics-cle-nfl.yinzcam.com^
 ||analytics-client-eventing-production01.cengage.info^
@@ -33697,6 +33698,7 @@ watson.*.microsoft.com
 ||bux1le001.com^
 ||buxbaumiaceae.sbs^
 ||buxflow.com^
+||buxfmookn.com^
 ||buxfznnf.xyz^
 ||buxim.com^
 ||buxmeto.co.kr^
@@ -33997,6 +33999,7 @@ watson.*.microsoft.com
 ||byluxrayor.com^
 ||bylwtf.xyz^
 ||bymahuxv.xyz^
+||bynamebosh.com^
 ||bynix.xyz^
 ||byoml.com^
 ||byowner.fr^
@@ -34563,6 +34566,7 @@ watson.*.microsoft.com
 ||cageforbirds.com^
 ||cageinattentiveconfederate.com^
 ||cagioviendong.com^
+||cagitfiz.com^
 ||cagkpu.suitdirect.co.uk^
 ||caglaikr.net^
 ||caglonseeh.com^
@@ -43597,6 +43601,7 @@ watson.*.microsoft.com
 ||coyizl.embracon.com.br^
 ||coyote.12gem.me^
 ||coyprize.com^
+||coyureviral.com^
 ||cozeswracks.com^
 ||cozexs.com^
 ||cozibaneco.com^
@@ -51247,6 +51252,7 @@ watson.*.microsoft.com
 ||ding.wix.com^
 ||dingbu.bj.bcebos.com^
 ||dingdong.co.il^
+||dingerhoes.shop^
 ||dinghologyden.org^
 ||dingit.tv^
 ||dinglewhiz.shop^
@@ -60485,6 +60491,7 @@ watson.*.microsoft.com
 ||faidooptuw.com^
 ||faijuleem.com^
 ||faikudoka.net^
+||fail.adr.ec^
 ||failcube.ru^
 ||failedfrustratingthesis.com^
 ||failedmengodless.com^
@@ -68825,6 +68832,7 @@ watson.*.microsoft.com
 ||glounugeepse.xyz^
 ||gloupa.com^
 ||glouseer.net^
+||glousoonomsy.xyz^
 ||gloussowu.xyz^
 ||gloustoa.net^
 ||gloutanacard.com^
@@ -71877,6 +71885,7 @@ watson.*.microsoft.com
 ||gzcodes.com^
 ||gzdpae.cyou^
 ||gzefitkcep.com^
+||gzfsqrc.icu^
 ||gzglmoczfzf.com^
 ||gzhying1.cn^
 ||gzifhovadhf.com^
@@ -82822,6 +82831,7 @@ watson.*.microsoft.com
 ||iwe.ktvgv.com^
 ||iwe8pzosa.appspot.com^
 ||iwebtrack.com^
+||iweisio.top^
 ||iwerilxo.top^
 ||iwerioo.top^
 ||iwgfdj.iko-yo.net^
@@ -85098,6 +85108,7 @@ watson.*.microsoft.com
 ||jwcnjv.xlmoto.eu^
 ||jwdodhhfblunhea.com^
 ||jweber.ru^
+||jweisia.top^
 ||jweqai.amen.fr^
 ||jwerilxa.top^
 ||jwerioa.top^
@@ -88487,6 +88498,7 @@ watson.*.microsoft.com
 ||lat.waptrad.top^
 ||latam.thomsonreuters.com^
 ||latchwaitress.com^
+||late-anxiety.com^
 ||late6year.com^
 ||latelyninetyfeelings.com^
 ||latelyrevealing.com^
@@ -94119,6 +94131,7 @@ watson.*.microsoft.com
 ||lwrohd.xyz^
 ||lwurserl.top^
 ||lwusnt.yogibo.kr^
+||lwvrv.icu^
 ||lwxjg.com^
 ||lwxuo.com^
 ||lwyn.theconversionsguru.com^
@@ -114939,6 +114952,7 @@ watson.*.microsoft.com
 ||osm-ads.delivery.roku.com^
 ||osm-onead.cdn.hinet.net^
 ||osm.beblon.com^
+||osmeticjewlike.com^
 ||osmoticupbound.com^
 ||osmzym.xyz^
 ||osnksi.czytam.pl^
@@ -115415,6 +115429,7 @@ watson.*.microsoft.com
 ||outrightstale.com^
 ||outrotomr.com^
 ||outseeltor.com^
+||outseethoozet.net^
 ||outsetnormalwaited.com^
 ||outseylor.com^
 ||outshroomishan.com^
@@ -130504,6 +130519,7 @@ watson.*.microsoft.com
 ||rhombicsomeday.com^
 ||rhombusads.com^
 ||rhouseoyopers.info^
+||rhoxbneasg.xyz^
 ||rhr.jouwauhesurvey.top^
 ||rhrim.com^
 ||rhsorga.com^
@@ -138440,6 +138456,7 @@ watson.*.microsoft.com
 ||sharmilamedia.com^
 ||sharnedinist.com^
 ||sharomyniatew.com^
+||sharondemurer.shop^
 ||sharp-gossip.com^
 ||sharpay.io^
 ||sharpfiledownload.com^
@@ -153001,6 +153018,7 @@ watson.*.microsoft.com
 ||t.actemra.com^
 ||t.ad.nl^
 ||t.adbr.io^
+||t.adii.se^
 ||t.adlpo.com^
 ||t.agrant.cn^
 ||t.agrantsem.com^
@@ -164817,6 +164835,7 @@ watson.*.microsoft.com
 ||u5e.com^
 ||u5gkdt1he.top^
 ||u5lxh1y1pgxy.shop^
+||u5ps5.icu^
 ||u652.myplainview.com^
 ||u654.santacruzsentinel.com^
 ||u68t5.icu^
@@ -164879,6 +164898,7 @@ watson.*.microsoft.com
 ||uamrnaakv.com^
 ||uaoaig.xyz^
 ||uaqcui.tennis-point.fr^
+||uaqdgrfr.icu^
 ||uarating.com^
 ||uarrdg.landsofamerica.com^
 ||uasarchrsbvo.com^
@@ -165625,6 +165645,7 @@ watson.*.microsoft.com
 ||umsns.com^
 ||umstat.com^
 ||umstaterads.com^
+||umtchdhkrx.com^
 ||umto.cnn.com^
 ||umtrack.com^
 ||umtudo.com^
@@ -167021,6 +167042,7 @@ watson.*.microsoft.com
 ||user-red.com^
 ||user-shield-check.com^
 ||user-shield.com^
+||user-signals.production-public.tubi.io^
 ||user-stats.rbl.ms^
 ||user-uw.top^
 ||user.desmoinesregister.com^
@@ -170562,6 +170584,7 @@ watson.*.microsoft.com
 ||vntsm.com^
 ||vntsm.io^
 ||vnubx19yuhiy.com^
+||vnuuh.icu^
 ||vnvay.top^
 ||vnvbt.biz^
 ||vnvietcombank.cc^
@@ -173262,6 +173285,7 @@ watson.*.microsoft.com
 ||ween.bid^
 ||weeneyweddings.com^
 ||weensnandow.com^
+||weensydudler.com^
 ||weepauza.com^
 ||weephuwe.xyz^
 ||weepingcart.com^
@@ -175540,6 +175564,7 @@ watson.*.microsoft.com
 ||wravrmpspu.com^
 ||wrbbsergrdiqk.xyz^
 ||wrc-info.ru^
+||wrdamoe.icu^
 ||wrdnaunq.com^
 ||wrdpresuu.com^
 ||wreaksyolkier.com^
