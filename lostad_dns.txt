@@ -10,9 +10,11 @@
 *ad.durasite.net^
 *watson.events.data.microsoft.com^
 -adx-*.rayjump.com^
+-applog*.fqnovel.com^
 -attr.appsflyersdk.com^
 -launches.appsflyersdk.com^
 -logging.nextmedia.com^
+-rtb.gravite.net^
 -s2s.sensic.net^
 -spiky.clevertap-prod.com^
 -telemetry.officeapps.live.com.mcas.ms^
@@ -14706,7 +14708,6 @@ watson.*.microsoft.com
 ||advertica.eu^
 ||adverticum.com^
 ||adverticum.net^
-||adverticus.de^
 ||advertine.com^
 ||advertise.apollo.lv^
 ||advertise.baicizhan.com^
@@ -17597,6 +17598,7 @@ watson.*.microsoft.com
 ||allomine.fr^
 ||allopass.com^
 ||alloref.com^
+||allorfrryz.com^
 ||allosponsor.com^
 ||allotnegate.com^
 ||allotupwardmalicious.com^
@@ -24398,7 +24400,6 @@ watson.*.microsoft.com
 ||assets.werally.co^
 ||assets.wtfpeople.com^
 ||assets.yieldify-production.com^
-||assets1.exgfnetwork.com^
 ||assets2.aainsurance.co.nz^
 ||assets2.aami.com.au^
 ||assets2.apia.com.au^
@@ -36317,6 +36318,7 @@ watson.*.microsoft.com
 ||cdn.onescreen.net^
 ||cdn.optimove.net^
 ||cdn.ovqds.com^
+||cdn.owebanalytics.com^
 ||cdn.pardot.com^
 ||cdn.pavideohost.com^
 ||cdn.pdst.fm^
@@ -52664,7 +52666,6 @@ watson.*.microsoft.com
 ||domainregistrychina.net^
 ||domains-resolver.net^
 ||domainsexpanse.com^
-||domainsteam.de^
 ||domainsticker.com^
 ||domainupclose.com^
 ||domainvoip4.xyz^
@@ -56250,6 +56251,7 @@ watson.*.microsoft.com
 ||ekwzxay.com^
 ||ekxyrwvoegb.xyz^
 ||ekykse.xyz^
+||ekzmk.icu^
 ||ekzzed.icu^
 ||el.digitkin.top^
 ||el.gmasken.top^
@@ -87685,6 +87687,7 @@ watson.*.microsoft.com
 ||kwdflqos.com^
 ||kwedzcq.com^
 ||kweiqox.beauty^
+||kweisid.top^
 ||kwerilxd.top^
 ||kweriod.top^
 ||kwestiastabilnosci.com^
@@ -91986,7 +91989,6 @@ watson.*.microsoft.com
 ||locotrack.net^
 ||locp-ir.viber.com^
 ||locpikbb.icu^
-||locpub.com^
 ||locrian-verbena-aerosteon.glitch.me^
 ||locsensads.com^
 ||loctan675550.vercel.app^
@@ -103778,6 +103780,7 @@ watson.*.microsoft.com
 ||momzersatorii.top^
 ||momzs.com^
 ||mon*-*.tiktokv.us^
+||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
 ||mon-conertisseur.fr^
@@ -103901,7 +103904,6 @@ watson.*.microsoft.com
 ||moneydong123.com^
 ||moneyeasily-hk.top^
 ||moneyeasily-tx.top^
-||moneyexpert.co.uk^
 ||moneyexpert.com^
 ||moneyfor.com^
 ||moneyfree.co^
@@ -104000,6 +104002,7 @@ watson.*.microsoft.com
 ||monorailnailtributary.com^
 ||monppaiement.fr^
 ||monprojet4321.sur.5.votresite.ca^
+||monsetting.toutiao.com^
 ||monsido-consent.com^
 ||monsoonlassi.com^
 ||monstat.com^
@@ -109430,6 +109433,7 @@ watson.*.microsoft.com
 ||nguyetlam.com^
 ||ngvcalslfbmtcjq.xyz^
 ||ngvjaijgybkss.com^
+||ngxzkaxf.icu^
 ||ngyxtr.ripcurl.com^
 ||nh.5.p2l.info^
 ||nh.rimoseantdom.com^
@@ -111425,6 +111429,7 @@ watson.*.microsoft.com
 ||o8f.phaugnulsurvey.top^
 ||o8hesdtrk.com^
 ||o8vfktrk.com^
+||o8zoz.icu^
 ||o911o.com^
 ||o9431.com^
 ||o947.com^
@@ -115656,7 +115661,6 @@ watson.*.microsoft.com
 ||owc.com^
 ||owcdilxy.xyz^
 ||owdj0.com^
-||owebanalytics.com^
 ||owebmoney.ru^
 ||owebsearch.com^
 ||oweeiyw.icu^
@@ -116717,7 +116721,6 @@ watson.*.microsoft.com
 ||pangolin16.sgsnssdk.com^
 ||pangzz.xyz^
 ||panhardware.com^
-||panickycurtain.com^
 ||panickypancake.com^
 ||panicmiserableeligible.com^
 ||panimi.fr^
@@ -122250,7 +122253,6 @@ watson.*.microsoft.com
 ||practivate-da1.adobe.com^
 ||practthreat.club^
 ||prada-pl.com^
-||praddpro.de^
 ||pradjadj.com^
 ||prafulkharade.com^
 ||praght.tech^
@@ -123567,7 +123569,6 @@ watson.*.microsoft.com
 ||pronunciationexposureimproper.com^
 ||pronunciationspecimens.com^
 ||pronunciator.com^
-||proof-x.com^
 ||proof.sudo.vn^
 ||proofconvert.com^
 ||prooffactor.com^
@@ -123812,7 +123813,6 @@ watson.*.microsoft.com
 ||proverbbeaming.com^
 ||proverbmariannemirth.com^
 ||proverbnoncommittalvault.com^
-||provexia.com^
 ||providedovernight.com^
 ||providemartial.com^
 ||providence.voxmedia.com^
@@ -126283,6 +126283,7 @@ watson.*.microsoft.com
 ||qpbtocrhhjnz.one^
 ||qpesok.xyz^
 ||qpewvxhpxixqcxv.com^
+||qphkuua.icu^
 ||qpielh.kfhi.or.kr^
 ||qpigoa.xyz^
 ||qpigulofbwah.com^
@@ -128726,7 +128727,6 @@ watson.*.microsoft.com
 ||reduk.mastercasc.top^
 ||redundancymail.com^
 ||redusugar.pl^
-||reduxmedia.com^
 ||redvertisment.com^
 ||redvil.co.in^
 ||redwhiteandbluevoyagesnwl.com^
@@ -135357,6 +135357,7 @@ watson.*.microsoft.com
 ||sdjvbsjbvas.com^
 ||sdk-01.moengage.com^
 ||sdk-02.moengage.com^
+||sdk-04.moengage.com^
 ||sdk-analytics.inlocomedia.com^
 ||sdk-api.kidoz.net^
 ||sdk-api.prod.veep.io^
@@ -136548,7 +136549,6 @@ watson.*.microsoft.com
 ||securejoinentry.com^
 ||secureleadsforever.com^
 ||secureleadsrn.com^
-||securely-protectsoft.com^
 ||securely-send.com^
 ||securelyaccessnet.com^
 ||securelybrowsing.com^
@@ -145155,7 +145155,6 @@ watson.*.microsoft.com
 ||sora-ads.uouo0.com^
 ||sorbone.fr^
 ||sorcermojo.shop^
-||sordidsmile.com^
 ||sordifigwo.pro^
 ||sordimtaulee.com^
 ||sore-candle-comic.glitch.me^
@@ -150589,6 +150588,7 @@ watson.*.microsoft.com
 ||stpmneaywgib.com^
 ||stpt.com^
 ||stq89.icu^
+||stqagmrylm.xyz^
 ||stquality.org^
 ||str-mobile.com^
 ||str.foodnetwork.ca^
@@ -152409,6 +152409,7 @@ watson.*.microsoft.com
 ||sweetysluts.com^
 ||swegospright.click^
 ||swehummkij.com^
+||sweisib.top^
 ||swelban.com^
 ||swelen.com^
 ||swellingconsultation.com^
@@ -152661,6 +152662,7 @@ watson.*.microsoft.com
 ||syllableliking.com^
 ||syllablesight.com^
 ||syllabovskvsk.com^
+||syllabusbastardchunk.com^
 ||syllabusimperfect.com^
 ||syllabuspillowcasebake.com^
 ||syllabusrecipientreliable.com^
@@ -154616,6 +154618,7 @@ watson.*.microsoft.com
 ||tatpek.com^
 ||tatrabanka-sk-iu.com^
 ||tatrabanka-sk-na.com^
+||tatrack.thinkyeah.com^
 ||tatrck.com^
 ||tatsumi-sys.jp^
 ||tattepush.com^
@@ -155341,6 +155344,7 @@ watson.*.microsoft.com
 ||telemetric.dk^
 ||telemetrics.klaviyo.com^
 ||telemetries.jeeng.com^
+||telemetry*.api.playstation.com^
 ||telemetry*.transcend.io^
 ||telemetry-1537681405.us-west-2.elb.amazonaws.com^
 ||telemetry-2037.mordor.use.production.k8s.ikarem.io^
@@ -161046,8 +161050,6 @@ watson.*.microsoft.com
 ||tracking.10gb.vn^
 ||tracking.196189.com^
 ||tracking.247search.com^
-||tracking.28-91473-wbm.co.uk^
-||tracking.39-bb4a9-osm.co.uk^
 ||tracking.3com.com^
 ||tracking.3ds.com^
 ||tracking.42-01pr5-osm-secure.co.uk^
@@ -168344,6 +168346,7 @@ watson.*.microsoft.com
 ||vcs-va.tiktokv.com^
 ||vcs.kensington.my^
 ||vcs.snssdk.com^
+||vcs.zijieapi.com^
 ||vcsa.telemetry.broadcom.com^
 ||vcsa.vmware.com^
 ||vcsjbnzmgjs.com^
@@ -170323,6 +170326,7 @@ watson.*.microsoft.com
 ||vliplatform.com^
 ||vlitag.com^
 ||vlkmcpnfo.com^
+||vlkvchof.com^
 ||vllsour.com^
 ||vlme.one-move.top^
 ||vln.rvs.mybluehost.me^
@@ -171107,7 +171111,6 @@ watson.*.microsoft.com
 ||vs.funshion.com^
 ||vs.hotstar.com^
 ||vs.javcosplay.com^
-||vs.tucows.com^
 ||vs.wshareit.com.b.galileo.jcloud-cdn.com^
 ||vs.wshareit.com.cdn.jcloudcdn.com^
 ||vs.wshareit.com^
@@ -174023,6 +174026,7 @@ watson.*.microsoft.com
 ||whomsudsikaxu.com^
 ||whomupward.com^
 ||whonaiwu.com^
+||whoobaumpairto.xyz^
 ||whoodiksaglels.net^
 ||whoogoveksoa.com^
 ||whookrair.xyz^
@@ -183503,6 +183507,7 @@ watson.*.microsoft.com
 ||zumsipsaupse.net^
 ||zumtultaxikr.com^
 ||zungify.one^
+||zungiwhaigaunsi.net^
 ||zunigarquitectura.com^
 ||zunmi.cn^
 ||zunsoach.com^
