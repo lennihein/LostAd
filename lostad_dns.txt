@@ -265,9 +265,6 @@ dlsdk.appsflyersdk.com^
 gcdsdk.appsflyersdk.com^
 inapps.appsflyersdk.com^
 register.appsflyersdk.com^
-serve.bussyhunter.com^
-serve.everydayporn.co^
-serve.yourporngod.com^
 vkcdnservice.appspot.com^
 watson.*.microsoft.com
 |c.blue.*.com^|
@@ -77592,6 +77589,7 @@ watson.*.microsoft.com
 ||ifllwfs.com^
 ||iflow-sg.browser.heytapmobile.com^
 ||iflow.uczzd.com.cn^
+||iflucav.icu^
 ||iflyad.bj.openstorage.cn^
 ||ifmccdn.icu^
 ||ifnyop.priceline.com^
@@ -127010,6 +127008,7 @@ watson.*.microsoft.com
 ||qwe0231141.bj.bcebos.com^
 ||qweasdzxc142.wixsite.com^
 ||qwebirc.swiftirc.net^
+||qweisiy.top^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwert.autotrdes.top^
@@ -164408,6 +164407,7 @@ watson.*.microsoft.com
 ||tweetriver.com^
 ||tweetswind.com^
 ||tweezesmalanga.com^
+||tweisii.top^
 ||twelfthcomprehendgrape.com^
 ||twelfthdistasteful.com^
 ||twelvemissionjury.com^
@@ -175739,6 +175739,7 @@ watson.*.microsoft.com
 ||wsfc.topya.com^
 ||wsgabiru.com^
 ||wsgayq.xyz^
+||wsgnihbh.icu^
 ||wsgwc.com^
 ||wsjlbbqemr23.com^
 ||wsknow.net^
@@ -182860,6 +182861,7 @@ watson.*.microsoft.com
 ||zfvdeu.novaconcursos.com.br^
 ||zfvsnpir-cxx.buzz^
 ||zfvtswv.xyz^
+||zfwgn.icu^
 ||zfwnbsdawitk.com^
 ||zg-api.com^
 ||zg-education.eoffcn.com^
