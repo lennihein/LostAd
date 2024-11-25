@@ -26125,6 +26125,7 @@ watson.*.microsoft.com
 ||az43064.vo.msecnd.net^
 ||az439107.vo.msecnd.net^
 ||az512334.vo.msecnd.net^
+||az5i.icu^
 ||az690879.vo.msecnd.net^
 ||az693360.vo.msecnd.net^
 ||az697jylm.cc^
@@ -62276,6 +62277,7 @@ watson.*.microsoft.com
 ||fiestafeijoa.xyz^
 ||fiestagrandefm.com^
 ||fiestasalou.com^
+||fiezaits.com^
 ||fifesmahdism.com^
 ||fifiphoto.com^
 ||fiftyt.com^
@@ -127806,6 +127808,7 @@ watson.*.microsoft.com
 ||qweasdzxc142.wixsite.com^
 ||qwebirc.swiftirc.net^
 ||qweisiy.top^
+||qweizay.top^
 ||qwerfdx.com^
 ||qwerioy.top^
 ||qwert.autotrdes.top^
@@ -134326,6 +134329,7 @@ watson.*.microsoft.com
 ||saclel.zotapay.com^
 ||sacombank.net.vn^
 ||sacombank.vn-ne.top^
+||sacombankvn.com^
 ||sacredperpetratorbasketball.com^
 ||sacredphoenix.com^
 ||sacrificeaffliction.com^
@@ -150020,6 +150024,7 @@ watson.*.microsoft.com
 ||stats.mcgriff.com^
 ||stats.mdanderson.org^
 ||stats.mealime.com^
+||stats.med.lu.se^
 ||stats.media.onet.pl^
 ||stats.mediaforge.com.edgekey.net^
 ||stats.medium.build^
@@ -166251,6 +166256,7 @@ watson.*.microsoft.com
 ||ulathana.com^
 ||ulclick.ru^
 ||ulcraft.com^
+||uldaens.com^
 ||uldlikukemyfueu.com^
 ||uldmakefeagr.info^
 ||uldtqa.weekendmaxmara.com^
@@ -176801,6 +176807,7 @@ watson.*.microsoft.com
 ||wwclickserv.club^
 ||wwe.ttradinn.top^
 ||wweisie.top^
+||wweizae.top^
 ||wwerioe.top^
 ||wwfx.xyz^
 ||wwgate.ru^
@@ -181724,6 +181731,7 @@ watson.*.microsoft.com
 ||yandaequas.com^
 ||yandex.st^
 ||yandexadexchange.net^
+||yandexmetric.com^
 ||yandexmetrica.com^
 ||yangqianguan.com^
 ||yankbecoming.com^
@@ -182458,6 +182466,7 @@ watson.*.microsoft.com
 ||yopcgames.com^
 ||yoptaejrj2kkf8nj09.com^
 ||yoptima.com^
+||yoqqiev.top^
 ||yoredi.com^
 ||yosearch.co^
 ||yoshatia.com^
