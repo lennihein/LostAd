@@ -5340,6 +5340,7 @@ watson.*.microsoft.com
 ||a2tw6yoodsag.com^
 ||a2w-proxy.air2web.com^
 ||a2wproxyvip-z2.air2web.com^
+||a2wx.icu^
 ||a2y8vytrk.com^
 ||a2zbuysell.com^
 ||a2zcdr.com^
@@ -15100,6 +15101,7 @@ watson.*.microsoft.com
 ||af119032f9.shnfx.click^
 ||af5b2ff170.e3aa58c849.com^
 ||af6937a2.live^
+||af6s.icu^
 ||af7vjw3df.com^
 ||af9dc9.xyz^
 ||afahivar.com^
@@ -20847,6 +20849,7 @@ watson.*.microsoft.com
 ||ao1120kas.top^
 ||ao1122kas.top^
 ||ao1123kas.top^
+||ao1201kas.top^
 ||ao2.vooresti.top^
 ||aoabt4trk.com^
 ||aoakss.com^
@@ -20857,6 +20860,7 @@ watson.*.microsoft.com
 ||aoao11201iis.top^
 ||aoao11211iis.top^
 ||aoao11241iis.top^
+||aoao12011iis.top^
 ||aob-diffusion.com^
 ||aobtwv.icu^
 ||aod-image-material.cdn.bcebos.com^
@@ -32202,6 +32206,7 @@ watson.*.microsoft.com
 ||brinstascooter.eccocar.com^
 ||brioletredeyes.com^
 ||brioscoot.eccocar.com^
+||brircel.com^
 ||briskifys.com^
 ||brisklyoptimizedcircuit.com^
 ||briskstorm.com^
@@ -34091,6 +34096,7 @@ watson.*.microsoft.com
 ||caamcs.julipet.it^
 ||caanalytics.com^
 ||caapp.levi.com^
+||caaqot.com^
 ||cabahythis.com^
 ||cabbagereporterpayroll.com^
 ||cabbagesemestergeoffrey.com^
@@ -37947,6 +37953,7 @@ watson.*.microsoft.com
 ||cicontents.biz^
 ||cicqdaqtrws.info^
 ||cideparenhem.com^
+||cidhmxxb.icu^
 ||cidimortus.com^
 ||cidixi.melody4youtoo.com^
 ||cidreeth.com^
@@ -54440,6 +54447,7 @@ watson.*.microsoft.com
 ||e8148c508.choyoga.com^
 ||e822e00470.com^
 ||e8aeb8bbdbbd7.cdn.sohucs.com^
+||e8d7.icu^
 ||e8e2063b.xyz^
 ||e8ee132d5b.mertv.pl^
 ||e9313b99fb.49f411f93f.com^
@@ -55244,6 +55252,7 @@ watson.*.microsoft.com
 ||edaightutaitlastwe.info^
 ||edalloverwiththinl.info^
 ||edallthroughthe.info^
+||edamcsw.top^
 ||edamods.com^
 ||edaukooru.net^
 ||edavbu.vittz.co.kr^
@@ -83177,6 +83186,7 @@ watson.*.microsoft.com
 ||jcrnbnw.com^
 ||jcv45.fr^
 ||jcvn.jp^
+||jcwlsofn.icu^
 ||jcyjly.com^
 ||jczunp.xyz^
 ||jd.digitkin.top^
@@ -134343,6 +134353,7 @@ watson.*.microsoft.com
 ||scolds24.com^
 ||scoltsconc.com^
 ||scombgiust.com^
+||sconat.com^
 ||sconnectstats.mckesson.com^
 ||sconsentit9.trafficmanager.net^
 ||scontent-atl3-2.xx.fbcdn.net.iberostar.com^
@@ -147804,7 +147815,6 @@ watson.*.microsoft.com
 ||statistik.jp.dk^
 ||statistik.komputerkampus.com^
 ||statistik.motorpresse.de^
-||statistik.mxo.se^
 ||statistik.polizei-beratung.de^
 ||statistik.simaja.de^
 ||statistik.svenskaakademien.se^
@@ -171436,6 +171446,7 @@ watson.*.microsoft.com
 ||wdadad.cn^
 ||wdads.sx.atl.publicus.com^
 ||wdakda.cn^
+||wdamcse.top^
 ||wdavrzv.com^
 ||wdcigo.xyz^
 ||wdcs.trendmicro.com^
@@ -182157,6 +182168,7 @@ watson.*.microsoft.com
 ||zinturax.com^
 ||zinubyy.com^
 ||zio.xcar.com.cn^
+||zio8.icu^
 ||ziololecznictwo.pl^
 ||zion-telemetry-nonprod.api.cnn.io^
 ||zion-telemetry.api.cnn.io^
