@@ -34001,6 +34001,7 @@ watson.*.microsoft.com
 ||c4nc3l-sp33ch.xyz^
 ||c4tracking01.com^
 ||c4tw.net^
+||c4uy.icu^
 ||c5.cembuyukhanli.com^
 ||c5.somalisounds.com^
 ||c504.harrisburgwinefest.com^
@@ -85106,6 +85107,7 @@ watson.*.microsoft.com
 ||k5c6i7.xyz^
 ||k5mi.xyz^
 ||k5u.shorersysurvey.space^
+||k5uj.icu^
 ||k5xzwo.webwave.dev^
 ||k5zoom.com^
 ||k6.karbilyazilim.com^
@@ -93668,6 +93670,7 @@ watson.*.microsoft.com
 ||lumtogle.net^
 ||lumtrc.xyz^
 ||lumupu.xyz^
+||lumvkebr.icu^
 ||lumxts.com^
 ||luna-ria.jp^
 ||luna.58.com^
@@ -98158,6 +98161,7 @@ watson.*.microsoft.com
 ||media-ads.zaloapp.com^
 ||media-adv.market.yandex.ru^
 ||media-adv.vs.market.yandex.net^
+||media-advcycle.imgsmail.ru^
 ||media-akam.licdn.com^
 ||media-angel.de^
 ||media-atl3-1.cdn.whatsapp.net.iberostar.com^
@@ -98181,6 +98185,7 @@ watson.*.microsoft.com
 ||media-rep.com^
 ||media-router-flurry7.prod.media.wg1.b.yahoo.com^
 ||media-sapiens.com^
+||media-stat.mail.ru^
 ||media-titanium.cursecdn.com^
 ||media-toolbar.com^
 ||media.ad-lps.net^
@@ -108683,6 +108688,7 @@ watson.*.microsoft.com
 ||newtabbyfrompdftodoc.com^
 ||newtabbyfrompdftodoc.org^
 ||newtaber.com^
+||newtabextension.com^
 ||newtabs.fun^
 ||newtabtv.com^
 ||newtabtvgamasearch.com^
@@ -111453,6 +111459,7 @@ watson.*.microsoft.com
 ||oda.markitondemand.com^
 ||odakom.com^
 ||odalrevaursartu.net^
+||odamcsk.top^
 ||odbierz-bony.ovp.pl^
 ||odc.1und1.de^
 ||odd-onead.cdn.hinet.net^
@@ -113564,6 +113571,7 @@ watson.*.microsoft.com
 ||op06.biz^
 ||op08.biz^
 ||op17.ru^
+||op3xdork.xyz^
 ||opabsolr.top^
 ||opac38.com^
 ||opads.us^
@@ -124891,6 +124899,7 @@ watson.*.microsoft.com
 ||pvc.zol.com.cn^
 ||pvclouds.com^
 ||pvd.to^
+||pvdbkr.com^
 ||pvdpix.com^
 ||pvhjkzo.xyz^
 ||pviasld.icu^
@@ -125213,6 +125222,7 @@ watson.*.microsoft.com
 ||q159.buffzone.com^
 ||q16.uteefaud.top^
 ||q19-e8s.pages.dev^
+||q1bp.icu^
 ||q1connect.com^
 ||q1gel.icu^
 ||q1ilb0enze.ru^
@@ -134610,6 +134620,7 @@ watson.*.microsoft.com
 ||scrooge.wesh.com^
 ||scrooge.wnbc.com^
 ||scrootruncal.shop^
+||scroscoi.com^
 ||scru.cn^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -155605,6 +155616,7 @@ watson.*.microsoft.com
 ||thao88.com^
 ||thaoheakolons.info^
 ||thapasi.com^
+||thaqne.com^
 ||thaqyl.mediamarkt.nl^
 ||tharbadir.com^
 ||thardahoofeetoa.net^
@@ -164301,6 +164313,7 @@ watson.*.microsoft.com
 ||ud.luniertithers.com^
 ||udalmancozen.com^
 ||udamain.com^
+||udamcst.top^
 ||udarem.com^
 ||udb3n.icu^
 ||udbaa.com^
