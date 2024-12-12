@@ -3468,6 +3468,7 @@ watson.*.microsoft.com
 ||624883159907672-dot-wet-rans-fer-254621.appspot.com^
 ||6279.seponews.com^
 ||629de87520.f983cf2155.com^
+||62a77005fb.com^
 ||62ca04e27a.com^
 ||62zd0.icu^
 ||63-217-112-145.static.pccwglobal.net.iberostar.com^
@@ -5431,6 +5432,7 @@ watson.*.microsoft.com
 ||a76.p.f.qz3.net^
 ||a776647af1.4b526a61a7.com^
 ||a7bce5ef.resource-6726610e-344c-800a-ac85-c2e0dc6cf26e-notification.pages.dev^
+||a7c.icu^
 ||a7cee49901.aliegro40.one^
 ||a7cleaner.com^
 ||a7e.monnierfreres.de^
@@ -38360,6 +38362,7 @@ watson.*.microsoft.com
 ||claimscandlingrussian.com^
 ||claimtokens.net^
 ||clairekabobs.com^
+||clairpixum.com^
 ||clairvoyantentrance.com^
 ||claitors.com^
 ||clam.figmachina.com^
@@ -42226,7 +42229,19 @@ watson.*.microsoft.com
 ||continuation423.fun^
 ||continue-installing.com^
 ||continue.com^
+||continue.dasboard154-account.com^
+||continue.dasboard174-account.com^
 ||continue.dasboard184-account.com^
+||continue.dasboard563-account.com^
+||continue.dasboard593-account.com^
+||continue.dasboard597-account.com^
+||continue.dasboard914-account.com^
+||continue.dasboard934-account.com^
+||continue.dasboard935-account.com^
+||continue.dasboard945-account.com^
+||continue.dasboard965-account.com^
+||continue.dasboard966-account.com^
+||continue.dasboard974-account.com^
 ||continueallergic.com^
 ||continuenumsync.ml^
 ||continuousselfevidentinestimable.com^
@@ -52663,6 +52678,7 @@ watson.*.microsoft.com
 ||dos.velek.com^
 ||dosagebreakfast.com^
 ||dosamurottom.com^
+||dosawes.com^
 ||doscarredwi.org^
 ||dosconsiderate.com^
 ||doseadraa.com^
@@ -82929,7 +82945,6 @@ watson.*.microsoft.com
 ||j1.piaobing.com^
 ||j1.shinobi.jp^
 ||j104.abc-7.com^
-||j158.hearstmediact.com^
 ||j178.wmur.com^
 ||j198.registercitizen.com^
 ||j1g.jouwauhesurvey.top^
@@ -87814,6 +87829,7 @@ watson.*.microsoft.com
 ||l.zysklonet.top^
 ||l.zyskon.top^
 ||l026e7vji8.execute-api.us-east-1.amazonaws.com^
+||l029.recordpatriot.com^
 ||l060.futureofworkweek.com^
 ||l0b.ru^
 ||l0ix1.site^
@@ -88122,6 +88138,7 @@ watson.*.microsoft.com
 ||lampshademirror.com^
 ||lampshadescreen.com^
 ||lampthimbledrew.com^
+||lamrissmyol.com^
 ||lamsoxaomptoaisopicka.appspot.com^
 ||lamthong.net^
 ||lamtrigger.com^
@@ -91485,6 +91502,7 @@ watson.*.microsoft.com
 ||ljc.coupang.com^
 ||ljdofz.xyz^
 ||ljhbhy.cn^
+||ljimtyl.top^
 ||ljjskttqximu.in^
 ||ljlvftvryjowdm.xyz^
 ||ljnhkytpgez.com^
@@ -93902,6 +93920,7 @@ watson.*.microsoft.com
 ||lustroushaven.com^
 ||lustychickser.com^
 ||lustypartnersfinder.com^
+||lusupodum.com^
 ||lutachechu.pro^
 ||luteeltoo.com^
 ||lutherinfo2.com^
@@ -94394,6 +94413,7 @@ watson.*.microsoft.com
 ||m2ykeh.izi.funnymixgames.com^
 ||m3.usnews.com^
 ||m32.media^
+||m367.michigansthumb.com^
 ||m3i0v745b.com^
 ||m3m-mansions.com^
 ||m3qn4.com^
@@ -94421,6 +94441,7 @@ watson.*.microsoft.com
 ||m6j37.xyz^
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me^
 ||m6r.eu^
+||m700.bigrapidsnews.com^
 ||m73lae5cpmgrv38.com^
 ||m7d0al.xyz^
 ||m7i1k.fun^
@@ -99472,6 +99493,7 @@ watson.*.microsoft.com
 ||metrics-latercera-com.cdn.ampproject.org^
 ||metrics-logger.spot.im^
 ||metrics-now.experian.com^
+||metrics-prod.suno.com^
 ||metrics-shell.com^
 ||metrics-target.siriusxm.com^
 ||metrics.1800contacts.com^
@@ -103657,11 +103679,13 @@ watson.*.microsoft.com
 ||mon*-misc-lf.fqnovel.com^
 ||mon*-platform-*.tiktokv.com^
 ||mon-*.tiktokv.com^
+||mon-boot.capcutapi.com^
 ||mon-conertisseur.fr^
 ||mon-dossier-vitale.com^
 ||mon-hl.snssdk.com^
 ||mon-i18n.tiktokv.com^
 ||mon-ru.tiktokv.com^
+||mon-va-us-looki.capcutapi.com^
 ||mon-va.byteoversea.com^
 ||mon-va.lemon8-app.com^
 ||mon-va.tiktokv.com.edgesuite.net^
@@ -106141,6 +106165,7 @@ watson.*.microsoft.com
 ||mytomatosoup.com^
 ||mytoolkitmail.com^
 ||mytop-in.net^
+||mytop.live.vkvideo.ru^
 ||mytopappz.com^
 ||mytopf.com^
 ||mytopwords.com^
@@ -107397,6 +107422,7 @@ watson.*.microsoft.com
 ||nekigee.com^
 ||neko-scan.fr^
 ||nektarbeachhotels.com^
+||neldatsy.com^
 ||nelfixinema.xyz^
 ||nelhon.com^
 ||nelioabtesting.com^
@@ -112204,6 +112230,7 @@ watson.*.microsoft.com
 ||ojdmuwovtqi.com^
 ||ojeecousaive.com^
 ||ojenvippe-serum.com^
+||ojimtyk.top^
 ||ojkduzbm.com^
 ||ojlsxt.pigment.co.kr^
 ||ojm4.palladiumhotelgroup.com^
@@ -120227,6 +120254,7 @@ watson.*.microsoft.com
 ||playgamego.xyz^
 ||playgamenowtab1.com^
 ||playgirl.com^
+||playgooglevn.vip^
 ||playground.xyz^
 ||playgroundordinarilymess.com^
 ||playhaven.com^
@@ -126634,6 +126662,7 @@ watson.*.microsoft.com
 ||qutsgp.calif.cc^
 ||quva.fi^
 ||quwkke.xyz^
+||quwsncrlcwjpj.com^
 ||quxraolmur.com^
 ||quxsiraqxla.com^
 ||quxwpwcwmmx.xyz^
@@ -127717,6 +127746,7 @@ watson.*.microsoft.com
 ||rdsgick.icu^
 ||rdstation.com.br^
 ||rdtk.io^
+||rdtlnutu.com^
 ||rdtracer.com^
 ||rdtrak.com^
 ||rdtrck2.com^
@@ -151695,6 +151725,7 @@ watson.*.microsoft.com
 ||suxqvc.pinksisly.com^
 ||suydnc.wwf.it^
 ||suyx.net^
+||suzalsln.com^
 ||suzanne.pro^
 ||suzbcnh.com^
 ||suzoqz.icu^
@@ -153071,6 +153102,7 @@ watson.*.microsoft.com
 ||t.zhipin.com^
 ||t.zip.co^
 ||t00050.serv00.net^
+||t002.myjournalcourier.com^
 ||t0day.eu^
 ||t0gju20fq34i.com^
 ||t0ikowg7jg.serverlesslaravelcourse.com^
@@ -157108,6 +157140,7 @@ watson.*.microsoft.com
 ||tiktok-searches.com^
 ||tiktok.g-cointrad.top^
 ||tiktok.googaz.com^
+||tiktok.tray.com.br^
 ||tiktokclaim.eu^
 ||tiktokclaim.org^
 ||tiktokcy1.com^
@@ -163410,6 +163443,7 @@ watson.*.microsoft.com
 ||ttdetect.staticimgfarm.com^
 ||ttdpxh.xyz^
 ||tteekes.com^
+||tteferty33.fun^
 ||ttemplatecreator.co^
 ||ttessab.net^
 ||ttfpil.2dehands.be^
@@ -164326,6 +164360,7 @@ watson.*.microsoft.com
 ||u5ps5.icu^
 ||u652.myplainview.com^
 ||u654.santacruzsentinel.com^
+||u660.theheraldreview.com^
 ||u68t5.icu^
 ||u6s1q5u0y.com^
 ||u6t3.shop^
@@ -164348,6 +164383,7 @@ watson.*.microsoft.com
 ||u833ij.com^
 ||u87yuo9ojh.world^
 ||u888.v.bsclink.cn^
+||u896.weekand.com^
 ||u8ad.com^
 ||u923x.com^
 ||u927.sfgate.com^
@@ -167165,6 +167201,7 @@ watson.*.microsoft.com
 ||v7.viayonetici.com^
 ||v712.cpbj.com^
 ||v785.online^
+||v812.lakecountystar.com^
 ||v878.mor-tv.com^
 ||v9-dc-ad.ixigua.com^
 ||v9.com^
@@ -178701,6 +178738,7 @@ watson.*.microsoft.com
 ||x446.orlandosentinel.com^
 ||x455.dailybreeze.com^
 ||x4c.bersedun.top^
+||x4d.icu^
 ||x4pollyxxpush.com^
 ||x4q4g2zy7.com^
 ||x5.amigasa.jp^
@@ -181405,6 +181443,7 @@ watson.*.microsoft.com
 ||yqigli.tourlane.de^
 ||yqlxkzs.cn^
 ||yqlxwb.icu^
+||yqlzccxn.icu^
 ||yqmdbegth.xyz^
 ||yqmxfz.com^
 ||yqorwz.weisshaus.at^
@@ -181850,6 +181889,7 @@ watson.*.microsoft.com
 ||z2.le.liveperson.net^
 ||z2.loggos.liveperson.net^
 ||z2.maven.liveperson.net^
+||z210.manisteenews.com^
 ||z211.yourconroenews.com^
 ||z216.times-standard.com^
 ||z3-2.birb.liveperson.net^
