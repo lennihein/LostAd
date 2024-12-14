@@ -326,6 +326,7 @@ watson.*.microsoft.com
 ||009855.com^
 ||00aaa3d3b9.6d39809b4a.com^
 ||00d84987c0.com^
+||00f8c4bb25.com^
 ||00fun.com^
 ||00lx.16580451.xyz^
 ||00nf1c1ae.top^
@@ -499,6 +500,7 @@ watson.*.microsoft.com
 ||0683.5clo0xmbf.com^
 ||0693.5clo0xmbf.com^
 ||06a21eff24.com^
+||06cffaae87.com^
 ||070880.com^
 ||07161975c6.8aa3da4561.com^
 ||072112277195639-dot-ale-ckr-efh.appspot.com^
@@ -4355,6 +4357,7 @@ watson.*.microsoft.com
 ||8eq.jouwauhesurvey.top^
 ||8et-slot.com^
 ||8et-slots.com^
+||8et.icu^
 ||8exx9qtuojv1.shop^
 ||8ezc.sfr.fr^
 ||8f2b4c98e7.com^
@@ -15590,6 +15593,7 @@ watson.*.microsoft.com
 ||afiliadoslab.com^
 ||afiliapub.click^
 ||afilio.com.br^
+||afilliatetraff.com^
 ||afilo.pl^
 ||afilyo.tfehotels.com^
 ||afind.com^
@@ -15602,6 +15606,7 @@ watson.*.microsoft.com
 ||afl-static-cdn.newbiz-prod.stroeerws.de^
 ||afl-x.com^
 ||afl.rakuten.co.jp^
+||afl.rozetka.com.ua^
 ||aflarung.com^
 ||aflink.com^
 ||afloatroyalty.com^
@@ -21400,7 +21405,6 @@ watson.*.microsoft.com
 ||api.mobileanjian.com^
 ||api.mobilecoveragemap.com^
 ||api.mobitech-content.xyz^
-||api.moengage.com^
 ||api.monedata.io^
 ||api.moneyoyo.org^
 ||api.mp.uc.cn^
@@ -21617,11 +21621,8 @@ watson.*.microsoft.com
 ||apitechgilenet-a.akamaihd.net^
 ||apituner.ecbsn.com^
 ||apiuccenter.ucweb.com^
-||apiv2.moengage.com^
 ||apiv2.popupsmart.com^
 ||apiv2.tiin.vn^
-||apiv2eu.moengage.com^
-||apiv3eu.moengage.com^
 ||apiv4-iyes.youku.com^
 ||apiwmda.58.com.cn^
 ||apk-ssl.tancdn.com^
@@ -21738,7 +21739,6 @@ watson.*.microsoft.com
 ||app-dedust.com^
 ||app-dev.onyx.fit^
 ||app-dev.stressbuoy.com^
-||app-eu.moengage.com^
 ||app-g.39.net^
 ||app-jp.getmiles.com^
 ||app-lb2.gservice.emarsys.net^
@@ -21757,7 +21757,6 @@ watson.*.microsoft.com
 ||app-monitor.ele.me^
 ||app-netfiix.com^
 ||app-push.2q10.com^
-||app-qa.moengage.com^
 ||app-qa.rnd.thronelabs.co^
 ||app-redirect.wearephlo.com^
 ||app-rush.com^
@@ -22247,7 +22246,6 @@ watson.*.microsoft.com
 ||app.mobilapp.io^
 ||app.mobilevikings.pl^
 ||app.mobnv.com^
-||app.moengage.com^
 ||app.mogo.ca^
 ||app.mogosme.com^
 ||app.moji001.com^
@@ -22567,7 +22565,6 @@ watson.*.microsoft.com
 ||app2up.info^
 ||app3.letitbefaster.website^
 ||app3.letmacwork.world^
-||app3.moengage.com^
 ||app392.gerberlife.com^
 ||app4.letitbefaster.website^
 ||app4.letslowbefast.life^
@@ -26149,6 +26146,7 @@ watson.*.microsoft.com
 ||b1.trickyrock.com^
 ||b1.tubexo.tv^
 ||b1.xiao84.com^
+||b10.justacdn.net^
 ||b117e6602e.0d65577236.com^
 ||b1181fb1.site^
 ||b12.myspace.com^
@@ -35961,7 +35959,6 @@ watson.*.microsoft.com
 ||cdn.mobify.com^
 ||cdn.mobivite.net^
 ||cdn.mobsocmedia.com^
-||cdn.moengage.com^
 ||cdn.moji.com^
 ||cdn.monsido.com^
 ||cdn.motor-junkie.com^
@@ -36796,7 +36793,6 @@ watson.*.microsoft.com
 ||cfh.rougrain.top^
 ||cfhx12w.world^
 ||cfigroup.com^
-||cfimage.moengage.com^
 ||cfivfadtlr.com^
 ||cfjslif.top^
 ||cflwebcast.com^
@@ -43472,6 +43468,7 @@ watson.*.microsoft.com
 ||cpmwcocfttte.xyz^
 ||cpng.lol.^
 ||cpng.lol^
+||cpngiubbcnq.love^
 ||cpnstrhl.com^
 ||cppgf.com^
 ||cppm-kc2.net.jumia.ci^
@@ -44549,6 +44546,7 @@ watson.*.microsoft.com
 ||ctibank.com^
 ||ctideal.com^
 ||ctiegx.kagu-wakuwaku.com^
+||ctimiyf.top^
 ||ctiotjobkfu.com^
 ||ctisjxjkqe.com^
 ||ctivo.com^
@@ -45695,6 +45693,7 @@ watson.*.microsoft.com
 ||d1f52ha44xvggk.cloudfront.net^
 ||d1f5r3d462eit5.cloudfront.net^
 ||d1f5rbi95y1icu.cloudfront.net^
+||d1f76eb5a4.com^
 ||d1f7vr2umogk27.cloudfront.net^
 ||d1f9tkqiyb5a97.cloudfront.net^
 ||d1f9x963ud6u7a.cloudfront.net^
@@ -55142,7 +55141,6 @@ watson.*.microsoft.com
 ||ec.adadapted.com^
 ||ec.didnsunns.com^
 ||ec.editmysite.com^
-||ec.moengage.com^
 ||ec.thredup.com^
 ||ec.uhhokker.top^
 ||ec.walkme.com^
@@ -56848,7 +56846,6 @@ watson.*.microsoft.com
 ||emailads.aarp.org^
 ||emailanalytics.com^
 ||emailanytimetab.com^
-||emailapi-v2.moengage.com^
 ||emailbeautifier.com^
 ||emailbenefithub.com^
 ||emailcenteruk.com^
@@ -64669,6 +64666,7 @@ watson.*.microsoft.com
 ||frezahkthnz.com^
 ||frezjiter.pro^
 ||frfetchme.com^
+||frfsjjtis.com^
 ||frfve33.fun^
 ||frgf99.fun^
 ||frgre33.fun^
@@ -66837,7 +66835,6 @@ watson.*.microsoft.com
 ||geoads.com^
 ||geoads.osdn.com^
 ||geoadserver.com^
-||geoapi.moengage.com^
 ||geoapi123.appspot.com^
 ||geobanner.alt.com^
 ||geobar.ziffdavisinternational.com^
@@ -69258,7 +69255,6 @@ watson.*.microsoft.com
 ||go.mitchell1.com^
 ||go.mitek-us.com^
 ||go.mktgcampaigns.com^
-||go.moengage.com^
 ||go.moka.ai^
 ||go.motivcx.com^
 ||go.muglife.com^
@@ -72803,6 +72799,7 @@ watson.*.microsoft.com
 ||hcw4strk.com^
 ||hcwatsempabvd.com^
 ||hcyhiadxay.com^
+||hcznaubp.icu^
 ||hczvwi.soldejaneiro.com^
 ||hczzw.com^
 ||hd-personalization-prod.gcp.homedepot.com^
@@ -75766,6 +75763,7 @@ watson.*.microsoft.com
 ||htheweathercenter.org^
 ||hthvc.icu^
 ||hthzoa.notino.hu^
+||htimiyu.top^
 ||htintpa.tech^
 ||htjwrwjjkaej.com^
 ||htkaoyan.com^
@@ -77898,7 +77896,6 @@ watson.*.microsoft.com
 ||imadrep.co.kr^
 ||imads.rediff.com^
 ||image-ad.sm.cn^
-||image-eu.moengage.com^
 ||image-rentracks.com^
 ||image-search.info^
 ||image-seeker.com^
@@ -77974,7 +77971,6 @@ watson.*.microsoft.com
 ||image.marketingposadas.com^
 ||image.mdr.de^
 ||image.messageinsite.com^
-||image.moengage.com^
 ||image.motorola-mail.com^
 ||image.myriad-email.com^
 ||image.news.uhcmedicaresolutions.com^
@@ -79191,8 +79187,6 @@ watson.*.microsoft.com
 ||inappi.me^
 ||inappropriate2.fun^
 ||inappropriatejessamycookery.com^
-||inapps-eu.moengage.com^
-||inapps.moengage.com^
 ||inarchentor.com^
 ||inareputaonfo.info^
 ||inareputaonforha.com^
@@ -79222,7 +79216,6 @@ watson.*.microsoft.com
 ||inbox.exacttarget.com^
 ||inboxace.com^
 ||inboxads.com^
-||inboxapi.moengage.com^
 ||inboxaus-account.com^
 ||inboxdollars.com^
 ||inboxguruinsightsnwl.com^
@@ -80068,7 +80061,6 @@ watson.*.microsoft.com
 ||info.mmmlaw.com^
 ||info.mobiusleadership.com^
 ||info.mobmed.com^
-||info.moengage.com^
 ||info.moneycontrol.network18online.com^
 ||info.monsooninc.com^
 ||info.moo.com^
@@ -84614,7 +84606,6 @@ watson.*.microsoft.com
 ||js.mangaraw.bid^
 ||js.mchncdn.com^
 ||js.medi-8.net^
-||js.moengage.com^
 ||js.mulan.cloud^
 ||js.newrutor.eu.org^
 ||js.newsmobile.co.kr^
@@ -86833,6 +86824,7 @@ watson.*.microsoft.com
 ||knpfx.life^
 ||knpkxgfp.xyz^
 ||kntodvofiyjjl.xyz^
+||knubletupgrow.shop^
 ||knuinws.icu^
 ||knurleddeblock.guru^
 ||knutenegros.pro^
@@ -103529,6 +103521,7 @@ watson.*.microsoft.com
 ||moeimg.net^
 ||moelove.jp^
 ||moendorf.top^
+||moengage.com^
 ||moengagewebsdk.imgix.net^
 ||moera.xyz^
 ||moeruhtaiken.doorblog.jp^
@@ -111129,13 +111122,11 @@ watson.*.microsoft.com
 ||o3mdhtrk.com^
 ||o3sndvzo25.com^
 ||o3sxhw5ad.com^
-||o46.info.updates.moengage.com^
 ||o4nofsh6.de^
 ||o4svlxhjun.xyz^
 ||o4uxrk33.com^
 ||o580.totalhomemarket.com^
 ||o626b32etkg6.com^
-||o63.em3424.moengage.com^
 ||o6b8iq9faurknd3p.k45z7tagm.com^
 ||o701.petage.com^
 ||o789thktrk.com^
@@ -113747,6 +113738,7 @@ watson.*.microsoft.com
 ||oomr.info^
 ||oomsijahail.com^
 ||oomsoapt.net^
+||oomsurtour.net^
 ||oongouha.xyz^
 ||ooniu.com^
 ||oonsouque.com^
@@ -122041,6 +122033,7 @@ watson.*.microsoft.com
 ||practivate-da1.adobe.com^
 ||practthreat.club^
 ||prada-pl.com^
+||praddpro.de^
 ||pradjadj.com^
 ||prafulkharade.com^
 ||pragbet.com^
@@ -122584,6 +122577,7 @@ watson.*.microsoft.com
 ||printio-geo.appspot.com^
 ||printmail.biz^
 ||printsmull.com^
+||prioraslop.com^
 ||prioressesy.info^
 ||priority-app.hotdoc.com.au^
 ||priorityblockinghopped.com^
@@ -123004,7 +122998,6 @@ watson.*.microsoft.com
 ||productsurfer.com^
 ||producttesting.uk.com^
 ||producttestpanel.com^
-||productupdates.moengage.com^
 ||productzoneoffer.com^
 ||produkte.ricoh.at^
 ||produkte.ricoh.de^
@@ -123662,14 +123655,12 @@ watson.*.microsoft.com
 ||proxyjs.luminatinet.com^
 ||proxyponyperiods.com^
 ||prozorro.online^
-||prp1.moengage.com^
 ||prpawouasjdiymw.com^
 ||prplad.com^
 ||prplads.com^
 ||prpmdp.xyz^
 ||prpops.com^
 ||prprocess.com^
-||prpwebpushdemo.moengage.com^
 ||prre.ru^
 ||prreqcroab.icu^
 ||prscripts.com^
@@ -135075,9 +135066,6 @@ watson.*.microsoft.com
 ||sdjkfn2iu3.com^
 ||sdjthl.tvguide.dk^
 ||sdjvbsjbvas.com^
-||sdk-01.moengage.com^
-||sdk-02.moengage.com^
-||sdk-04.moengage.com^
 ||sdk-analytics.inlocomedia.com^
 ||sdk-api.kidoz.net^
 ||sdk-api.prod.veep.io^
@@ -137352,7 +137340,6 @@ watson.*.microsoft.com
 ||services.webestools.com^
 ||services.wetek.com^
 ||services.wigzopush.com^
-||services.zam.com^
 ||services1.adtech.fr^
 ||services1.adtech.us^
 ||servicesofferinggrease.com^
@@ -138651,7 +138638,6 @@ watson.*.microsoft.com
 ||shopchienthan.com^
 ||shopclone.net^
 ||shopclonegiare.site^
-||shopclues.moengage.com^
 ||shopcocphuchoai.com^
 ||shopcodelienquan.com^
 ||shopcombined.co^
@@ -144837,6 +144823,7 @@ watson.*.microsoft.com
 ||sor-sdk.follow-apps.com^
 ||sor.beblon.com^
 ||sorbone.fr^
+||sordidsmile.com^
 ||sordifigwo.pro^
 ||sordimtaulee.com^
 ||sore-candle-comic.glitch.me^
@@ -162299,6 +162286,7 @@ watson.*.microsoft.com
 ||treg.hearstnp.com^
 ||trehtnoas.com^
 ||treimmedifroyo-5079.vercel.app^
+||treimphens.com^
 ||treinamento.convenio.to.gov.br^
 ||treiretremitru-6194.vercel.app^
 ||trek.powtoon.com^
@@ -163308,6 +163296,7 @@ watson.*.microsoft.com
 ||truthhascudgel.com^
 ||truthvexedben.com^
 ||trutvnci.top^
+||truxedku.com^
 ||truycapvidientu247.com^
 ||truyo.com^
 ||truzen.site^
@@ -169282,6 +169271,7 @@ watson.*.microsoft.com
 ||vilreeroucm.net^
 ||vilwe.com^
 ||vimage.com^
+||vimaxckc.com^
 ||vimeonk.com^
 ||vimepee.com^
 ||vimgs.ru^
@@ -171846,6 +171836,7 @@ watson.*.microsoft.com
 ||wcharger.com^
 ||wchhicimodil.com^
 ||wchjfv.apartmenttherapy.com^
+||wcigmepzygad.com^
 ||wckkl.online^
 ||wclnk.com^
 ||wclsylk.cn^
@@ -172551,7 +172542,6 @@ watson.*.microsoft.com
 ||websanalytic.com^
 ||websc.org^
 ||webscouldlearnof.info^
-||websdk.moengage.com^
 ||websdkmetrics.blackrock.com^
 ||websearch.com^
 ||websearch4me.com^
@@ -174397,6 +174387,7 @@ watson.*.microsoft.com
 ||wlog.ifdo.co.kr^
 ||wlog.kuaishou.com^
 ||wlog.tmon.co.kr^
+||wlouqsz.xyz^
 ||wlp3.aegon.es^
 ||wlpromo.info^
 ||wlptux.habitaclia.com^
@@ -175196,7 +175187,6 @@ watson.*.microsoft.com
 ||ws.audioeye.com^
 ||ws.chamo-chat.com^
 ||ws.ksmobile.net^
-||ws.moengage.com^
 ||ws.namava.ir^
 ||ws.progrss.yahoo.com^
 ||ws.sahibinden.com^
@@ -177159,7 +177149,6 @@ watson.*.microsoft.com
 ||www.mobiledemand.com^
 ||www.mobillium.mobi^
 ||www.mobjxuysd.top^
-||www.moengage.com^
 ||www.momoxxio.com^
 ||www.mon-com-net.com^
 ||www.mona-mono.blogspot.com^
@@ -180204,6 +180193,7 @@ watson.*.microsoft.com
 ||xwuad.com^
 ||xwvduxeiuv.com^
 ||xwvnhe.cn^
+||xwzbpkku-i.site^
 ||xwzebw.waja.co.jp^
 ||xx-umomfzqik.today^
 ||xx.billaesopus.com^
@@ -183053,6 +183043,7 @@ watson.*.microsoft.com
 ||zqwe.ru^
 ||zqwofo.liverpool.com.mx^
 ||zr.changarreviver.com^
+||zr3.icu^
 ||zrbbbj.tf.com.br^
 ||zrdga.cn^
 ||zremgec.com^
