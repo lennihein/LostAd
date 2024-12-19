@@ -3066,6 +3066,7 @@ watson.*.microsoft.com
 ||4v4jfe79erfxfu8z8.com^
 ||4vd.kicirtad.top^
 ||4w.wf^
+||4we.icu^
 ||4web.cz^
 ||4wens.org^
 ||4wfe3.icu^
@@ -32773,6 +32774,7 @@ watson.*.microsoft.com
 ||bt-log.dfast.app^
 ||bt.allotshyoides.com^
 ||bt.daftpage.com^
+||bt.dns-finder.com^
 ||bt.mediaimpact.de^
 ||bt.whopstriglot.com^
 ||bt1.patexplorer.com^
@@ -36549,6 +36551,7 @@ watson.*.microsoft.com
 ||ceebethoatha.com^
 ||ceebikoph.com^
 ||ceechuwaukah.com^
+||ceefsyqotuagk.com^
 ||ceegoumeem.com^
 ||ceegriwuwoa.net^
 ||ceeheesa.com^
@@ -52893,6 +52896,7 @@ watson.*.microsoft.com
 ||download-file.org^
 ||download-freemaps.com^
 ||download-member.de^
+||download-privacybear.com^
 ||download-ready.net^
 ||download-shares.com^
 ||download-sponsor.de^
@@ -55648,6 +55652,7 @@ watson.*.microsoft.com
 ||ee.m08pe.cn^
 ||ee.shixunwang.net^
 ||ee.sportacentrs.com^
+||ee5.icu^
 ||ee625e4b1d.com^
 ||ee768d2e27.0f9be2e1ef.com^
 ||ee93.pandasuite.io^
@@ -56353,6 +56358,7 @@ watson.*.microsoft.com
 ||elliotquarantineconductive.com^
 ||elliotretained.com^
 ||ellipticaldatabase.pro^
+||elloisny.com^
 ||elltradingcompany.com^
 ||ellyfisrgumentatio.com^
 ||ellypsio.net.jumia.com.ng^
@@ -86619,6 +86625,7 @@ watson.*.microsoft.com
 ||klivz.com^
 ||klixfeed.com^
 ||kljcqiia.com^
+||kljhsanvj.com^
 ||kljsdfliuoi.com^
 ||klkk66.fun^
 ||klktmc.parler.co.jp^
@@ -88770,6 +88777,7 @@ watson.*.microsoft.com
 ||lditsdebriisar.cfd^
 ||ldjcteyoq.com^
 ||ldjudcpc-qxm.icu^
+||ldjyvegage.com^
 ||ldmeukeuktyoue.com^
 ||ldnes.site^
 ||ldnfvherk3m2eyfipokmehgwyduiskqwm32ghekj.pages.dev^
@@ -89077,6 +89085,7 @@ watson.*.microsoft.com
 ||leefmylife.info^
 ||leefosto.com^
 ||leegaroo.xyz^
+||leegreemula.net^
 ||leelynx.fr^
 ||leena.ai^
 ||leepephah.com^
@@ -110356,6 +110365,7 @@ watson.*.microsoft.com
 ||nrbbkxiewk.com^
 ||nrbmveqk.com^
 ||nrbqgf.cn^
+||nrbwzh.icu^
 ||nrc.dxsvr.com^
 ||nrcykmnukb.com^
 ||nreg.world^
@@ -114913,6 +114923,7 @@ watson.*.microsoft.com
 ||othisf.tagomago.pl^
 ||othoojoph.net^
 ||otik.de^
+||otimiyk.top^
 ||otingolston.com^
 ||otisephie.com^
 ||otjawzdugg.com^
@@ -120938,6 +120949,7 @@ watson.*.microsoft.com
 ||poetryfoundation.fr^
 ||poetsofthefall.fr^
 ||poeze.xyz^
+||pofbpx.icu^
 ||pofhag.com^
 ||pofifa.com^
 ||poflirtujemy.pl^
@@ -121959,6 +121971,7 @@ watson.*.microsoft.com
 ||pphulian.com^
 ||pphwrevr.com^
 ||ppimdog.com^
+||ppio12181ios.top^
 ||ppixufsalgm.com^
 ||ppjdfki.com^
 ||ppjqgbz.com^
@@ -134850,6 +134863,7 @@ watson.*.microsoft.com
 ||scissorwailed.com^
 ||sciwokipif.com^
 ||scjlpq.navitime.co.jp^
+||sckyf.com^
 ||scl6gc5l.site^
 ||sclick.baidu.com^
 ||sclinsight.com^
@@ -137125,6 +137139,7 @@ watson.*.microsoft.com
 ||sentry.kumparan.com^
 ||sentry.malltina.com^
 ||sentry.matrix.org^
+||sentry.mci.dev^
 ||sentry.mediacdn.vn^
 ||sentry.mielse.com^
 ||sentry.mos.ru^
@@ -137139,7 +137154,7 @@ watson.*.microsoft.com
 ||sentry.pnblab.com^
 ||sentry.postmanlabs.com^
 ||sentry.prusa3d.com^
-||sentry.quera.org^
+||sentry.querastaff.ir^
 ||sentry.rustore.ru^
 ||sentry.rvcd.win^
 ||sentry.sc-prod.net^
@@ -140216,6 +140231,7 @@ watson.*.microsoft.com
 ||skhf11.com^
 ||skhf66.com^
 ||skhimgsxusidrxv.com^
+||skhmjezzj.com^
 ||ski1.skiset.com^
 ||skidgleambrand.com^
 ||skidkakupon.ru^
@@ -150218,6 +150234,7 @@ watson.*.microsoft.com
 ||stoneskirts.pl^
 ||stonewave.net^
 ||stongoapti.net^
+||stongors.com^
 ||stonkstime.com^
 ||stooboastaud.net^
 ||stoobsugree.net^
@@ -156885,6 +156902,7 @@ watson.*.microsoft.com
 ||threepi.de^
 ||threetruck.com^
 ||threewells.co^
+||threkuth.com^
 ||thremrtogo.com^
 ||threrlak.com^
 ||thresdemip.com^
@@ -167023,6 +167041,7 @@ watson.*.microsoft.com
 ||utillib.xyz^
 ||utils.mediageneral.net^
 ||utimg.ru^
+||utimiyt.top^
 ||utiq-aws.net^
 ||utiq.24auto.de^
 ||utiq.24hamburg.de^
@@ -182302,6 +182321,7 @@ watson.*.microsoft.com
 ||zabawa-relaks.click^
 ||zabawkowo.fun^
 ||zabkapol.com^
+||zabpgtjh.icu^
 ||zacff.com^
 ||zachbreslaw.com^
 ||zachunsears.com^
