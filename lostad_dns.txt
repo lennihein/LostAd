@@ -12547,6 +12547,7 @@ watson.*.microsoft.com
 ||ads.tv21.tv^
 ||ads.tvb.com^
 ||ads.tvp.pl^
+||ads.twdcgrid.com^
 ||ads.twitch.tv^
 ||ads.twitter.com^
 ||ads.twojatv.info^
@@ -17636,6 +17637,7 @@ watson.*.microsoft.com
 ||altcoinwebmall.com^
 ||altdorfer-niklaus.com^
 ||altech-ads.com^
+||altema-log.com^
 ||altenlayer.com^
 ||alterassumeaggravate.com^
 ||altereddimensions.net^
@@ -35587,6 +35589,7 @@ watson.*.microsoft.com
 ||cdn-gcs.outfit7.com^
 ||cdn-gliacloud.urekamedia.co^
 ||cdn-guile.akamaized.net^
+||cdn-gw-dv.vip^
 ||cdn-haokanapk.baidu.com^
 ||cdn-image.com^
 ||cdn-inner-active.edgekey.net^
@@ -39231,6 +39234,7 @@ watson.*.microsoft.com
 ||clksite.com^
 ||clkslvmiwadfsx.xyz^
 ||clkstat.china.cn^
+||clktds.org^
 ||clktrk.com^
 ||clku.digitalflare.io^
 ||clkursl.com^
@@ -53084,6 +53088,7 @@ watson.*.microsoft.com
 ||drippler.helpshift.com^
 ||dripspice.com^
 ||driv-analytics.com^
+||drivago.top^
 ||drive-gloogle.com^
 ||drive-software.com^
 ||drive-to-store-ads.klarna.com^
@@ -73195,6 +73200,7 @@ watson.*.microsoft.com
 ||hfindmyroutepro.com^
 ||hfindyourrecipe.com^
 ||hfindyourroute.net^
+||hfisngksng.com^
 ||hfiwcuodr.com^
 ||hfjmvr.xyz^
 ||hfjsliu.top^
@@ -84701,6 +84707,7 @@ watson.*.microsoft.com
 ||k98l.b-cdn.net^
 ||k99.cc^
 ||k9gj.site^
+||k9u.icu^
 ||ka-ad-zfxnggyn.kgslb.com^
 ||ka2trk.com^
 ||ka73-urara.club^
@@ -91662,6 +91669,7 @@ watson.*.microsoft.com
 ||log.podbbang.com^
 ||log.polarisoffice.com^
 ||log.prezi.com^
+||log.pullcenter.live^
 ||log.pvpgamebox.com^
 ||log.pvpgang.com^
 ||log.pvproom.com^
@@ -93786,6 +93794,7 @@ watson.*.microsoft.com
 ||m4uhd.cc^
 ||m4zoxtrcea1k.controlconceptsusa.com^
 ||m5.66077.cn^
+||m51.icu^
 ||m53frvehb.com^
 ||m549z.site^
 ||m57n.com^
@@ -126072,6 +126081,7 @@ watson.*.microsoft.com
 ||qwik-search.com^
 ||qwiklnk.com^
 ||qwilforcast.click^
+||qwilmiy.top^
 ||qwilr.com^
 ||qwilt-cq-prod-prod-media-analytics-upload-pipeline-pickup.s3.amazonaws.com^
 ||qwivhkmuksjodtt.com^
@@ -131687,6 +131697,7 @@ watson.*.microsoft.com
 ||rw.gundogleaker.com^
 ||rw.net.rewe.de^
 ||rw7ljljeiyz.net^
+||rwdjrn.icu^
 ||rwevib.harmontblaine.com^
 ||rwfkzw.wuerth.it^
 ||rwhjdb.icu^
@@ -138578,6 +138589,7 @@ watson.*.microsoft.com
 ||shutesaroph.com^
 ||shutterstock.inq.com^
 ||shuttersurveyednaive.com^
+||shuucerz.com^
 ||shuzilm.cn^
 ||shuzugakutoo.com^
 ||shvhse.com^
@@ -138783,6 +138795,7 @@ watson.*.microsoft.com
 ||sikkerbekreftelse.com^
 ||sikkerinngang.com^
 ||sikkerportal-boks.com^
+||sikncs.com^
 ||silcom.com^
 ||silebu.xyz^
 ||silenceapiece.com^
@@ -148813,6 +148826,7 @@ watson.*.microsoft.com
 ||statsforever.com^
 ||statshunt.com^
 ||statsie.com^
+||statsig.anthropic.com^
 ||statsig.com^
 ||statsigapi.net^
 ||statsinsight.com^
@@ -154997,6 +155011,7 @@ watson.*.microsoft.com
 ||tgdaudience.com^
 ||tgel2ebtx.ru^
 ||tget.me^
+||tghrfv.icu^
 ||tgidskii.top^
 ||tgiguru.com^
 ||tginspections.com^
@@ -158067,6 +158082,7 @@ watson.*.microsoft.com
 ||towjaz68.top^
 ||towjph29.top^
 ||towlha41.top^
+||towmfs.com^
 ||towmiparaic.com^
 ||townifybabbie.top^
 ||townlife-aff.com^
@@ -163109,7 +163125,6 @@ watson.*.microsoft.com
 ||twcnocllsckdfy.com^
 ||twcount.com^
 ||twcouponcenter.com^
-||twdcgrid.com^
 ||twdclog.he-games.com^
 ||twdhec.marioeletro.com^
 ||tweakarrangement.com^
@@ -169768,6 +169783,7 @@ watson.*.microsoft.com
 ||vrgvugostlyhewo.info^
 ||vrhesh.avocadogreenmattress.com^
 ||vrichshop.com^
+||vriesziy.com^
 ||vrikshajeevan.com^
 ||vrime.xyz^
 ||vrinqop.icu^
@@ -174747,6 +174763,7 @@ watson.*.microsoft.com
 ||wwhsxwow.xyz^
 ||wwiiskdkdnffnjuca.weebly.com^
 ||wwija.com^
+||wwilmie.top^
 ||wwin.wjulstock.info^
 ||wwis-dubc1-vip101.adobe.com^
 ||wwis-dubc1-vip102.adobe.com^
