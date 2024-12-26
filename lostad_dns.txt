@@ -3667,6 +3667,7 @@ watson.*.microsoft.com
 ||6ca9pwwpu.top^
 ||6ce02869b9.com^
 ||6cf0e7801e8cd.clicknplay.to^
+||6cs.icu^
 ||6d9f60dbbc.aliegro40.one^
 ||6de72955d8.com^
 ||6dmkbyxl8qsz9sic.wemakebestnews.com^
@@ -23746,6 +23747,7 @@ watson.*.microsoft.com
 ||asce.xyz^
 ||ascend.ai^
 ||ascenddigress.com^
+||ascendeummedia.com^
 ||ascendexpedientbeware.com^
 ||ascendflask.com^
 ||ascensionrelativestuck.com^
@@ -31624,6 +31626,7 @@ watson.*.microsoft.com
 ||bpupflxrxs.autograalmann.de^
 ||bpvartttgnbb.com^
 ||bpxbzps.xyz^
+||bpxxgkoj.icu^
 ||bpyerxzn.xyz^
 ||bpzyhzwy.pro^
 ||bq6n7trk.com^
@@ -36469,6 +36472,7 @@ watson.*.microsoft.com
 ||centipede.davimug.com^
 ||centipede.roasted.dev^
 ||centipede.wildbit.com^
+||centlyhavebed.com^
 ||centotag.io^
 ||central-messages.com^
 ||central.mall.tv^
@@ -45107,6 +45111,7 @@ watson.*.microsoft.com
 ||cyprusdrift.com^
 ||cyralithus.shop^
 ||cyretuf.top^
+||cyrociest.shop^
 ||cysd.7kww.net^
 ||cyseal.cyveillance.com^
 ||cysgcm.xyz^
@@ -55681,6 +55686,7 @@ watson.*.microsoft.com
 ||ei7.icu^
 ||eiamcentral.art^
 ||eiamglobal.co^
+||eibzywva.com^
 ||eichholz-klinik.de^
 ||eichholzklinik.de^
 ||eidersalias.com^
@@ -68420,6 +68426,7 @@ watson.*.microsoft.com
 ||gmrhzf.wolfermans.com^
 ||gms.greatschools.org^
 ||gmsllx.sorteonline.com.br^
+||gmso12251oka.top^
 ||gmthearingsolution.com^
 ||gmthhftif.com^
 ||gmtrack.net^
@@ -70825,6 +70832,7 @@ watson.*.microsoft.com
 ||gsppower.xyz^
 ||gspqch.cake.jp^
 ||gsr-nginx.docker.adcint.net^
+||gsrgjsmymkwt.com^
 ||gsspat.jp^
 ||gsspcln.jp^
 ||gssprt.jp^
@@ -76279,6 +76287,7 @@ watson.*.microsoft.com
 ||ibario.com^
 ||ibautomotive.com^
 ||ibbmfq.decameron.com^
+||ibbmkdooqkj.com^
 ||ibbmly.moneymetals.com^
 ||ibclick.stream^
 ||ibd-as-api.iq.com^
@@ -82600,6 +82609,7 @@ watson.*.microsoft.com
 ||jamtoursandtransfer.com^
 ||jamwveldexuee.xyz^
 ||jana1.jeoway.net^
+||janads.shop^
 ||janapi.jd.com^
 ||jandan.care^
 ||janejui.com^
@@ -82771,6 +82781,7 @@ watson.*.microsoft.com
 ||jb.nockerlmrs.com^
 ||jbbljg.autoscout24.bg^
 ||jbbyyryezqqvq.top^
+||jbdch1.appmobile.cn^
 ||jbezdi.ilsole24ore.com^
 ||jbib-hxyf.icu^
 ||jbkqemk.icu^
@@ -100793,6 +100804,7 @@ watson.*.microsoft.com
 ||minero-proxy-03.now.sh^
 ||minero.cc^
 ||minero.pw^
+||minerva.devices.a2z.com^
 ||minerva.ifixit.com^
 ||minesey.com^
 ||minesweepx.com^
@@ -122833,6 +122845,7 @@ watson.*.microsoft.com
 ||protectorincorporatehush.com^
 ||protectsubrev.com^
 ||protectsurf-a.akamaihd.net^
+||protectwborcn.com^
 ||protectyourdesktop.click^
 ||protectyourdevices.com^
 ||proteincalculate.com^
@@ -124794,6 +124807,7 @@ watson.*.microsoft.com
 ||pzxhyp.aeropostale.com^
 ||pzz.events^
 ||pzz.io^
+||pzzedx.icu^
 ||q*-publick.club^
 ||q-counter.com^
 ||q-stats.nl^
@@ -126348,6 +126362,7 @@ watson.*.microsoft.com
 ||r451.jamanetwork.com^
 ||r4nds.absorba.com^
 ||r4qt.org^
+||r4u.icu^
 ||r4zuof.cyou^
 ||r5.ritikajoshi.com^
 ||r5.romeflirt.com^
@@ -132088,6 +132103,7 @@ watson.*.microsoft.com
 ||s.ourwindsor.ca^
 ||s.parrysound.com^
 ||s.pcworld.com^
+||s.pie.org^
 ||s.platform.lightad.com^
 ||s.playa.to^
 ||s.po.st^
@@ -132262,6 +132278,7 @@ watson.*.microsoft.com
 ||s3-analytics-events.easybrain.com^
 ||s3-ap-southeast-1-amazonaws.com^
 ||s3-ap-southeast-2-amazonaws.com^
+||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-playable-ads.easybrain.com^
 ||s3.appcloudbox.net^
 ||s3.bytecdn.cn^
@@ -135862,6 +135879,7 @@ watson.*.microsoft.com
 ||seibertspart.com^
 ||seichesditali.click^
 ||seinunny.com^
+||seishinyoga.com^
 ||seitenaufruf.com^
 ||seitensprung.ag^
 ||seitensprungservice.com^
@@ -136305,6 +136323,7 @@ watson.*.microsoft.com
 ||sentry.vtsmedia.com^
 ||sentry.wearetriple.com^
 ||sentry.wixpress.com^
+||sentry.yektanet.tech^
 ||sentry.yingshidq.com.cn^
 ||sentry01.zerg.rambler.ru^
 ||sentryio.vice.com^
@@ -142828,6 +142847,7 @@ watson.*.microsoft.com
 ||smilebox.com^
 ||smilechocodelight573.sbs^
 ||smiledashm3.cam^
+||smileesidesuk.com^
 ||smilemarket.com^
 ||smilemotionr2.cam^
 ||smileoffennec.com^
@@ -152195,6 +152215,7 @@ watson.*.microsoft.com
 ||t.perigold.com^
 ||t.perjeta.com^
 ||t.picsart.com^
+||t.pie.org^
 ||t.pittsburghpanthers.com^
 ||t.playhousesquare.org^
 ||t.pmu.fr^
@@ -161360,6 +161381,7 @@ watson.*.microsoft.com
 ||trck.naco-do.com^
 ||trck.nuwlnuwl.com^
 ||trck.oxide.computer^
+||trck.pix.aak.prod-na.turntable.sonic.advertising.amazon.dev^
 ||trck.pocketmoon.me^
 ||trck.propo.co.jp^
 ||trck.repesta.com^
@@ -163178,6 +163200,7 @@ watson.*.microsoft.com
 ||twilightserenade.xyz^
 ||twilightsuburbmill.com^
 ||twilighttwirl.xyz^
+||twilmii.top^
 ||twinadsrv.com^
 ||twinboutjuly.com^
 ||twincdn.com^
@@ -166255,6 +166278,7 @@ watson.*.microsoft.com
 ||uwfcqtdb.xyz^
 ||uwhsj2k.com^
 ||uwignooxu.net^
+||uwilmit.top^
 ||uwisekegrup.com^
 ||uwjhzeb.com^
 ||uwlzsfo.com^
@@ -181424,6 +181448,7 @@ watson.*.microsoft.com
 ||zedo.com^
 ||zedwhyex.com^
 ||zeebestmarketing.com^
+||zeecajichaiw.net^
 ||zeechoog.net^
 ||zeechumy.com^
 ||zeeduketa.net^
