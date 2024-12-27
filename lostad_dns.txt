@@ -32,11 +32,13 @@
 .doublepimp.com^
 .ecommtools.com^
 .gameleads.ru^
+.infox.sg^
 .is.traff-numerical.info^
 .n.2.1.js^
 .n.2.1.l60.js^
 .piccash.net^
 .potopy.ru^
+.prod.pr.analytics.console.aws.a2z.com
 .sexplaycam.com^
 .stape.net
 .tovarro.com^
@@ -274,6 +276,10 @@ vkcdnservice.appspot.com^
 watson.*.microsoft.com
 |c.blue.*.com^|
 |lgtvsdp.com^
+|load.gtm.
+|load.sgtm.
+|load.ss.
+|load.sst.
 |piwik.
 |samsungcloudsolution.com^
 |samsungcloudsolution.net^
@@ -3360,6 +3366,7 @@ watson.*.microsoft.com
 ||5hjd9t.com^
 ||5iaox.xyz^
 ||5icim50.de^
+||5ik.icu^
 ||5isohu.com^
 ||5ivy3ikkt.com^
 ||5jd2tj2idrool.com^
@@ -5114,7 +5121,6 @@ watson.*.microsoft.com
 ||a.qinghua5.com^
 ||a.qncye.net^
 ||a.qsjiajiao.com^
-||a.quangushi.com^
 ||a.qunzou.com^
 ||a.quora.com^
 ||a.r8lnet.com^
@@ -5265,6 +5271,7 @@ watson.*.microsoft.com
 ||a1.bookapka.com^
 ||a1.booksamillion.com^
 ||a1.consoletarget.com^
+||a1.cyyangqiguan.com^
 ||a1.etrality.com^
 ||a1.firefoxchina.cn^
 ||a1.goo.ne.jp^
@@ -30129,6 +30136,7 @@ watson.*.microsoft.com
 ||blankgrey.com^
 ||blanksuppoint.com^
 ||blareclockwisebead.com^
+||blaring-chocolate.com^
 ||blarnyzizzles.shop^
 ||blasearch.com^
 ||blasedustin.shop^
@@ -37503,6 +37511,7 @@ watson.*.microsoft.com
 ||chinhphu.cc^
 ||chinhphu.dulieucutru.org^
 ||chinhphu.hodancu.com^
+||chinhphu.kbshkdt.org^
 ||chinlist.online^
 ||chinlist.site^
 ||chinsnakes.com^
@@ -43259,7 +43268,6 @@ watson.*.microsoft.com
 ||cpm.pulsefintech.net^
 ||cpm.pureadsltd.com^
 ||cpm.readywind.media^
-||cpm.revbid.net^
 ||cpm.rtbanalytica.com^
 ||cpm.rtbwire.com^
 ||cpm.rxnetwork.net^
@@ -50085,6 +50093,7 @@ watson.*.microsoft.com
 ||dhmdja.trueprotein.com.au^
 ||dhmonitor.dinaserver.com^
 ||dhn-ads-api.365scores.com^
+||dhnnbfok.icu^
 ||dhobeynandi.com^
 ||dhobyovaloid.com^
 ||dhoma.xyz^
@@ -58743,6 +58752,7 @@ watson.*.microsoft.com
 ||events.turbosquid.com^
 ||events.tvtime.com^
 ||events.virtusize.jp^
+||events.watchtower.imdbtv.amazon.dev^
 ||events.webdock.io^
 ||events.yourcx.io^
 ||events.zaloapp.com^
@@ -60896,6 +60906,7 @@ watson.*.microsoft.com
 ||fdtlfl.xyz^
 ||fdtqh15avvps.com^
 ||fdua.inosis.id^
+||fdxbilemeofrx.com^
 ||fdxtbs.meeters.org^
 ||fdyacma.icu^
 ||fe-go.letv.com^
@@ -68427,6 +68438,7 @@ watson.*.microsoft.com
 ||gms.greatschools.org^
 ||gmsllx.sorteonline.com.br^
 ||gmso12251oka.top^
+||gmso12261oka.top^
 ||gmthearingsolution.com^
 ||gmthhftif.com^
 ||gmtrack.net^
@@ -70923,6 +70935,7 @@ watson.*.microsoft.com
 ||gtm.saumag.edu^
 ||gtm.skrz.cz^
 ||gtm.stampenmedia.se^
+||gtm.temu.com^
 ||gtm.thefeed.com^
 ||gtm.thermondo.de^
 ||gtm.tipranks.com^
@@ -84555,6 +84568,7 @@ watson.*.microsoft.com
 ||jy135.com^
 ||jy147a.com^
 ||jy5hl2.xyz^
+||jy7.icu^
 ||jy8dc.xhamster.com^
 ||jy9xwwr6na98-a.akamaihd.net^
 ||jybaekajjmqrz.top^
@@ -84626,6 +84640,7 @@ watson.*.microsoft.com
 ||k-ulog.kwai-pro.com^
 ||k-ulog.kwaipros.com.akadns.net^
 ||k-ulog.kwaipros.com^
+||k-words.io^
 ||k.apiairasia.com^
 ||k.bbuuda.top^
 ||k.brandalley.be^
@@ -93262,6 +93277,7 @@ watson.*.microsoft.com
 ||lurchedchafted.top^
 ||lurchwatch.com^
 ||lurdoocu.com^
+||lurefq.com^
 ||lureillegimateillegimate.com^
 ||luresdl.top^
 ||lurgafty.net^
@@ -93413,6 +93429,7 @@ watson.*.microsoft.com
 ||lweriol.top^
 ||lwgadm.com^
 ||lwh1.carrefour-banque.fr^
+||lwilmil.top^
 ||lwjje.com^
 ||lwjrudzmzygol.com^
 ||lwjvyd.com^
@@ -100736,7 +100753,6 @@ watson.*.microsoft.com
 ||mimicvrows.com^
 ||mimilcnf.pro^
 ||mimiray-k.jp^
-||mimosaavior.top
 ||mimosaavior.top^
 ||mimosamajor.com^
 ||mimseelt.net^
@@ -106486,6 +106502,7 @@ watson.*.microsoft.com
 ||ncv.thenextstep.top^
 ||ncvdeal.com^
 ||ncvsbz.bonds.com.au^
+||ncvwnp.icu^
 ||ncvyu4dhj.com^
 ||ncwabgl.com^
 ||ncwckj.com^
@@ -113967,6 +113984,7 @@ watson.*.microsoft.com
 ||orutvnck.top^
 ||oruxdwhatijun.info^
 ||oryhic.xyz^
+||orysyisn.com^
 ||orznwsscwuqfes.com^
 ||os-mon.zijieapi.com^
 ||os.efax.es^
@@ -114791,6 +114809,7 @@ watson.*.microsoft.com
 ||owhlmuxze.com^
 ||owhopteefi.net^
 ||owhslxoqsuvvyf.xyz^
+||owilmik.top^
 ||owistats.net^
 ||owithlerendu.com^
 ||owksdmguqkfthks.com^
@@ -122323,7 +122342,6 @@ watson.*.microsoft.com
 ||professtrespass.com^
 ||profewide-luxellow.icu^
 ||proff.se^
-||proffering.xyz
 ||proffering.xyz^
 ||profi-link.org^
 ||profi-pl.tilda.ws^
@@ -122337,6 +122355,7 @@ watson.*.microsoft.com
 ||profileactionhome.com^
 ||profileclub.info^
 ||profileconfirm.info^
+||profileid.info^
 ||profilenetflix.com^
 ||profilenotice.info^
 ||profileobstaclepicture.com^
@@ -125380,6 +125399,7 @@ watson.*.microsoft.com
 ||qouxkn.natuurhuisje.nl^
 ||qovith.com^
 ||qovua60gue.tubewolf.com^
+||qovunx.com^
 ||qowii.top^
 ||qowin.co.in^
 ||qowncyf.com^
@@ -129292,6 +129312,7 @@ watson.*.microsoft.com
 ||revadstrk.com^
 ||revampcdn.com^
 ||revanced.net^
+||revbid.net^
 ||revboostprocdnadsprod.azureedge.net^
 ||revcatch.com^
 ||revcontent.com^
@@ -129909,7 +129930,6 @@ watson.*.microsoft.com
 ||ripugespur.com^
 ||riqosf.com^
 ||ririnsiss.net^
-||rirteelraibsou.net
 ||rirteelraibsou.net^
 ||rirtoojoaw.net^
 ||ris.api.iris.microsoft.com^
@@ -130991,7 +131011,6 @@ watson.*.microsoft.com
 ||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac-v4.broadadx.com^
 ||rtb-apac-v4.pubsfusion.com^
-||rtb-apac-v4.revbid.net^
 ||rtb-apac-v4.voisetech.com^
 ||rtb-apac.adportmedia.com^
 ||rtb-apac.broadadx.com^
@@ -131007,7 +131026,6 @@ watson.*.microsoft.com
 ||rtb-eu-v4.admozartexchange.com^
 ||rtb-eu-v4.cpmme.com^
 ||rtb-eu-v4.pteamrtbdir.com^
-||rtb-eu-v4.revbid.net^
 ||rtb-eu-v4.saroadexchange.com^
 ||rtb-eu-v4.servvidisplay.com^
 ||rtb-eu-v4.trackifyy.com^
@@ -131046,7 +131064,6 @@ watson.*.microsoft.com
 ||rtb-useast-v4.pronivydigital.com^
 ||rtb-useast-v4.pubsfusion.com^
 ||rtb-useast-v4.ras-trk.com^
-||rtb-useast-v4.revbid.net^
 ||rtb-useast-v4.sahrel-server.com^
 ||rtb-useast-v4.trackifyy.com^
 ||rtb-useast-v4.voisetech.com^
@@ -131087,7 +131104,6 @@ watson.*.microsoft.com
 ||rtb-uswest-ak.solomath.com^
 ||rtb-uswest-v4.admozartexchange.com^
 ||rtb-uswest-v4.infinityexplorers.com^
-||rtb-uswest-v4.revbid.net^
 ||rtb-uswest-v4.voisetech.com^
 ||rtb-uswest.adflores.com^
 ||rtb-uswest.admeridianopenrtb.com^
@@ -132538,6 +132554,7 @@ watson.*.microsoft.com
 ||sacchaeleduk.com^
 ||sacedoamte.net^
 ||sacfeqjpmznz.pro^
+||sachaits.com^
 ||sachikru.com^
 ||sachikru1.com^
 ||sachikru3.com^
@@ -147293,7 +147310,6 @@ watson.*.microsoft.com
 ||static.rek.ai^
 ||static.responzservz-3.com^
 ||static.returngo.ai^
-||static.revbid.net^
 ||static.rongkao.com^
 ||static.rtb-serve.com^
 ||static.rtbnext.com^
@@ -148452,7 +148468,6 @@ watson.*.microsoft.com
 ||stats.respkt.de^
 ||stats.restminder.com^
 ||stats.reto.tv^
-||stats.revbid.net^
 ||stats.revenue.net^
 ||stats.revloq.com^
 ||stats.rideinpeace.ie^
@@ -153664,6 +153679,7 @@ watson.*.microsoft.com
 ||tcbox.baidu.com^
 ||tcbtus.opodo.com^
 ||tccbanner.com^
+||tccd.douglas.
 ||tccjxk.123.ru^
 ||tcdata.fnac.com^
 ||tcdypeptz.com^
@@ -155380,6 +155396,7 @@ watson.*.microsoft.com
 ||thegossipsexynews.com^
 ||thegpt-trade.com^
 ||thegravehthh.info^
+||thegreatesthits.
 ||thegreatgemcloset.com^
 ||theguernseyliterarypotatopeelpiesociety.com^
 ||thegurualliance.com^
@@ -156967,6 +156984,7 @@ watson.*.microsoft.com
 ||tliveradiopro.com^
 ||tll.tl^
 ||tlm.adp.ca^
+||tlmtr.org^
 ||tlnk.io^
 ||tlootas.org^
 ||tlpfjgsstoytfm.com^
@@ -159581,7 +159599,6 @@ watson.*.microsoft.com
 ||tracker-pm2.spilleren.com^
 ||tracker-preview.ai.xiaomi.com^
 ||tracker-sav.space^
-||tracker-tds.info
 ||tracker-tds.info^
 ||tracker-zlivestream.zapps.vn^
 ||tracker.520call.me^
@@ -181180,6 +181197,7 @@ watson.*.microsoft.com
 ||zacleporis.com^
 ||zads.me.zing.vn^
 ||zaemi.xyz^
+||zaeqrath.com^
 ||zafer-x.com^
 ||zagent1615.hola.org^
 ||zagent1625.hola.org^
