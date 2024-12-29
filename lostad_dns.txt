@@ -3554,6 +3554,7 @@ watson.*.microsoft.com
 ||6631f33cf2a1032b.com^
 ||665166e5a9.com^
 ||6651tp.com^
+||6657e4f5c2.com^
 ||666579.xyz^
 ||666833.xyz^
 ||6669667.com^
@@ -4354,6 +4355,7 @@ watson.*.microsoft.com
 ||8cf5ae1723.vouch40.one^
 ||8chuyenphongthe.com^
 ||8coins.net^
+||8cp.icu^
 ||8d07823accca4b48a2a3be8f0a826475.dnstvplus.pl^
 ||8d4b.pandasuite.io^
 ||8d8039a1eb.f63777e43d.com^
@@ -21012,6 +21014,7 @@ watson.*.microsoft.com
 ||apc.loket.nl^
 ||apcatcltoph.com^
 ||apcdp.apnews.com^
+||apconsultantgroup.com^
 ||apcpaxwfej.com^
 ||apd-pcdnvodstat.teg.tencent-cloud.net^
 ||apd-vodp2preport.teg.tencent-cloud.net^
@@ -27818,6 +27821,7 @@ watson.*.microsoft.com
 ||be.startdownload.mobi^
 ||be2dme.cyou^
 ||be30660063.com^
+||be51586160.com^
 ||bea-s.dinghuoche.com^
 ||bea4.cnn.com^
 ||bea988787c.com^
@@ -35454,6 +35458,7 @@ watson.*.microsoft.com
 ||ccjzuavqrh.com^
 ||cclc.truproggs.top^
 ||ccleaner.fr^
+||cclimif.top^
 ||cclpub.com^
 ||ccm.abload.de^
 ||ccm.hamburg-magazin.de^
@@ -60837,6 +60842,7 @@ watson.*.microsoft.com
 ||fcdn.info^
 ||fcdn.webme.com^
 ||fcdr7trk.com^
+||fceedf7652.com^
 ||fcepahafyq.com^
 ||fcfg.pl^
 ||fcfpremium.com^
@@ -72412,6 +72418,7 @@ watson.*.microsoft.com
 ||hcl.baidu.com^
 ||hclassifiedslist.com^
 ||hclassifiedslist1.com^
+||hclimiu.top^
 ||hclspy.gourmetencasa-tcm.com^
 ||hcmhqb.radpowerbikes.ca^
 ||hcmhs.org^
@@ -74950,6 +74957,7 @@ watson.*.microsoft.com
 ||hotstar.pubnub.net^
 ||hotstream.site^
 ||hottdates.com^
+||hottedholster.com^
 ||hotterbeenpeak.com^
 ||hottercensorbeaker.com^
 ||hottest-girls-online.com^
@@ -76900,6 +76908,7 @@ watson.*.microsoft.com
 ||ieluqbvv.telemetry.connect.us-west-2.amazonaws.com^
 ||ieluqiqttdwv.com^
 ||iemcan.com^
+||iemhotqk.com^
 ||iemiq.com^
 ||ienjoyapps.com^
 ||ientent.stre4mplay.one^
@@ -82822,6 +82831,7 @@ watson.*.microsoft.com
 ||jbscbgqmqim.xyz^
 ||jbsmediaventures.com^
 ||jbtul.com^
+||jbvoejzamqjzl.top^
 ||jbwiujl.com^
 ||jbzmwqmqwowaz.top^
 ||jc.lairdsdemonry.com^
@@ -104551,6 +104561,7 @@ watson.*.microsoft.com
 ||murilo.eng.br^
 ||murkybrashly.com^
 ||murkymouse.online^
+||murolwsi.com^
 ||murqyi.com^
 ||musah.info^
 ||musament.top^
@@ -126800,6 +126811,7 @@ watson.*.microsoft.com
 ||rapidads.de^
 ||rapidations.ml^
 ||rapidcounter.com^
+||rapidfoxengine.com^
 ||rapidhits.net^
 ||rapidhunchback.com^
 ||rapidlyintegratedcapacitance.com^
@@ -128361,6 +128373,7 @@ watson.*.microsoft.com
 ||relevanti.com^
 ||relevantknowledge.com^
 ||relevisibly.com^
+||relgrads.com^
 ||reliable.elgas.com.au^
 ||reliablebanners.com^
 ||reliablecargonetwork.su^
@@ -131743,6 +131756,7 @@ watson.*.microsoft.com
 ||rvwgm2wrld3.xyz^
 ||rvwgm2wrld4.xyz^
 ||rvwifitv.com^
+||rvxmlj.icu^
 ||rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com^
 ||rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com^
 ||rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com^
@@ -143102,6 +143116,7 @@ watson.*.microsoft.com
 ||smzdm.soboten.com^
 ||sn.sanoma.fi^
 ||sn00.net
+||sn9.icu^
 ||snabbbudget.com^
 ||snabbflirt.com^
 ||snack-media.com^
@@ -145061,6 +145076,7 @@ watson.*.microsoft.com
 ||spoilmagicstandard.com^
 ||spoilphysiqueteenagers.com^
 ||spoilqueens.com^
+||spokanchap.com^
 ||spokenlayer.com^
 ||spokeo.pl^
 ||spokesperson254.fun^
@@ -146022,6 +146038,7 @@ watson.*.microsoft.com
 ||ssp.putaojiu.com^
 ||ssp.qq.com^
 ||ssp.rambler.ru^
+||ssp.rutube.ru^
 ||ssp.seznam.cz^
 ||ssp.swe.xyz^
 ||ssp.tanx.com^
@@ -155292,6 +155309,7 @@ watson.*.microsoft.com
 ||thebestoffer4you.net^
 ||thebestoffers4you.net^
 ||thebestoffersintheweb.com^
+||thebestone.click^
 ||thebestwebpillplace.com^
 ||thebestwefind.com^
 ||thebiem.com^
@@ -156078,6 +156096,7 @@ watson.*.microsoft.com
 ||thtrackingap.com^
 ||thubanoa.com^
 ||thudsurdardu.net^
+||thuekhachsan.com.vn^
 ||thuftairouhy.com^
 ||thuftetsoomt.com^
 ||thughngo.com^
@@ -161822,6 +161841,7 @@ watson.*.microsoft.com
 ||trivialadoptedpoorly.com^
 ||triviasms.com^
 ||triviaworld.club^
+||trjfoagf.icu^
 ||trjs2.mediafin.be^
 ||trjwraxkfkm.com^
 ||trk*.vidible.tv^
@@ -162631,6 +162651,7 @@ watson.*.microsoft.com
 ||tsbm.ch^
 ||tsbmkf.zonnebrillen.com^
 ||tsbo.company^
+||tsbrzz.icu^
 ||tsbsecurity-online.com^
 ||tscounter.com^
 ||tsdamend.com^
@@ -168429,6 +168450,7 @@ watson.*.microsoft.com
 ||viiadr.com^
 ||viiavjpe.com^
 ||viibest.com^
+||viibmmqc.com^
 ||viicentr.com^
 ||viicxwec.com^
 ||viicylmb.com^
@@ -169069,6 +169091,7 @@ watson.*.microsoft.com
 ||vjwiggkjxawhs.xyz^
 ||vjybuykaxz4.com^
 ||vjznu4.com^
+||vjzvgvgz.icu^
 ||vk-ads.ru^
 ||vk-analytics.ru^
 ||vk.digitkin.top^
