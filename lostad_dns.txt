@@ -3744,6 +3744,7 @@ watson.*.microsoft.com
 ||6v8hi.top^
 ||6w1.sharedlinkconnect.com^
 ||6w4ddqwxuy0r3rnq.l5eamr17d.com^
+||6w7.icu^
 ||6xtpke4.com^
 ||6xy-zg.com^
 ||6y41lvp795r3xm.dis-tv.online^
@@ -11712,6 +11713,7 @@ watson.*.microsoft.com
 ||ads.freepbx.org^
 ||ads.freestar.com^
 ||ads.freshmeat.net^
+||ads.frihetsnytt.se^
 ||ads.froggie-mm.com^
 ||ads.fs.lsapp.tech^
 ||ads.fubo.tv^
@@ -16259,6 +16261,7 @@ watson.*.microsoft.com
 ||air360tracker.net^
 ||airablebuboes.com^
 ||airairgu.com^
+||airakgyl.com^
 ||airartapt.site^
 ||airaujoog.com^
 ||airbnb.sync114.com^
@@ -30620,6 +30623,7 @@ watson.*.microsoft.com
 ||blueheart.org^
 ||bluehornet.com^
 ||blueinfo.marugroup.net^
+||blueingpoori.com^
 ||blueistheneworanges.com^
 ||bluejay.edgesoftware.cloud^
 ||bluejay.fivefold.vc^
@@ -36281,6 +36285,7 @@ watson.*.microsoft.com
 ||cdydeal.com^
 ||cdyomdcggyux.com^
 ||cdypsqghdgrw.com^
+||cdyurlif.top^
 ||cdzdeal.com^
 ||ce-global-track-*.amazonaws.com^
 ||ce-marketing.fr^
@@ -40337,6 +40342,7 @@ watson.*.microsoft.com
 ||collect-elb-*.amazonaws.com^
 ||collect-metrics.aquro.com^
 ||collect-v*.51.la^
+||collect.4gtv.tv^
 ||collect.adplogger.no^
 ||collect.adsorb.com^
 ||collect.air1.com^
@@ -44873,6 +44879,7 @@ watson.*.microsoft.com
 ||cv1.start-eo.jp^
 ||cv1.stefany.co.jp^
 ||cv4aftrk.com^
+||cv7.icu^
 ||cvasdf.click^
 ||cvastico.com^
 ||cvbjctqs.xyz^
@@ -45082,6 +45089,7 @@ watson.*.microsoft.com
 ||cyclobenzaprine.ourtablets.com^
 ||cyclopsdial.com^
 ||cyclosemel.com^
+||cyclstriche.com^
 ||cycndlhot.xyz^
 ||cycsfe.com^
 ||cycvyo.xyz^
@@ -84353,6 +84361,7 @@ watson.*.microsoft.com
 ||juniper.my.salesforce-sites.com^
 ||junivmr.com^
 ||junk-bros.com^
+||junkettypika.shop^
 ||junkieswudge.com^
 ||junkmildredsuffering.com^
 ||junkrat-tire.overbuff.com^
@@ -88992,6 +89001,7 @@ watson.*.microsoft.com
 ||lgad.cjpowercast.com.edgesuite.net^
 ||lgbdxo.azazie.com^
 ||lgepbups.xyz^
+||lgforbes.akamaized.net^
 ||lgfzpa.myshopify.com^
 ||lgglobal.ihago.net^
 ||lgglobalb.yy.com^
@@ -90574,6 +90584,7 @@ watson.*.microsoft.com
 ||liqwid.solutions^
 ||liracdn.com^
 ||lirotroodles.com^
+||lirretsn.com^
 ||lis2.beblon.com^
 ||lisa-maus.com^
 ||lisaa.fr^
@@ -97318,6 +97329,7 @@ watson.*.microsoft.com
 ||mclicco.mastercasc.top^
 ||mclick.mobi^
 ||mclick.simba.taobao.com^
+||mclimix.top^
 ||mcloudglobal.com^
 ||mcnodes.zapto.org^
 ||mcnpanel.com^
@@ -101080,6 +101092,7 @@ watson.*.microsoft.com
 ||mistrustconservation.com^
 ||mistrzostwa-polski-brukarzy-drogbruk.myfreesites.net^
 ||mistydexterityflippant.com^
+||mistyforestolqt.online^
 ||mistygloom.com^
 ||mistyhorizon.com^
 ||misunderstandimmediate.com^
@@ -108902,6 +108915,7 @@ watson.*.microsoft.com
 ||nmxads.narrowline.com^
 ||nmxkj4trk.com^
 ||nmxxvr.xyz^
+||nmzbrd.icu^
 ||nn.uhhokker.top^
 ||nnatrimin.com^
 ||nnavigation.info^
@@ -112481,6 +112495,7 @@ watson.*.microsoft.com
 ||omvenusaurchan.com^
 ||omvzcq.vidaxl.be^
 ||omxodt.shredoptics.com^
+||omxwt.cn^
 ||omynews.net^
 ||omyvimmw9wsk.t.mahapowerex.eu^
 ||omzoroarkan.com^
@@ -134055,6 +134070,7 @@ watson.*.microsoft.com
 ||scissorwailed.com^
 ||sciwokipif.com^
 ||scjlpq.navitime.co.jp^
+||scjtfh.xyz^
 ||sckjzfahoizclt.com^
 ||sckyf.com^
 ||scl6gc5l.site^
@@ -143370,6 +143386,7 @@ watson.*.microsoft.com
 ||so333o.com^
 ||so8.hyatt.com^
 ||soa-vip-ssl.xunlei.com^
+||soacoujusoopsoo.xyz^
 ||soadaupaila.net^
 ||soadicithaiy.net^
 ||soagopsigeegouk.net^
@@ -163567,6 +163584,7 @@ watson.*.microsoft.com
 ||tzmiaa-ad-in-f3.1e100.net^
 ||tznizrhd.xyz^
 ||tzovkp.aboutyou.at^
+||tztmqvga.icu^
 ||tzuhumrwypw.com^
 ||tzvpn.site^
 ||tzwaw.pw^
@@ -172664,6 +172682,7 @@ watson.*.microsoft.com
 ||whichdeploy.com^
 ||whidhlhj.ru^
 ||whidoutounseegn.xyz^
+||whidsugnoackili.net^
 ||whileinferioryourself.com^
 ||whilieesrogs.top^
 ||whilokii.net^
