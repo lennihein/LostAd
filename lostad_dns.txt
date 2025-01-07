@@ -9,6 +9,7 @@
 # the com.com family of sites
 *ad.durasite.net^
 *watson.events.data.microsoft.com^
+-adrevenue.appsflyersdk.com^
 -adx-*.rayjump.com^
 -applog*.fqnovel.com^
 -attr.appsflyersdk.com^
@@ -1519,6 +1520,7 @@ watson.*.microsoft.com
 ||1tempurl.com^
 ||1terms.com^
 ||1to1.bbva.com^
+||1tp.icu^
 ||1traf.ru^
 ||1trn.com^
 ||1ts03.top^
@@ -4730,6 +4732,7 @@ watson.*.microsoft.com
 ||9d2cca15e4.com^
 ||9d3464a212.eac77b4889.com^
 ||9d603009eb.com^
+||9d87b35397.com^
 ||9d9993630b.aliegro.click^
 ||9db0d33d.pay.zamkowaskoczow.pl^
 ||9db1ac1992.9d8880ca57.com^
@@ -82800,6 +82803,7 @@ watson.*.microsoft.com
 ||jdt8.net^
 ||jdu-news1.club^
 ||jdu-news2.club^
+||jdyurlia.top^
 ||jdzmqj.thousandtrails.com^
 ||je3trk.com^
 ||jealouserroneous.com^
@@ -83004,6 +83008,7 @@ watson.*.microsoft.com
 ||jfnnzq.quelle.de^
 ||jfoaxwbatlic.com^
 ||jfpltp.eyeforfashion.pl^
+||jfrrnf.icu^
 ||jfsarljb.com^
 ||jfvmnnsnjqqa.com^
 ||jfvsb.fresh-newss.top^
@@ -85059,6 +85064,7 @@ watson.*.microsoft.com
 ||kdttokhayhj.com^
 ||kdwontyraqdswlqm.ossrescue.com^
 ||kdy365.vip^
+||kdyurlid.top^
 ||kdzgrvn.icu^
 ||ke-tai.net^
 ||ke.com^
@@ -96950,6 +96956,7 @@ watson.*.microsoft.com
 ||mb57.com^
 ||mb9tcq3trk.com^
 ||mbaas.api.nifcloud.com^
+||mbada.nan.co.jp^
 ||mbadv.nan.co.jp^
 ||mbadw.nan.co.jp^
 ||mbainfo.ust.hk^
@@ -104928,6 +104935,7 @@ watson.*.microsoft.com
 ||myhotdates.com^
 ||myhotelbook.pegs.com^
 ||myhotfeed.com^
+||myhst2024.com^
 ||myhug.cn^
 ||myhugestories.com^
 ||myhugewords.com^
@@ -113447,6 +113455,7 @@ watson.*.microsoft.com
 ||orcaslicer.co^
 ||orcaslicer.net^
 ||orccpeaodwi.com^
+||orcinhyi.com^
 ||orcjagpox.com^
 ||orclrul.com^
 ||orcnakokt.com^
@@ -124551,6 +124560,7 @@ watson.*.microsoft.com
 ||qblkeu.vamvelosiped.ru^
 ||qbop.com^
 ||qbrotqkbvsrn.com^
+||qbrth.ezcontacts.com^
 ||qbsday.xyz^
 ||qbw4e2u03qljr8yd.rapidnewscraze.com^
 ||qbwkux.home24.at^
@@ -146423,6 +146433,7 @@ watson.*.microsoft.com
 ||stat.legalintelligence.com^
 ||stat.lexhub.tech^
 ||stat.livejournal.com^
+||stat.loppi.se^
 ||stat.m.360.cn^
 ||stat.m.jj.cn^
 ||stat.made-in-china.com.cdn.cloudflare.net^
@@ -146536,6 +146547,7 @@ watson.*.microsoft.com
 ||stat.valica.it^
 ||stat.vcpost.com^
 ||stat.viewdepth.cn^
+||stat.vimedbarn.se^
 ||stat.vin^
 ||stat.vipstatic.com^
 ||stat.vocus.com^
@@ -155568,6 +155580,7 @@ watson.*.microsoft.com
 ||thrsnplclkhme.com^
 ||thrtle.com^
 ||thrtycna.com^
+||thruksyq.com^
 ||thruport.com^
 ||thrustlumpypulse.com^
 ||thruudrad.com^
@@ -167751,6 +167764,7 @@ watson.*.microsoft.com
 ||view.kirbybuildingsystems.com^
 ||view.mailer.hoteltonight.com^
 ||view.metlspan.com^
+||view.mngusr.com^
 ||view.nucorbuildingsystems.com^
 ||view.s6.exacttarget.com^
 ||view.s7.exacttarget.com^
@@ -180666,6 +180680,7 @@ watson.*.microsoft.com
 ||z3ctos.lol^
 ||z3zex.icu^
 ||z492.ctinsider.com^
+||z4v.icu^
 ||z54a.xyz^
 ||z5x.net^
 ||z61.bersedun.top^
