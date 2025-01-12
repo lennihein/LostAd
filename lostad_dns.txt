@@ -1023,6 +1023,7 @@ watson.*.microsoft.com
 ||123w0w.com^
 ||1240.5clo0xmbf.com^
 ||1243552353535.inhhome.top^
+||1244746616.rsc.cdn77.org^
 ||1247.79j68qav2.com^
 ||125.net.jumia.co.ke^
 ||1251088098.rsc.cdn77.org^
@@ -1201,6 +1202,7 @@ watson.*.microsoft.com
 ||1736253261.rsc.cdn77.org^
 ||17384.com^
 ||1750.sosqboh85.com^
+||1758664454.rsc.cdn77.org^
 ||175c666632.e2af52cae7.com^
 ||176.net.jumia.ma^
 ||1761.5clo0xmbf.com^
@@ -7015,6 +7017,7 @@ watson.*.microsoft.com
 ||abbankquick.com^
 ||abbankvn.com^
 ||abbasidquippy.shop^
+||abbateerupted.com^
 ||abbattery.com^
 ||abbeautyworld.com^
 ||abberantbeefy.com^
@@ -27802,6 +27805,7 @@ watson.*.microsoft.com
 ||bc0ca74b.live^
 ||bc13945167.9cf57a043f.com^
 ||bc34.wijnvoordeel.nl^
+||bc4.fun^
 ||bc5e8a313a.traswi.pl^
 ||bc6dc48b743dc5d01.clicknplay.to^
 ||bc777.com^
@@ -46963,6 +46967,7 @@ watson.*.microsoft.com
 ||dafonts.com^
 ||daftaraja.click^
 ||dafvng.sunrefre.jp^
+||dagassapereion.com^
 ||dagcoin.org^
 ||dagd0kz7sipfl.cloudfront.net^
 ||dage.com^
@@ -55866,6 +55871,7 @@ watson.*.microsoft.com
 ||eisdog.shape.com^
 ||eisenstein.dk^
 ||eisentodel.com^
+||eisnaisv.com^
 ||eisys-bcs.jp^
 ||eit3.destinia.nl^
 ||eiteribesshaints.com^
@@ -59919,6 +59925,7 @@ watson.*.microsoft.com
 ||f5.market.xiaomi.com^
 ||f5.my.salesforce-sites.com^
 ||f5.track-mv-01.com^
+||f53d954cc5.com^
 ||f54cd504.xyz^
 ||f55.jouwauhesurvey.top^
 ||f564eytgyj.com^
@@ -62589,6 +62596,7 @@ watson.*.microsoft.com
 ||flaweyesight.com^
 ||flawgrandparentsmysterious.com^
 ||flaxconfession.com^
+||flaxdescale.com^
 ||flaxierfilmset.com^
 ||flbox.net^
 ||flcounter.com^
@@ -73912,6 +73920,7 @@ watson.*.microsoft.com
 ||hjklq.com^
 ||hjks23kj.com^
 ||hjm-estrategialegal.com^
+||hjmawbrxzq.space^
 ||hjpqgxrt.ru^
 ||hjr-wq.com^
 ||hjrcjz.xyz^
@@ -82878,6 +82887,7 @@ watson.*.microsoft.com
 ||jeanspeeredexotic.com^
 ||jeanspurrcleopatra.com^
 ||jebhnmggi.xyz^
+||jebrhb.icu^
 ||jeccmq.wehkamp.nl^
 ||jechusou.com^
 ||jecoglegru.com^
@@ -83170,6 +83180,7 @@ watson.*.microsoft.com
 ||jiccwsnkajrxtl.com^
 ||jiciqm.antalyahomes.com^
 ||jiclzori.com^
+||jicmivojvsa.com^
 ||jicypigra.com^
 ||jidroumsaghetu.xyz^
 ||jie50dcwuh.execute-api.us-east-1.amazonaws.com^
@@ -90759,6 +90770,7 @@ watson.*.microsoft.com
 ||livreral.fr^
 ||livrfufzios.com^
 ||livrval.fr^
+||livvbkx-vejj.xyz^
 ||livxlilsq.click^
 ||liw.valuez.top^
 ||liwerea.com^
@@ -113257,6 +113269,7 @@ watson.*.microsoft.com
 ||opmxizgcacc.com^
 ||opn.digitkin.top^
 ||opnbwg.com^
+||opnbylag.com^
 ||opnsalptpdd.com^
 ||opntwymri.com^
 ||opo4.assuronline.com^
@@ -113831,6 +113844,7 @@ watson.*.microsoft.com
 ||osm-onead.cdn.hinet.net^
 ||osm.beblon.com^
 ||osmeticjewlike.com^
+||osminaclumber.com^
 ||osmosedshrined.top^
 ||osmzym.xyz^
 ||osnksi.czytam.pl^
@@ -120956,6 +120970,7 @@ watson.*.microsoft.com
 ||ppl.acxenergy.com^
 ||ppleood.com^
 ||pplgwic.com^
+||pplhfhuwyv.com^
 ||pplkrh.xyz^
 ||pplytica-strience.com^
 ||ppo.re9t-hmd0.com^
@@ -122201,6 +122216,7 @@ watson.*.microsoft.com
 ||prolapseman.com^
 ||prolatecyclus.com^
 ||proleagion.com^
+||proleclips.com^
 ||prolicensekeys.com^
 ||prolinker.ru^
 ||proll-app.pinnters.net^
@@ -123623,6 +123639,7 @@ watson.*.microsoft.com
 ||pugoafals.net^
 ||pugsgivehugs.com^
 ||pugwgwsqvew.com^
+||puhmtt.icu^
 ||puhtml.com^
 ||puitaexb.com^
 ||puiwrs.misterspex.de^
@@ -131407,6 +131424,7 @@ watson.*.microsoft.com
 ||rvwgm2wrld4.xyz^
 ||rvwifitv.com^
 ||rvxmlj.icu^
+||rvxsvwqf.icu^
 ||rw-yieldmo-com-1233107411.us-east-1.elb.amazonaws.com^
 ||rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com^
 ||rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com^
@@ -153764,6 +153782,7 @@ watson.*.microsoft.com
 ||techyodha.com^
 ||tecncon.shop^
 ||tecominchisel.com^
+||tectureclod.top^
 ||tecuil.com^
 ||tecunonline.com^
 ||teczbq.amicashop.com^
@@ -153808,6 +153827,7 @@ watson.*.microsoft.com
 ||teestoagloupaza.net^
 ||teethundercoverhowever.com^
 ||teetusee.xyz^
+||teewhilemath.net^
 ||teextmee.com^
 ||teezoshou.com^
 ||tefanos.com^
@@ -156803,6 +156823,7 @@ watson.*.microsoft.com
 ||tnctufo.com^
 ||tncwwoyd.pro^
 ||tnd.ecefibwja.xyz^
+||tndbnriz.icu^
 ||tndlurofbtgn.com^
 ||tne.pinduoduo.com^
 ||tneca.com^
@@ -157671,6 +157692,7 @@ watson.*.microsoft.com
 ||touchytautogs.com^
 ||touclick.com^
 ||touena.xyz^
+||tougaipteehuboo.xyz^
 ||tough-numerous-lemur.glitch.me^
 ||toughdrizzleleftover.com^
 ||toughmbd.com^
@@ -161336,6 +161358,7 @@ watson.*.microsoft.com
 ||trickyseduction.com^
 ||tricubo.com^
 ||tridentenvironmental.co.uk^
+||tridroin.com^
 ||triedstrickenpickpocket.com^
 ||trienestooth.com^
 ||triersciand.com^
@@ -166777,6 +166800,7 @@ watson.*.microsoft.com
 ||vddf0.club^
 ||vde1.voyage-prive.de^
 ||vdfvdf33q.fun^
+||vdhf042.fun^
 ||vdjpqtsxuwc.xyz^
 ||vdk10pfsny03tzfva.com^
 ||vdkjfd.hottopic.com^
@@ -171965,6 +171989,7 @@ watson.*.microsoft.com
 ||weus2watcab02.blob.core.windows.net^
 ||weuw.fxxmaxtrade.top^
 ||wevbgr.vidaxl.it^
+||wevechinse.com^
 ||wew.dushiwenxue.net^
 ||wew.valuez.top^
 ||wew.vooresti.top^
@@ -173157,6 +173182,7 @@ watson.*.microsoft.com
 ||wjimtye.top^
 ||wjljwqbmmjaqz.top^
 ||wjq.ma.tarnkappe.info^
+||wjqssnujrbyu.com^
 ||wjs.wurflcloud.com^
 ||wjsfwiydofto.com^
 ||wjssvg.descentekorea.co.kr^
