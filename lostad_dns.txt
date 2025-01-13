@@ -8021,6 +8021,7 @@ watson.*.microsoft.com
 ||actionteaser.ru^
 ||actiontj.fruitday.com^
 ||actiontopnews.com^
+||actiontracking.jp^
 ||actirinius.com^
 ||actitat.com^
 ||actito.com^
@@ -8590,6 +8591,7 @@ watson.*.microsoft.com
 ||ad.cpaad.co.kr^
 ||ad.cpe.dotomi.com.sigenv1.qq.p1.ash.opendns.com^
 ||ad.crosswalk.com^
+||ad.cub.red^
 ||ad.culture.pl^
 ||ad.cyapi.cn^
 ||ad.cyycoy.com^
@@ -25438,6 +25440,7 @@ watson.*.microsoft.com
 ||auxml.com^
 ||auxmoney-partnerprogramm.de^
 ||auyeshibt.com^
+||auytiuhpu.com^
 ||auzou.de^
 ||av-api.com^
 ||av-live.shop^
@@ -33874,6 +33877,7 @@ watson.*.microsoft.com
 ||c.58cdn.com.cn^
 ||c.ad.ru^
 ||c.alaskaair.com^
+||c.albss.com^
 ||c.amazinglybrilliant.com.au^
 ||c.anytrx.com^
 ||c.aomg5bzv7.com^
@@ -36338,6 +36342,7 @@ watson.*.microsoft.com
 ||cdnxiazai.com^
 ||cdodeal.com^
 ||cdolhlwq.xyz^
+||cdomsif.top^
 ||cdoqjxlnegnhm.com^
 ||cdoshbf.top^
 ||cdotrvjaiupk.com^
@@ -52947,6 +52952,7 @@ watson.*.microsoft.com
 ||dpgskxgawyk.xyz^
 ||dphb3.com^
 ||dphunters.com^
+||dphwyvcmdki.com^
 ||dpi-ad.biz^
 ||dpirwgljl6cjp.cloudfront.net^
 ||dpjlvaveq1byu.cloudfront.net^
@@ -53130,6 +53136,7 @@ watson.*.microsoft.com
 ||dratxavr.com^
 ||draughtinfertileclamp.com^
 ||draughtpoisonous.com^
+||drauvea.com^
 ||drawbackcaptiverusty.com^
 ||drawerenter.com^
 ||drawergypsyavalanche.com^
@@ -72537,6 +72544,7 @@ watson.*.microsoft.com
 ||hdniciawdc.com^
 ||hdns-event.dmall.com^
 ||hdocumentconverter.app^
+||hdomsiu.top^
 ||hdoshbu.top^
 ||hdownloadappsnow.app^
 ||hdownloadconverter.com^
@@ -90515,6 +90523,7 @@ watson.*.microsoft.com
 ||listingof.org^
 ||listlessproposition.com^
 ||listopadpoland.pro^
+||listoukectivetr.com^
 ||listrakbi.com^
 ||lists-tracking.komando.com^
 ||lists.ccmbg.com^
@@ -109963,6 +109972,7 @@ watson.*.microsoft.com
 ||nx8.icu^
 ||nxcm.cc^
 ||nxcount.com^
+||nxdefd.icu^
 ||nxexydg.com^
 ||nxgzeejhs.com^
 ||nxhfkfyy.xyz^
@@ -110853,6 +110863,7 @@ watson.*.microsoft.com
 ||ofdb.fr^
 ||ofdittor.com^
 ||ofdnkro.xyz^
+||ofdomjzpix.com^
 ||ofdrapiona.com^
 ||ofebyk.xyz^
 ||ofeeruma.com^
@@ -111362,6 +111373,7 @@ watson.*.microsoft.com
 ||ok.5.p2l.info^
 ||ok.fapnow.xxx^
 ||ok.forwank.com^
+||ok5.fun^
 ||ok8867s.com^
 ||ok88okg.infinityscans.net^
 ||okagcw.xyz^
@@ -114108,6 +114120,7 @@ watson.*.microsoft.com
 ||ounceanalogous.com^
 ||ouncht.com^
 ||oundandk.cfd^
+||oundaymitools.org^
 ||oundhertobeconsi.com^
 ||oungeghooma.com^
 ||oungimuk.net^
@@ -125671,6 +125684,7 @@ watson.*.microsoft.com
 ||quillion.com^
 ||quillkick.com^
 ||quillon.muchflaw.click^
+||quillsconi.top^
 ||quiltblazing.com^
 ||quilterdochter.shop^
 ||quinchdeepish.top^
@@ -129244,6 +129258,7 @@ watson.*.microsoft.com
 ||rfnvqpo.xyz^
 ||rfogdkuflywcwa.com^
 ||rfogqbystvgb.com^
+||rfoqfifqcyymeb.com^
 ||rfp-documents.com^
 ||rfpozf.com^
 ||rfpx1.com^
@@ -155586,6 +155601,7 @@ watson.*.microsoft.com
 ||thongtincutru.org^
 ||thongtindancu.org^
 ||thongtindonhang.com^
+||thonkoirs.com^
 ||thoocheegee.xyz^
 ||thoodsadoats.net^
 ||thoohizoogli.xyz^
@@ -162301,6 +162317,7 @@ watson.*.microsoft.com
 ||tstats-13fkh44r.com^
 ||tste.astrology.com^
 ||tste.startribune.com^
+||tstpmasispcw.com^
 ||tsumatsuma.xyz^
 ||tsuqrmrxp.com^
 ||tsusercontent.com^
@@ -167233,6 +167250,7 @@ watson.*.microsoft.com
 ||vfsc.trdeone.top^
 ||vftbnl.com^
 ||vfthr.com^
+||vftrfmia.icu^
 ||vftvbx.xyz^
 ||vfuqivac.com^
 ||vfvad.top^
@@ -178075,6 +178093,7 @@ watson.*.microsoft.com
 ||xhnflfyxoo.com^
 ||xhnvgdkw.xyz^
 ||xhohnr.fdm.pl^
+||xholinqbbicfk.com^
 ||xhplanet3.com^
 ||xhqmvu.k-uno.co.jp^
 ||xhrnqpnjwuydo.com^
@@ -181855,6 +181874,7 @@ watson.*.microsoft.com
 ||zot.moscow^
 ||zotabox.com^
 ||zotabox.me^
+||zotkosplh.com^
 ||zoudlogick.net^
 ||zougreek.com^
 ||zoulikoopty.com^
