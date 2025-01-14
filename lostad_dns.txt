@@ -190,6 +190,7 @@
 @@||intersport.peerius.com^|
 @@||js.monitor.azure.com^|
 @@||launchercontent.mojang.com^
+@@||learn.khanacademy.org^|
 @@||leechers-paradise.org^|
 @@||link.morningbrew.com^|
 @@||linka.page^|
@@ -849,6 +850,7 @@ watson.*.microsoft.com
 ||10267.10cms.com^
 ||102702.xyz^
 ||1028.2j.nl^
+||10288299.xyz^
 ||1028images.com^
 ||10298198.info.sofi.org^
 ||10298198.m.sofi.org^
@@ -2214,6 +2216,7 @@ watson.*.microsoft.com
 ||2yd.eu^
 ||2yqcaqbfnv.nextgen.shareablee.com^
 ||2z3.ouphoawe.top^
+||2za.fun^
 ||2znp09oa.com^
 ||2zv1wkcpjl9ypnbeeaw9gros621ogwvbh5c0au830h.mateuszkowa.eu^
 ||2zy.vooresti.top^
@@ -5419,6 +5422,7 @@ watson.*.microsoft.com
 ||a358.bocopreps.com^
 ||a35e803f21.com^
 ||a371383de0.a90da947c8.com^
+||a3b2c775eb.com^
 ||a3beghatrk.com^
 ||a3cloud.net^
 ||a3h.de^
@@ -7925,6 +7929,7 @@ watson.*.microsoft.com
 ||acquitjeans.com^
 ||acquitmidst.com^
 ||acqy7m0trk.com^
+||acr-*-prd.samsungcloud.tv^
 ||acr0.samsungcloudsolution.com^
 ||acrasias.wildcatler.click^
 ||acrebackcharacter.com^
@@ -9263,6 +9268,7 @@ watson.*.microsoft.com
 ||ad4.udn.com^
 ||ad41.atlas.cz^
 ||ad42.com^
+||ad4905c1db.com^
 ||ad4989.co.kr^
 ||ad4cash.de^
 ||ad4game.com^
@@ -14403,6 +14409,7 @@ watson.*.microsoft.com
 ||advanced-ip-sccanner.com^
 ||advanced-web-analytics.com^
 ||advanced-web-metrics.com^
+||advancedadblocker.pro^
 ||advancedanalysis.be^
 ||advancedandroidcleaner.com^
 ||advanceddigitalbusiness.com^
@@ -27967,6 +27974,7 @@ watson.*.microsoft.com
 ||bddtlog.eastmoney.com^
 ||bddv.thenextstep.top^
 ||bde3d.com^
+||bdec1f37.xyz^
 ||bdew.ximprrove.top^
 ||bdex.com^
 ||bdf.ximprrove.top^
@@ -36872,6 +36880,7 @@ watson.*.microsoft.com
 ||cfosummit.eu^
 ||cfpusapolitics.co.uk^
 ||cfpushsdevpw.com^
+||cfqfnpbjy.com^
 ||cfqpbunif.com^
 ||cfrnyp.kars4kids.org^
 ||cfrsoft.com^
@@ -40289,6 +40298,7 @@ watson.*.microsoft.com
 ||cododeerda.net^
 ||codon.vn^
 ||codsambal.com^
+||codsdnursjrclse.com^
 ||codziennenagrania.rest^
 ||coedmediagroup.com^
 ||coefficientbreathtakingcounteract.com^
@@ -46522,6 +46532,7 @@ watson.*.microsoft.com
 ||d3efeah7vk80fy.cloudfront.net^
 ||d3ej838ds58re9.cloudfront.net^
 ||d3ejxyz09ctey7.cloudfront.net^
+||d3eksfxlf7bv9h.cloudfront.net^
 ||d3elm8wezzwg42.cloudfront.net^
 ||d3ep3jwb1mgn3k.cloudfront.net^
 ||d3ept9mddcbuhi.cloudfront.net^
@@ -48464,6 +48475,7 @@ watson.*.microsoft.com
 ||dby7kx9z9yzse.cloudfront.net^
 ||dbycathyhoughs.com^
 ||dbyoei.styleggom.co.kr^
+||dbyulufecdvsgr.com^
 ||dbzgtg.infostrada.it^
 ||dbzpek.nike.com^
 ||dc-api-log-hk-2.clktec.com^
@@ -54406,6 +54418,7 @@ watson.*.microsoft.com
 ||e2e7aaca07.e8a8e57eb3.com^
 ||e2ertt.com^
 ||e3.wetterkameras.com^
+||e3202e1cad.com^
 ||e36d31df9.choyoga.com^
 ||e37.jouwauhesurvey.top^
 ||e37364.dscd.akamaiedge.net^
@@ -54458,6 +54471,7 @@ watson.*.microsoft.com
 ||e78c6b79c03a3bf08f051d1069f1a878.wgxrl.pl^
 ||e7caf3e584.aliegro.click^
 ||e7e34b16ed.com^
+||e7h.fun^
 ||e7world.com^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||e8100325bc.com^
@@ -68114,6 +68128,7 @@ watson.*.microsoft.com
 ||gliptareemote.net^
 ||glipteechath.net^
 ||gliptoacaft.net^
+||gliraimsofu.net^
 ||glispa.com^
 ||glissugrab.net^
 ||glistening-novel.pro^
@@ -69658,6 +69673,7 @@ watson.*.microsoft.com
 ||googfle.com^
 ||googie-anaiytics.com^
 ||google-ads.hara.vn^
+||google-analyticals.com^
 ||google-analytics-cn.com^
 ||google-analytics.bi.owox.com^
 ||google-analytics.com^
@@ -70004,6 +70020,7 @@ watson.*.microsoft.com
 ||gpm.ltd^
 ||gpm.samsungqbe.com^
 ||gpmzkg.xyz^
+||gpodxdmnivc.com^
 ||gporkecpyttu.com^
 ||gpowow.xyz^
 ||gpplus-app.hotdoc.com.au^
@@ -71175,6 +71192,7 @@ watson.*.microsoft.com
 ||guj.jp^
 ||gujakqludcuk.com^
 ||gukh.com^
+||gukmodukuleqasfo.com^
 ||gukrathokeewhi.net^
 ||gulemins.xyz^
 ||gulfimply.com^
@@ -76840,6 +76858,7 @@ watson.*.microsoft.com
 ||idolscene.com^
 ||idolsstars.com^
 ||idolz.pw^
+||idomsio.top^
 ||idoshbo.top^
 ||idot.cz^
 ||idownloadgalore.com^
@@ -82271,6 +82290,7 @@ watson.*.microsoft.com
 ||ix4.icu^
 ||ixafr.com^
 ||ixav-cse.avlyun.com^
+||ixbua.xyz^
 ||ixcbqp.com^
 ||ixeivetin.com^
 ||ixhtb.s9gxw8.com^
@@ -82870,6 +82890,7 @@ watson.*.microsoft.com
 ||jdn.monster.com^
 ||jdoasjfojuhod.com^
 ||jdoeknc.com^
+||jdomsia.top^
 ||jdoqocy.com^
 ||jdoshba.top^
 ||jdownloader.fr^
@@ -87694,6 +87715,7 @@ watson.*.microsoft.com
 ||lark.pollie.dev^
 ||larkenjoyedborn.com^
 ||larkgloomily.com^
+||larnox.info^
 ||laroche-posay-br.com^
 ||larossola.it^
 ||laroudey.com^
@@ -106155,6 +106177,7 @@ watson.*.microsoft.com
 ||naupouch.xyz^
 ||naupsakiwhy.com^
 ||naupseko.com^
+||naupsithizeekee.com^
 ||naurefoajy.com^
 ||nausearelish.com^
 ||nauseousrocketjosephine.com^
@@ -107677,6 +107700,7 @@ watson.*.microsoft.com
 ||news.idahobusinessreview.com^
 ||news.iftm.fr^
 ||news.insidermedia.com^
+||news.jennydanny.com^
 ||news.jiukang.org^
 ||news.journalrecord.com^
 ||news.la-z-boy.com^
@@ -112582,6 +112606,7 @@ watson.*.microsoft.com
 ||onjmsj.sumai-surfin.com^
 ||onkafxtiqcu.com^
 ||onkavst.com^
+||onkodjwuq.com^
 ||onlinadverts.com^
 ||online--games.ru^
 ||online-777.jp^
@@ -123171,6 +123196,7 @@ watson.*.microsoft.com
 ||ptewauta.net^
 ||ptexognouh.xyz^
 ||ptgt.monuone-present.com^
+||ptichoolsougn.net^
 ||ptickech.com^
 ||pticmootoat.com^
 ||ptidsezi.com^
@@ -153415,6 +153441,7 @@ watson.*.microsoft.com
 ||tcpcharms.com^
 ||tcplndr.club^
 ||tcppu.com^
+||tcreativeideasa.com^
 ||tcrog.shop^
 ||tcrybv.com^
 ||tcs-asp.net^
@@ -163281,6 +163308,7 @@ watson.*.microsoft.com
 ||u55011.com^
 ||u566.chron.com^
 ||u57.icu^
+||u57.muzikguide.com^
 ||u578.wlwt.com^
 ||u595sebqih.com^
 ||u5cpue.rest^
@@ -165808,6 +165836,7 @@ watson.*.microsoft.com
 ||uunczm.lescon.com.tr^
 ||uuoizbtl.xyz^
 ||uupongxgr.com^
+||uuqrisuy.com^
 ||uuresdt.top^
 ||uurhhtymipx.com^
 ||uurzdr.global-style.jp^
@@ -173842,6 +173871,7 @@ watson.*.microsoft.com
 ||woupamoopa.net^
 ||woupheezoh.com^
 ||woupoulouca.net^
+||woupsucheerar.net^
 ||woushucaug.com^
 ||wousubou.com^
 ||wousuzebostu.net^
@@ -180313,6 +180343,7 @@ watson.*.microsoft.com
 ||yourtopnews.com^
 ||yourtopwords.com^
 ||yourtrap.com^
+||yourtthig.com^
 ||youruntie.com^
 ||yourvasurvey.info^
 ||yourvoice.co.in^
