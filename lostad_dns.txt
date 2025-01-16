@@ -461,6 +461,7 @@ watson.*.microsoft.com
 ||04953bf049.c172a66e69.com^
 ||04c8b396bf.com^
 ||04e0d8fb0f.com^
+||04o.fun^
 ||04tips.com^
 ||05.tokyometropolis.kiev.ua^
 ||0505.5clo0xmbf.com^
@@ -706,6 +707,7 @@ watson.*.microsoft.com
 ||0utlin3-s3l3cti0n.xyz^
 ||0uvt8b.cn^
 ||0uyt5b.cn^
+||0vc.fun^
 ||0x-code.financialmarketsworld.com^
 ||0x00000000000.substack.com^
 ||0x01n2ptpuz3.com^
@@ -1200,6 +1202,7 @@ watson.*.microsoft.com
 ||172-104-159-48.ip.linodeusercontent.com^
 ||172-105-66-118.ip.linodeusercontent.com^
 ||1720.4puuqeh41.com^
+||17282.org^
 ||173004789456985-dot-buc-ksa-lrf.appspot.com^
 ||1736253261.rsc.cdn77.org^
 ||17384.com^
@@ -17000,6 +17003,7 @@ watson.*.microsoft.com
 ||alisosanimalhospital.net^
 ||alissl.ucdl.pp.uc.cn^
 ||alistcloud.com^
+||aliteartful.com^
 ||alitems.co^
 ||alitems.site^
 ||alitorg.com^
@@ -29228,6 +29232,7 @@ watson.*.microsoft.com
 ||betrev.com^
 ||betriolua.com^
 ||betrool.com^
+||betrustdoms.com^
 ||bets.pl^
 ||bets.to^
 ||betsealeoa.com^
@@ -32831,6 +32836,7 @@ watson.*.microsoft.com
 ||btccryptochain.com^
 ||btcduke.com^
 ||btcfbr.mejshop.jp^
+||btcili.top^
 ||btckhabar.com^
 ||btcmercato.com^
 ||btcpop.co^
@@ -43653,6 +43659,7 @@ watson.*.microsoft.com
 ||crakedquartin.com^
 ||crakmedia.com^
 ||craktraffic.com^
+||cralphal.com^
 ||crambuffaloimpediment.com^
 ||cramburycomexcorp.com^
 ||cramlastfasten.com^
@@ -44189,6 +44196,7 @@ watson.*.microsoft.com
 ||crudelouisa.com^
 ||crudemonarchychill.com^
 ||crudequeenrome.com^
+||crudyfilters.com^
 ||crueltymiracle.com^
 ||crueltysugar.shop^
 ||crueltyvogue.com^
@@ -51658,6 +51666,7 @@ watson.*.microsoft.com
 ||djs39jakd.com^
 ||djshortdogg.com^
 ||djsrp.com^
+||djsxm.xyz^
 ||djugoogs.com^
 ||djulssmytq.com^
 ||djummer.com^
@@ -57705,6 +57714,7 @@ watson.*.microsoft.com
 ||epvpwjmlfuatn.com^
 ||epwa.europarl.europa.eu^
 ||epxfjcb.xyz^
+||epxlt.xyz^
 ||epylliafending.com^
 ||epyxooqg.com^
 ||eq-beacon.stream.co.jp^
@@ -70649,6 +70659,7 @@ watson.*.microsoft.com
 ||groamth.com^
 ||groamtoopsu.net^
 ||groaxonsoow.net^
+||groazaimsadroa.xyz^
 ||grobido.info^
 ||grobungairdoul.net^
 ||grobuveexeb.net^
@@ -72915,6 +72926,7 @@ watson.*.microsoft.com
 ||heirloomdangerouslystudied.com^
 ||heirloomreasoning.com^
 ||heirreplacem.cfd^
+||heirsacost.com^
 ||heisse-latinas.com^
 ||heisse-lesben.com^
 ||heiviek.com^
@@ -91374,6 +91386,7 @@ watson.*.microsoft.com
 ||log-api.lc.dmm.com^
 ||log-api.mintkeyboard.com^
 ||log-api.newrelic.com^
+||log-auth.zztfly.com^
 ||log-baodauthau.epicdn.me^
 ||log-baogialai.epicdn.me^
 ||log-boot.tiktokv.com^
@@ -105677,6 +105690,7 @@ watson.*.microsoft.com
 ||nagranepowodzie.rest^
 ||nagraniaklodzko.rest^
 ||nagroda-sms.pl^
+||nagvaxvy.com^
 ||nahjshb2.com^
 ||nahjzx.xyz^
 ||nahnoji.cz^
@@ -109727,6 +109741,7 @@ watson.*.microsoft.com
 ||nthldc.europcar.co.uk^
 ||ntiutox.icu^
 ||ntk-indo.com^
+||ntkimg.cloud^
 ||ntl-verif.com^
 ||ntl.cloud^
 ||ntlab.org^
@@ -110364,6 +110379,7 @@ watson.*.microsoft.com
 ||oardilin.com^
 ||oardjnay.com^
 ||oarouwousti.com^
+||oarsoathaihoamt.net^
 ||oarsparttimeparent.com^
 ||oarssamgrandparents.com^
 ||oarstravelled.com^
@@ -121596,6 +121612,7 @@ watson.*.microsoft.com
 ||pricegong.com^
 ||pricesandwinners.com^
 ||pricetag.viabill.com^
+||priceyawol.com^
 ||priceypies.com^
 ||pricklyachetongs.com^
 ||pricklydebt.com^
@@ -123340,6 +123357,7 @@ watson.*.microsoft.com
 ||ptrfc.com^
 ||ptrim.biz^
 ||ptrk-wn.com^
+||ptrmnx.icu^
 ||ptron.net^
 ||ptsc.shoplocal.com^
 ||ptsixwereksbef.info^
@@ -123877,6 +123895,7 @@ watson.*.microsoft.com
 ||purgoaho.xyz^
 ||purgrobi.com^
 ||purifybaptism.guru^
+||purlingresews.com^
 ||purlive.com^
 ||puroclean.com^
 ||purohitbazzar.com^
@@ -157830,6 +157849,7 @@ watson.*.microsoft.com
 ||touzia.xyz^
 ||touzoaty.net^
 ||tovar-promo.com^
+||tovbus.cn^
 ||tovery.net^
 ||tovespiquener.com^
 ||tovwhxpomgkd.com^
@@ -157950,6 +157970,7 @@ watson.*.microsoft.com
 ||tp1r1.link^
 ||tp1r1.wiki^
 ||tp1r1.xyz^
+||tp2p.kg.qq.com^
 ||tp4sul.jwzd.com.cn^
 ||tp88trk.com^
 ||tpa7.iahorro.com^
@@ -163014,6 +163035,7 @@ watson.*.microsoft.com
 ||twlcyc.cn^
 ||twndeal.com^
 ||twnrydt.com^
+||twns.p2ptun.qq.com^
 ||two-searchers.com^
 ||two.eagermint.com^
 ||two.fsylr.com^
@@ -164274,6 +164296,7 @@ watson.*.microsoft.com
 ||uncrobator.com^
 ||uncrownarmenic.com^
 ||uncsccmcmg.ad.unc.edu^
+||undatedifreal.com^
 ||undcine.com^
 ||unddeliv.com^
 ||undecparis.com^
@@ -166524,6 +166547,7 @@ watson.*.microsoft.com
 ||variousformatscontent.com^
 ||variouspheasantjerk.com^
 ||variti.net^
+||varletsngaio.com^
 ||varnishmosquitolocust.com^
 ||varroterius.com^
 ||varshacundy.com^
@@ -166577,6 +166601,7 @@ watson.*.microsoft.com
 ||vatrack.hinet.net^
 ||vatzxd.xyz^
 ||vaubegostis.com^
+||vaufekonaub.net^
 ||vaugroar.com^
 ||vauhauthie.net^
 ||vaukoloon.net^
@@ -172205,6 +172230,7 @@ watson.*.microsoft.com
 ||whap.beblon.com^
 ||whapl.top^
 ||wharployn.com^
+||wharrownecia.com^
 ||wharvemotet.com^
 ||what-crypto.com^
 ||whataboutnews.com^
@@ -180987,6 +181013,7 @@ watson.*.microsoft.com
 ||za.zingnews.vn^
 ||za10groszy.pl^
 ||zaamgqlgdhac.love^
+||zabaismtempi.top^
 ||zabanit.xyz^
 ||zabavazaodrasle.com^
 ||zabawkowo.fun^
@@ -182096,6 +182123,7 @@ watson.*.microsoft.com
 ||ztdog.com^
 ||ztevents.zaloapp.com^
 ||ztfjtn.liujo.com^
+||ztgha.xyz^
 ||zthxobgk.icu^
 ||ztjgabjx.ru^
 ||ztjtbnrhkc.pro^
