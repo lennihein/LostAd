@@ -2123,6 +2123,7 @@ watson.*.microsoft.com
 ||2h6skj2da.de^
 ||2hdn.online^
 ||2hisnd.com^
+||2hl.fun^
 ||2hpb1i5th.de^
 ||2i.nu^
 ||2i.pm^
@@ -2597,6 +2598,7 @@ watson.*.microsoft.com
 ||3dstate.com^
 ||3dstats.com^
 ||3dthxvzran2k15.plus-mies.lat^
+||3e1898dbbe.com^
 ||3e3b0d72.bradleydwi.com^
 ||3e5097336a.aaa45e90eb.com^
 ||3e6072834f.com^
@@ -46950,6 +46952,7 @@ watson.*.microsoft.com
 ||da29e6b8-f018-490f-b25f-39a887fc95e7.xyz^
 ||da327va27j0hh.cloudfront.net^
 ||da3uf5ucdz00u.cloudfront.net^
+||da52d550a0.com^
 ||da5h676k6d22w.cloudfront.net^
 ||da634fdas.appspot.com^
 ||da6555.com^
@@ -59923,6 +59926,7 @@ watson.*.microsoft.com
 ||f1.zaojv.com^
 ||f10.baidu.com^
 ||f104.wiprojectcenter.com^
+||f10f9df901.com^
 ||f11-ads.com^
 ||f11.baidu.com^
 ||f11.hackhome.com^
@@ -75167,6 +75171,7 @@ watson.*.microsoft.com
 ||hp.lingscars.com^
 ||hp1.tcbnet.ne.jp^
 ||hp1mufjhk.com^
+||hp7.fun^
 ||hp8g6.icu^
 ||hpacdn.pornpics.com^
 ||hpacdn.pornpics.de^
@@ -113610,6 +113615,7 @@ watson.*.microsoft.com
 ||oqejupqb.xyz^
 ||oqgrax.sissy-boy.com^
 ||oqidne.itaka.pl^
+||oqidsgkq.com^
 ||oqipegjz.icu^
 ||oqkucsxfrcjtho.xyz^
 ||oqnabsatfn.com^
@@ -113809,6 +113815,7 @@ watson.*.microsoft.com
 ||oritooep.win^
 ||orjfun.com^
 ||orjzy.com^
+||orkreats.com^
 ||orkwithcatukhy.com^
 ||orlahart.com^
 ||orlandowaggons.com^
@@ -126420,6 +126427,7 @@ watson.*.microsoft.com
 ||raglassofrum.cc^
 ||ragnolopi.net^
 ||ragnoocie.com^
+||ragofkanc.com^
 ||ragsbxhchr.xyz^
 ||ragutot.com^
 ||ragwviw.com^
@@ -143149,6 +143157,7 @@ watson.*.microsoft.com
 ||soagopsigeegouk.net^
 ||soaheeme.net^
 ||soahu1wnmt6l.www.replai.io^
+||soajaihebu.net^
 ||soakcompassplatoon.com^
 ||soakiaccnabl.com^
 ||soakitig.com^
@@ -151416,6 +151425,7 @@ watson.*.microsoft.com
 ||syfobtofdgbulvj.xyz^
 ||syfwnf.society6.com^
 ||sygame.695157.com^
+||sygrip.info^
 ||syh34w.com^
 ||syinga.com^
 ||syislob.top^
@@ -154516,6 +154526,7 @@ watson.*.microsoft.com
 ||teoriaemisterios.blogspot.com^
 ||tepatonol.com^
 ||tepbklra.com^
+||tepirhdbauahk.com^
 ||teplokomplex.ru^
 ||teplovnesok.com^
 ||teps-q.tilda.ws^
@@ -162845,6 +162856,7 @@ watson.*.microsoft.com
 ||tuvanruttien.com^
 ||tuvedui.com^
 ||tuvevx.agent-sana.com^
+||tuvrutsnf.com^
 ||tuvwryunm.xyz^
 ||tuwaqtjcood.com^
 ||tuxbpnne.com^
@@ -163764,6 +163776,7 @@ watson.*.microsoft.com
 ||uevents.intelliticks.com^
 ||uevrpr.biz^
 ||uewrutt.top^
+||uewzjy.xyz^
 ||ueybytksi.xyz^
 ||ueykjfltxqsb.space^
 ||uezbshzpdcbb.info^
@@ -163805,6 +163818,7 @@ watson.*.microsoft.com
 ||ufujeeftaxaux.net^
 ||ufvxiyewsyi.com^
 ||ufwsfi.magasins-u.com^
+||ufykspupgxgzz.com^
 ||ufz.doesxyz.com^
 ||ufzanvc.com^
 ||ug-sg.byteoversea.com^
@@ -180283,6 +180297,7 @@ watson.*.microsoft.com
 ||yoqcjensp.com^
 ||yoqqiev.top^
 ||yoredi.com^
+||yorkvillemarketing.net^
 ||yosearch.co^
 ||yoshatia.com^
 ||yosle.info^
@@ -181001,7 +181016,6 @@ watson.*.microsoft.com
 ||z.tudouxy01.com^
 ||z.waptrad.top^
 ||z00.me^
-||z0000g.yorkvillemarketing.net^
 ||z0a.de^
 ||z0il3m3u2o.pro^
 ||z0s9n.xhamster.com^
@@ -181321,6 +181335,7 @@ watson.*.microsoft.com
 ||zdbbqb.mancrates.com^
 ||zdcjts.asics.com^
 ||zddnhant.net^
+||zdgeoqvzo.com^
 ||zdkgxeeykuhs.today^
 ||zdobyj-nagrode.com^
 ||zdom.ru^
