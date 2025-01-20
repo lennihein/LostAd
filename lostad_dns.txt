@@ -2954,6 +2954,7 @@ watson.*.microsoft.com
 ||4c935d6a244f.com^
 ||4c9844316f.e7d9861b83.com^
 ||4cd8d0b494.773fd92793.com^
+||4ce.fun^
 ||4chan-ads.org^
 ||4cinsights.com^
 ||4clicker.pro^
@@ -35699,6 +35700,7 @@ watson.*.microsoft.com
 ||ccn08sth.de^
 ||ccnnetwork.co^
 ||ccobksxz.icu^
+||ccokamif.top^
 ||ccordionisu.com^
 ||ccp.digitaltrends.com^
 ||ccp.mobileappsuite.com^
@@ -62763,7 +62765,6 @@ watson.*.microsoft.com
 ||fliplineads.com^
 ||flipool.com^
 ||flippantguilt.com^
-||flippback.com^
 ||flippedfunnel.com^
 ||flippingpaper.de^
 ||flipsidedjentertainment.com^
@@ -64609,6 +64610,7 @@ watson.*.microsoft.com
 ||fronius-se-iot-dm-1-telemetry.azure-devices.net^
 ||frontcognizance.com^
 ||frontdisplayed.com^
+||frontend-logger.flippback.com^
 ||frontend-telemetry.intercom.io^
 ||frontenddevelopernewyork.com^
 ||fronthistory4.xyz^
@@ -66100,6 +66102,7 @@ watson.*.microsoft.com
 ||gauphoad.com^
 ||gaupiptoth.net^
 ||gaupsaur.xyz^
+||gauqoith.com^
 ||gaushaih.xyz^
 ||gaustele.xyz^
 ||gautmont.fr^
@@ -71685,6 +71688,7 @@ watson.*.microsoft.com
 ||h6.msn.com^
 ||h6295.com^
 ||h689.nydailynews.com^
+||h6o.fun^
 ||h6o2z0pwx5ja7dwxn0wx4fhv7mp0qoladm8vj6do4h1c6gja8evrn6g5fixk.me^
 ||h6vj7.com^
 ||h6vj7.xyz^
@@ -117451,6 +117455,7 @@ watson.*.microsoft.com
 ||pf.intuit.com^
 ||pf.newegg.com^
 ||pf34zdjoeycr.com^
+||pfbmht.icu^
 ||pfc-ps.ml^
 ||pfead1.netway.at^
 ||pfead2.netway.at^
@@ -130612,6 +130617,7 @@ watson.*.microsoft.com
 ||rpfkgf.saarbruecker-zeitung.de^
 ||rpfkgf.volksfreund.de^
 ||rpfqvl.donnerwetter.de^
+||rpfuvj.icu^
 ||rpfytkt.com^
 ||rpggamerhaven.com^
 ||rpgmasterleague.com^
@@ -132547,6 +132553,7 @@ watson.*.microsoft.com
 ||saec-metrics.base.be^
 ||saec-metrics.telenet.be^
 ||saedu.naver.com^
+||saelphol.com^
 ||safariloan.com^
 ||safe-connection21.com^
 ||safe-link.mobi^
