@@ -236,6 +236,7 @@
 @@||res.ads.nicovideo.jp^|
 @@||s.youtube.com
 @@||sax.sina.com.cn^|
+@@||sbs.demdex.net^|
 @@||secureimage.securedataimages.com^|
 @@||sponsor.nitropay.com^|
 @@||stash.roistat.com^|
@@ -353,6 +354,7 @@ watson.*.microsoft.com
 ||012.tw^
 ||012024jhvjhkozekl.space^
 ||012051995582106-dot-exj-ale-bsj.appspot.com^
+||01210sop.xyz^
 ||0124.5clo0xmbf.com^
 ||0125.79j68qav2.com^
 ||0126.34gwl8v1a.com^
@@ -2315,6 +2317,7 @@ watson.*.microsoft.com
 ||31trck.xyz^
 ||31up.icu^
 ||31v1scl527hm.shop^
+||31y.fun^
 ||32.huanqiu.com^
 ||321.jintang114.org^
 ||321412d1.url25fatm.com^
@@ -33164,6 +33167,7 @@ watson.*.microsoft.com
 ||bukkva.site^
 ||bukshiunchair.shop^
 ||buktipembayaranduatoto.com^
+||bukusukses.com^
 ||bukzvsflpo.com^
 ||bulb.76.my^
 ||bulba-ad-host-website.azurewebsites.net^
@@ -38127,6 +38131,7 @@ watson.*.microsoft.com
 ||cigarettenotablymaker.com^
 ||cigarettestattoo.com^
 ||cigdizwu.com^
+||cigfhaztaqu.com^
 ||cignal.io^
 ||cignoosugno.net^
 ||ciimamore.com^
@@ -39201,6 +39206,7 @@ watson.*.microsoft.com
 ||clicksotrk.com^
 ||clickspring.net^
 ||clickstatsview.earnmoneycasinos.com^
+||clickstream-*.homedepot.com^
 ||clickstream.cresendo.net^
 ||clicksure.com^
 ||clicktag.de^
@@ -45095,6 +45101,7 @@ watson.*.microsoft.com
 ||cv4aftrk.com^
 ||cv7.icu^
 ||cv9otzw73l25gu.plussub.pl^
+||cvaetfspprbnt.com^
 ||cvasdf.click^
 ||cvastico.com^
 ||cvbjctqs.xyz^
@@ -52214,6 +52221,7 @@ watson.*.microsoft.com
 ||doakosteceet.net^
 ||doaltariaer.com^
 ||doanaiwa.com^
+||doanaudabu.net^
 ||doapovauma.net^
 ||doappcloud.com^
 ||doastaib.xyz^
@@ -68019,6 +68027,7 @@ watson.*.microsoft.com
 ||gla-lb-us.outfit7.com^
 ||gla.gameloft.com^
 ||gla63a4l.de^
+||glabsuckoupy.net^
 ||glacialshoals.sbs^
 ||glacierglut.com^
 ||glaciertab.com^
@@ -72547,6 +72556,7 @@ watson.*.microsoft.com
 ||hclspy.gourmetencasa-tcm.com^
 ||hcmhqb.radpowerbikes.ca^
 ||hcmhs.org^
+||hcokamiu.top^
 ||hconverterpro.com^
 ||hconverterpros.com^
 ||hconvertfilestools.com^
@@ -74924,6 +74934,7 @@ watson.*.microsoft.com
 ||hotbloginfo.com^
 ||hotblognetwork.com^
 ||hotbqzlchps.com^
+||hotbraraja.cc^
 ||hotbtpt.shop^
 ||hotbuckers.com^
 ||hotchat-im.iqiyi.com^
@@ -76553,6 +76564,7 @@ watson.*.microsoft.com
 ||icloudvi.com^
 ||icmserver.net^
 ||icoffeecloud.com^
+||icokamio.top^
 ||icoktb.onygo.com^
 ||icon-cdn.com^
 ||icon.cnmo.com^
@@ -80648,7 +80660,6 @@ watson.*.microsoft.com
 ||instagram-mails.com^
 ||instagram-website-clone-liard.vercel.app^
 ||instagram-windows.ru^
-||instagram.bukusukses.com^
 ||instagram.fcdg1-1.fna.fbcdn.net^
 ||instagram.felp1-1.fna.fbcdn.net^
 ||instagram.xx.fbcdn.net.iberostar.com^
@@ -103939,6 +103950,7 @@ watson.*.microsoft.com
 ||mr-in.com^
 ||mr-rank.de^
 ||mr.homedepot.ca^
+||mr.homedepot.com^
 ||mr.pinkbike.com^
 ||mr.postman.storyworth.com^
 ||mr1a.exs.pl^
@@ -105838,6 +105850,7 @@ watson.*.microsoft.com
 ||nan0cns.com^
 ||nan46ysangt28eec.com^
 ||nana-vypredaj.sk^
+||nanakotrilith.com^
 ||nanalytics.virginaustralia.com^
 ||nanborderrocket.com^
 ||nancontrast.com^
@@ -110716,6 +110729,7 @@ watson.*.microsoft.com
 ||obsessivepetsbean.com^
 ||obsessivepossibilityminimize.com^
 ||obsessthank.com^
+||obseu.netgreencolumn.com^
 ||obsidiancutter.top^
 ||obsoletepaddlevehicular.com^
 ||obstaclemuzzlepitfall.com^
@@ -113053,6 +113067,7 @@ watson.*.microsoft.com
 ||oop.tui.mybluehost.me^
 ||oopatet.com^
 ||oophaiwhemt.net^
+||oopheecahough.net^
 ||oophengeey.com^
 ||oophijassaudral.xyz^
 ||oophoame.xyz^
@@ -120128,6 +120143,7 @@ watson.*.microsoft.com
 ||pointinginexperiencedbodyguard.com^
 ||pointlesshour.com^
 ||pointlessmorselgemini.com^
+||pointlessplan.pro^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
 ||pointlessrifle.com^
@@ -127566,6 +127582,7 @@ watson.*.microsoft.com
 ||rederditium.com^
 ||redetaailshiletteri.com^
 ||redevents-bigdata.redefine.pl^
+||redexamination.com^
 ||redexchange.net^
 ||redeye.international^
 ||redf.fr^
@@ -148978,6 +148995,7 @@ watson.*.microsoft.com
 ||sterilieger.com^
 ||sterilityintentionnag.com^
 ||sterilityvending.com^
+||sterkisg.com^
 ||sterline.lt^
 ||sterlingcustomerexperience.com^
 ||sterlingwoods.com^
@@ -149894,6 +149912,7 @@ watson.*.microsoft.com
 ||subanunpollee.shop^
 ||subappaves.com^
 ||subarabtring.com^
+||subaxe.xyz^
 ||subbandpot.com^
 ||subcom.uiiumovie.com^
 ||subconsciousinappropriatehepatitis.com^
@@ -155897,6 +155916,7 @@ watson.*.microsoft.com
 ||thrtle.com^
 ||thrtycna.com^
 ||thruksyq.com^
+||thrumulr.com^
 ||thruport.com^
 ||thrustlumpypulse.com^
 ||thruudrad.com^
@@ -178652,6 +178672,7 @@ watson.*.microsoft.com
 ||xml-v4.kvicads.com^
 ||xml-v4.ldnpointer.online^
 ||xml-v4.lensgard-2.online^
+||xml-v4.lensgard-3.online^
 ||xml-v4.medialabs.info^
 ||xml-v4.mediataggus.com^
 ||xml-v4.minsonbar2.online^
@@ -179466,6 +179487,7 @@ watson.*.microsoft.com
 ||y000.wyff4.com^
 ||y06ney2v.xyz^
 ||y0mwy.icu^
+||y0o.fun^
 ||y1.arte.tv^
 ||y1.junshitt.com^
 ||y1.spreton.com^
@@ -181273,6 +181295,7 @@ watson.*.microsoft.com
 ||zauwaigojeew.xyz^
 ||zauwhoapak.net^
 ||zauzigqutvk.pro^
+||zavirand.com^
 ||zavod-gm.ru^
 ||zavodooo.ru^
 ||zavoxlquwb.com^
