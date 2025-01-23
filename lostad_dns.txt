@@ -85,12 +85,14 @@
 @@|beta.partners.adsterra.com^|
 @@|beta.publishers.adsterra.com^|
 @@|core.crazyegg.com^|
+@@|daraz.com^|
 @@|ezodn.com^|
 @@|ftp.bmp.ovh^|
 @@|help-advertisers.adsterra.com^|
 @@|partners.adsterra.com^|
 @@|publishers.adsterra.com^|
 @@|statcounter.com^|
+@@|www.daraz.pk^|
 @@||5471782.fls.doubleclick.net^|
 @@||79423.analytics.edgekey.net^|
 @@||a.adwolf.ru^|
@@ -356,6 +358,7 @@ watson.*.microsoft.com
 ||012051995582106-dot-exj-ale-bsj.appspot.com^
 ||01210sop.xyz^
 ||01211sop.xyz^
+||01221sop.xyz^
 ||0124.5clo0xmbf.com^
 ||0125.79j68qav2.com^
 ||0126.34gwl8v1a.com^
@@ -3358,6 +3361,7 @@ watson.*.microsoft.com
 ||5azc.xyz^
 ||5b10f288ee.com^
 ||5b3fbababb.com^
+||5be7319a8b.com^
 ||5bf177fbac.938b97e5ba.com^
 ||5bf6d94b92.com^
 ||5brxi.icu^
@@ -26442,6 +26446,7 @@ watson.*.microsoft.com
 ||b666.penzainform.ru^
 ||b668.record-bee.com^
 ||b6895653b6.dis-my.eu^
+||b6b2d31f7e.com^
 ||b6b381f428.9dcae3bd13.com^
 ||b6b6c55625.8a40179356.com^
 ||b6f16b3cd2.com^
@@ -40643,6 +40648,7 @@ watson.*.microsoft.com
 ||collectivenessproserpina.online^
 ||collectivequestioningcompartment.com^
 ||collector*.ex.co^
+||collector-*.px-client.net^
 ||collector-*.tvsquared.com^
 ||collector-001.newrelic.com^
 ||collector-002.newrelic.com^
@@ -52346,6 +52352,7 @@ watson.*.microsoft.com
 ||dogehype.com^
 ||dogfactory.biz^
 ||dogfilm.viktorwit.eu^
+||doggessasbolin.com^
 ||doggfxjm.org^
 ||doggymanpower.com^
 ||doggystylemobilegrooming.com^
@@ -55476,6 +55483,7 @@ watson.*.microsoft.com
 ||edococounter.de^
 ||edofan.com^
 ||edog2017.karyamedia.net^
+||edokouksuk.net^
 ||edomainpoint.cz^
 ||edomz.com^
 ||edonhisdhi.com^
@@ -55624,6 +55632,7 @@ watson.*.microsoft.com
 ||eelarmchairposterity.com^
 ||eelconjunctionenjoying.com^
 ||eeleekso.com^
+||eelerzambo.com^
 ||eelhoe.us^
 ||eelrauwhoazie.net^
 ||eelroave.xyz^
@@ -58711,6 +58720,7 @@ watson.*.microsoft.com
 ||event.karrotmarket.com^
 ||event.ksosoft.com^
 ||event.lib.visumo.io^
+||event.msi.com^
 ||event.newsbreak.com^
 ||event.newyorker.com^
 ||event.northghost.com^
@@ -58798,6 +58808,7 @@ watson.*.microsoft.com
 ||events.api.godaddy.com^
 ||events.api.red.wemesh.ca^
 ||events.api.secureserver.net^
+||events.app-performance.music.amazon.dev^
 ||events.askjdhaa.com^
 ||events.audiate.me^
 ||events.audioplace.me^
@@ -60030,6 +60041,7 @@ watson.*.microsoft.com
 ||f58x48lpn.com^
 ||f59408d48d.com^
 ||f5ads.com^
+||f5ff45b3d4.com^
 ||f5w.as12df.top^
 ||f5zv2.icu^
 ||f6176563.site^
@@ -72262,6 +72274,7 @@ watson.*.microsoft.com
 ||harrisonkieffer.com^
 ||harrowcontend.com^
 ||harrowjunk.com^
+||harrowliquid.com^
 ||harrydough.com^
 ||harryjugglewhose.com^
 ||harrymercurydynasty.com^
@@ -93881,6 +93894,7 @@ watson.*.microsoft.com
 ||m43.jetsulrusurvey.top^
 ||m44yxx-5000.csb.app^
 ||m4n.nl^
+||m4r.fun^
 ||m4su.online^
 ||m4vrev.skin^
 ||m4zoxtrcea1k.controlconceptsusa.com^
@@ -98898,6 +98912,7 @@ watson.*.microsoft.com
 ||metricode.com^
 ||metricool.com^
 ||metrics*.fitanalytics.com^
+||metrics-a.wbx2.com^
 ||metrics-ad-drcn.dt.hihonorcloud.com^
 ||metrics-antistress.junglefrog.com^
 ||metrics-api.dimensions.ai^
@@ -103409,6 +103424,7 @@ watson.*.microsoft.com
 ||mopub.com^
 ||mopub.pub^
 ||moqaruo3.pro^
+||moqbfkfuex.com^
 ||moqdy.icu^
 ||moqeiwmuwqmoil.com^
 ||mor.chance-10dayful.com^
@@ -109941,6 +109957,7 @@ watson.*.microsoft.com
 ||num.to^
 ||numarabiz.com^
 ||numarapaneli.com^
+||numb-price.pro^
 ||numbate.com^
 ||number1victimofcrime.com^
 ||numberflutter.com^
@@ -112096,6 +112113,7 @@ watson.*.microsoft.com
 ||olyfvtogo.com^
 ||olympicsnearesttablets.com^
 ||olympicviewcc.com^
+||olympuscracowe.shop^
 ||olympushediyeleri.com^
 ||olzatpafwo.com^
 ||olzlmemumcwe.com^
@@ -112732,6 +112750,7 @@ watson.*.microsoft.com
 ||onilne.fr^
 ||onimgs.com^
 ||onion.link^
+||onionetmabela.top^
 ||onionfive.net^
 ||onionfloatindustrious.com^
 ||onionhvetrer.com^
@@ -113981,6 +114000,7 @@ watson.*.microsoft.com
 ||osezny.intheswim.com^
 ||osfrjut.com^
 ||osfultrbriolenai.info^
+||osgabcqk.com^
 ||osgsijvkoap.com^
 ||oshanixot.com^
 ||oshaq.top^
@@ -122886,6 +122906,7 @@ watson.*.microsoft.com
 ||proxy.cmcm.com^
 ||proxy.dzeio.com^
 ||proxy.fsplayback.com^
+||proxy.optoutadserving.com^
 ||proxy.sec.miui.com^
 ||proxy.trysavvy.com^
 ||proxy48.oss-eu-central-1.aliyuncs.com^
@@ -125286,6 +125307,7 @@ watson.*.microsoft.com
 ||qnyysdideo.com^
 ||qnzczf.idc-otsuka.jp^
 ||qo.dunganof.com^
+||qo2.fun^
 ||qoaaa.com^
 ||qoairs.scholl-shoes.com^
 ||qobuz.surveysparrow.com^
@@ -126544,6 +126566,7 @@ watson.*.microsoft.com
 ||raisetelevisiondetriment.com^
 ||raisingludicrousshone.com^
 ||raisinsapplepie.com^
+||raisoglaini.net^
 ||raistiwije.net^
 ||raivoabu.com^
 ||raj.monster^
@@ -132927,6 +132950,7 @@ watson.*.microsoft.com
 ||samafg.com^
 ||samage-bility.icu^
 ||samahin.com^
+||samalcuratic.shop^
 ||samarketing.sedgwick.com^
 ||samarradeafer.top^
 ||samba.tv^
@@ -134168,6 +134192,7 @@ watson.*.microsoft.com
 ||scrooge.theindychannel.com^
 ||scrooge.wesh.com^
 ||scrooge.wnbc.com^
+||scrorlaets.com^
 ||scroscoi.com^
 ||scrubheiress.com^
 ||scruboutdoorsoffensive.com^
@@ -144748,6 +144773,7 @@ watson.*.microsoft.com
 ||sphereeffort.com^
 ||sphereup.com^
 ||spherexx.com^
+||spheryexcise.shop^
 ||spherysred.com^
 ||sphinx.aomg5bzv7.com^
 ||sphostserver.com^
@@ -155059,6 +155085,7 @@ watson.*.microsoft.com
 ||thanecityfc.spyn.co^
 ||thang365g.com^
 ||thangetsoam.com^
+||thangrurs.com^
 ||thanhphomomo.com^
 ||thanhtoanlienquan.com^
 ||thanhtrapcrt.online^
@@ -162592,6 +162619,7 @@ watson.*.microsoft.com
 ||tteekes.com^
 ||tteferty33.fun^
 ||ttemplatecreator.co^
+||tteojtlqlxrev.com^
 ||ttessab.net^
 ||ttfpil.2dehands.be^
 ||ttgbnmk.top^
@@ -179265,7 +179293,6 @@ watson.*.microsoft.com
 ||xtvrtrya.xyz^
 ||xtxwva.intersport.com.tr^
 ||xtzy.men^
-||xu.olympuscracowe.shop^
 ||xu6.icu^
 ||xuakn.icu^
 ||xuanlienquan.com^
