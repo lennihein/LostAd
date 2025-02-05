@@ -167,6 +167,7 @@
 @@||feed.adrelayer.com^|
 @@||forum.notebookreview.com^|
 @@||gate.first-id.fr^|
+@@||get.neofinancial.com^|
 @@||github.dev^$important
 @@||go.adjust.com^|
 @@||go.scorptec.com.au^|
@@ -609,6 +610,7 @@ watson.*.microsoft.com
 ||0af597d3bd.ce26c78a4e.com^
 ||0afc4c07a9.9fbdc30642.com^
 ||0b0db57b5f.com^
+||0b6e17a630.com^
 ||0b7741a902.com^
 ||0b85c2f9bb.com^
 ||0bb68b4c4a.a65768f777.com^
@@ -4271,6 +4273,7 @@ watson.*.microsoft.com
 ||82c39cef22.0a3036d0e7.com^
 ||82o9v830.com^
 ||83-87-76-41.cable.dynamic.v4.ziggo.nl^
+||831f1e8aa9.com^
 ||831xmyp1fr4i.shop^
 ||8321112183.parchicky.com^
 ||83409127.xyz^
@@ -8664,6 +8667,7 @@ watson.*.microsoft.com
 ||ad.danawa.com^
 ||ad.data.lianjia.com^
 ||ad.data.peasun.net^
+||ad.datadeliver.net^
 ||ad.daum.net^
 ||ad.dcf.state.fl.us^
 ||ad.ddo.jp^
@@ -25610,6 +25614,7 @@ watson.*.microsoft.com
 ||avhjzemp.com^
 ||avhtaapxml.com^
 ||aviabiz.com^
+||aviarymike.com^
 ||aviation-marketing.info^
 ||aviationbe.com^
 ||avidgradualfarmer.com^
@@ -27907,6 +27912,7 @@ watson.*.microsoft.com
 ||bc894jskjsk.com^
 ||bc930c99b5.77cdc6d130.com^
 ||bc98ad.xyz^
+||bca10c62ca.com^
 ||bcaakxxuf.com^
 ||bcajjtbzmdrl.com^
 ||bcanl.bca-autoveiling.nl^
@@ -28867,6 +28873,7 @@ watson.*.microsoft.com
 ||bento.agoda.com^
 ||bentonow.com^
 ||bentyquod.shop^
+||benue.site^
 ||benumelan.com^
 ||benutzerregistrierung.com^
 ||benzeinlune.com^
@@ -28959,6 +28966,7 @@ watson.*.microsoft.com
 ||bespoke-analytics.razerapi.com^
 ||bespoke.iln8.net^
 ||bespokesandals.com^
+||bespokeshirtsmail.com^
 ||bespyscania.com^
 ||best-acupuncture-info.com^
 ||best-cargo.ru^
@@ -43465,6 +43473,7 @@ watson.*.microsoft.com
 ||cowm199.com^
 ||coworking-space-tenerife.com^
 ||coworking.moscow^
+||cowsonbaggara.shop^
 ||cowtpvi.com^
 ||coxgypsine.shop^
 ||coxiesthubble.com^
@@ -44870,6 +44879,7 @@ watson.*.microsoft.com
 ||cullligan.fr^
 ||culmedpasses.cam^
 ||culpritcourt.com^
+||culptyjhitf.com^
 ||culrosha.net^
 ||cultergoy.com^
 ||culterwhether.com^
@@ -51046,9 +51056,11 @@ watson.*.microsoft.com
 ||diif.com^
 ||diiipweb.com^
 ||diingsinspiri.com^
+||diingsinspiringtg.com^
 ||dij.beblon.com^
 ||dikeaxillas.com^
 ||diken.xyz^
+||dikersballo.shop^
 ||dikhsb.vividseats.com^
 ||dikkoplida.cam^
 ||diladey7.pro^
@@ -54010,6 +54022,7 @@ watson.*.microsoft.com
 ||dukaradio.com^
 ||dukehanging.com^
 ||dukemarshy.com^
+||dukerationpecial.com^
 ||dukesubsequent.com^
 ||dukingdraon.com^
 ||dukirliaon.com^
@@ -54457,6 +54470,7 @@ watson.*.microsoft.com
 ||dzxwnews.com^
 ||dzyob.com^
 ||dzypro.xyz^
+||dzzdspiu.icu^
 ||dzzrenjanin.rs^
 ||e-ad-monitor.huya.com^
 ||e-bankingshopee.vn^
@@ -70914,6 +70928,7 @@ watson.*.microsoft.com
 ||gronsoakoube.net^
 ||groodsufen.net^
 ||groognub.net^
+||grookilteepsou.net^
 ||grooksom.com^
 ||groomoub.com^
 ||groompemait.net^
@@ -72826,6 +72841,7 @@ watson.*.microsoft.com
 ||hdhcjgi.r.bh.d.sendibt3.com^
 ||hdickeu.top^
 ||hdicsm.autoscout24.be^
+||hdinmau.top^
 ||hdinmiu.top^
 ||hdipsumu.top^
 ||hdirectionsandmap.com^
@@ -77098,6 +77114,8 @@ watson.*.microsoft.com
 ||identityadjustments.com^
 ||identitymarrket.com^
 ||identitymatrix.ai^
+||identitypxl.app^
+||identitypxl.com^
 ||identityrudimentarymessenger.com^
 ||identityservices.io^
 ||identityupdate-pagescenter.com^
@@ -82089,6 +82107,8 @@ watson.*.microsoft.com
 ||is-tracking-pixel-api-prod.appspot.com^
 ||is.snssdk.com.w.alikunlun.com^
 ||is.snssdk.com^
+||is02041qqp.xyz^
+||is02050qqp.xyz^
 ||isa.aomg5bzv7.com^
 ||isabellaentire.com^
 ||isabellagodpointy.com^
@@ -86333,6 +86353,7 @@ watson.*.microsoft.com
 ||kljcqiia.com^
 ||kljhsanvj.com^
 ||kljsdfliuoi.com^
+||klkchits.com^
 ||klkk66.fun^
 ||klktmc.parler.co.jp^
 ||klldabck.com^
@@ -89216,7 +89237,6 @@ watson.*.microsoft.com
 ||lf-headquarters-speed.yhgfb-cn-static.com.1046296236066394.queniubg.com^
 ||lf-headquarters-speed.yhgfb-cn-static.com^
 ||lf.snssdk.com^
-||lf1-cdn-tos.bytegoofy.com^
 ||lf6-cdn-tos.bytecdntp.com^
 ||lf8q.online^
 ||lfapbe.quiksilver.co.jp^
@@ -91912,6 +91932,7 @@ watson.*.microsoft.com
 ||log.isnssdk.com^
 ||log.itworld.com^
 ||log.iyunmai.com^
+||log.jackpotmasterslots.com^
 ||log.jd.com^
 ||log.kaayun.com^
 ||log.kaka.me^
@@ -95328,6 +95349,7 @@ watson.*.microsoft.com
 ||markedraven.com^
 ||markerleery.com^
 ||markerly.com^
+||market-click-baobab.yandex.ru^
 ||market-trk.com^
 ||market.178.com^
 ||market.21cn.com^
@@ -98669,6 +98691,7 @@ watson.*.microsoft.com
 ||menews.org^
 ||mengaoz.xyz^
 ||mengis-linden.org^
+||mengozia.xyz^
 ||menhichs.cfd^
 ||meni.net^
 ||menily.com^
@@ -110859,6 +110882,7 @@ watson.*.microsoft.com
 ||oasishonestydemented.com^
 ||oasismarketing.oasisadvantage.com^
 ||oasiticalgodon.com^
+||oasjs.kataweb.it^
 ||oasoobseesti.com^
 ||oassackegh.net^
 ||oassimpi.net^
@@ -117943,6 +117967,7 @@ watson.*.microsoft.com
 ||phacmeptaus.net^
 ||phadia.thermo.com^
 ||phadsophoogh.net^
+||phahifoobsie.net^
 ||phaibeertou.com^
 ||phaibimoa.xyz^
 ||phaidaimpee.xyz^
@@ -119341,6 +119366,7 @@ watson.*.microsoft.com
 ||pktdeal.com^
 ||pktytp.membershop.lv^
 ||pkudawbkcl.com^
+||pkyffuewwuhnld.com^
 ||pkyjuc.cn^
 ||pl-112-policjapl.online^
 ||pl-112pl-policjapl.online^
@@ -125366,6 +125392,7 @@ watson.*.microsoft.com
 ||qgxbluhsgad.com^
 ||qgxshwahmteqln.com^
 ||qh1pe1.xyz^
+||qhaccid.com^
 ||qhatarsl.com^
 ||qhdast.com^
 ||qhdhtd.com^
@@ -130245,6 +130272,7 @@ watson.*.microsoft.com
 ||rjgsjm.gigameubel.nl^
 ||rjhbjv.xyz^
 ||rjjynf.showcase-tv.com^
+||rjkrefyqrixk.com^
 ||rjlkibvwgxiduq.com^
 ||rjoafbohhdmw.com^
 ||rjowzlkaz.today^
@@ -131128,6 +131156,7 @@ watson.*.microsoft.com
 ||rrmwtxtstscdng.xyz^
 ||rrobbybvvwmzk.top^
 ||rronsep.com^
+||rrptnkao.icu^
 ||rrqafepng.biz^
 ||rrrrllll.top^
 ||rrss.abc.es^
@@ -137449,6 +137478,7 @@ watson.*.microsoft.com
 ||shadyhollowfleamarket.com^
 ||shadytourdisgusted.com^
 ||shaeian.xyz^
+||shaenphiks.com^
 ||shafou.com^
 ||shaftmeditatecombined.com^
 ||shagbmillf.com^
@@ -161612,6 +161642,7 @@ watson.*.microsoft.com
 ||trccmpnsl.com^
 ||trccvt.dhc.co.jp^
 ||trck-a8.j-depo.com^
+||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||trck.accredible.com^
 ||trck.aeon.co.jp^
 ||trck.asset.malcotools.com^
@@ -170521,6 +170552,7 @@ watson.*.microsoft.com
 ||vyg.mobi^
 ||vygutaj.com^
 ||vyhg.imml.top^
+||vyhpoooamxdhmg.com^
 ||vyhxwhctvw.com^
 ||vyibkk.trocandofraldas.com.br^
 ||vyjwxc.elemis.com^
@@ -177084,6 +177116,7 @@ watson.*.microsoft.com
 ||www.ripe8book.com^
 ||www.risk8belt.com^
 ||www.riskybus.f9.co.uk^
+||www.ritikhush.com^
 ||www.rleisvhlbvs6p6j.identatronshop.vmail.smena.net^
 ||www.rnsfpw.net^
 ||www.roamthrivecaviar.com^
