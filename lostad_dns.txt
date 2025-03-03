@@ -2813,6 +2813,7 @@ watson.*.microsoft.com
 ||4959987cc4.134af949d5.com^
 ||4968.sosqboh85.com^
 ||49706204.xyz^
+||49709796.xyz^
 ||4973.5clo0xmbf.com^
 ||49766251.xyz^
 ||4998.5clo0xmbf.com^
@@ -3647,6 +3648,7 @@ watson.*.microsoft.com
 ||720-trail.co.uk^
 ||7205.4puuqeh41.com^
 ||72075223.xyz^
+||72123581.xyz^
 ||721ffc3ec5.com^
 ||72356275.xyz^
 ||724vpn.com^
@@ -4453,6 +4455,7 @@ watson.*.microsoft.com
 ||9c6e68eb-06c3-4d70-ad51-6e40ae2a07f2.ods.opinsights.azure.com^
 ||9c71802255.smtvw.pl^
 ||9cbj41a5.de^
+||9cd4abb9e0.com^
 ||9cd76b4462bb.com^
 ||9content.com^
 ||9d2cca15e4.com^
@@ -10987,6 +10990,7 @@ watson.*.microsoft.com
 ||ads-bi.zenkube.com^
 ||ads-bidder-api.twitter.com^
 ||ads-bilek.com^
+||ads-bitcoin.com^
 ||ads-bridge.pixocial.com^
 ||ads-c-1854119718.us-west-1.elb.amazonaws.com^
 ||ads-cdn.fptplay.net^
@@ -16055,6 +16059,7 @@ watson.*.microsoft.com
 ||ailiior-reaktywowac.com^
 ||ailil-fzt.com^
 ||ailla.abphotos.link^
+||aillaeuyn.com^
 ||ailpielei.com^
 ||ailrooptaijoa.net^
 ||ailrouno.net^
@@ -45641,6 +45646,7 @@ watson.*.microsoft.com
 ||cxskmcrwfib.com^
 ||cxt.ms^
 ||cxtvli.com^
+||cxuapz.xyz^
 ||cxuhjnemd.xyz^
 ||cxvyk.com^
 ||cxwisl.jetstereo.com^
@@ -51230,6 +51236,7 @@ watson.*.microsoft.com
 ||difmnd.xyz^
 ||difoozaumtojeb.net^
 ||difyferukentasp.com^
+||difzhd.icu^
 ||dig.bdurl.net^
 ||dig.lianjia.com^
 ||dig.ultimedia.com^
@@ -54967,6 +54974,7 @@ watson.*.microsoft.com
 ||dzbbzg.carfinance247.co.uk^
 ||dzbkl37t8az8q.cloudfront.net^
 ||dzdgfp673c1p0.cloudfront.net^
+||dzdmvnegsov.com^
 ||dzdnffs.xyz^
 ||dzeaqmeuaql.com^
 ||dzgwautxzdtn9.cloudfront.net^
@@ -60009,6 +60017,7 @@ watson.*.microsoft.com
 ||ewoufhvow.myshopify.com^
 ||ewouwamsubsouvy.net^
 ||ewp.live^
+||ewpb.site^
 ||ewq.infplm.top^
 ||ewqeq23.fun^
 ||ewqkrfjkqz.com^
@@ -69591,6 +69600,7 @@ watson.*.microsoft.com
 ||gmufag.nn.ru^
 ||gmufag.starhit.ru^
 ||gmufag.woman.ru^
+||gmwqpgq.top^
 ||gmxvmvptfm.com^
 ||gmxxlwvlogm.com^
 ||gmxysb.icu^
@@ -114718,6 +114728,7 @@ watson.*.microsoft.com
 ||onmarshtompor.com^
 ||onmazjhut.com^
 ||onmicrosoft-online-o365.com^
+||onmoxskatoxx.com^
 ||onmstgh.icu^
 ||onmydigital-app.com^
 ||onmylike.com^
@@ -115418,6 +115429,7 @@ watson.*.microsoft.com
 ||oqddkgixmqhovv.xyz^
 ||oqdfzututg.com^
 ||oqdtuqat.com^
+||oqea.cn^
 ||oqejupqb.xyz^
 ||oqekooaywepsx.xyz^
 ||oqgrax.sissy-boy.com^
@@ -120818,6 +120830,7 @@ watson.*.microsoft.com
 ||pjtxmd.epool.ru^
 ||pjunnest.cyou^
 ||pjvartonsbewand.info^
+||pjwk.cn^
 ||pjyvrltpstm.com^
 ||pjzxdl.xyz^
 ||pk-govt.net^
@@ -120860,6 +120873,7 @@ watson.*.microsoft.com
 ||pktytp.membershop.lv^
 ||pkudawbkcl.com^
 ||pkuheroes.com^
+||pkvjrb.icu^
 ||pkycugri.com^
 ||pkyffuewwuhnld.com^
 ||pkyjuc.cn^
@@ -131632,6 +131646,7 @@ watson.*.microsoft.com
 ||rhythmone.com^
 ||rhythmrule.com^
 ||rhythmxchange.com^
+||rhzofr.icu^
 ||rhzvlcu.xyz^
 ||ri.5.p2l.info^
 ||ri.dehatop.com^
@@ -141017,6 +141032,7 @@ watson.*.microsoft.com
 ||sickbedjibboom.com^
 ||sicklybates.com^
 ||sicklypercussivecoordinate.com^
+||sicksarrish.top^
 ||sicksmash.com^
 ||siconoi.com^
 ||sicouthautso.net^
@@ -166195,6 +166211,7 @@ watson.*.microsoft.com
 ||tzegilo.com^
 ||tzgl.org^
 ||tzgurwizule3.app.cardahealth.com^
+||tzhrmcnidxqwrb.com^
 ||tzigacompl.com^
 ||tzjybeidou.58.com^
 ||tzmiaa-ad-in-f10.1e100.net^
@@ -168756,6 +168773,7 @@ watson.*.microsoft.com
 ||utiq.merkur.de^
 ||utiq.mopo.de^
 ||utiq.op-online.de^
+||utiq.pcgames.de^
 ||utiq.soester-anzeiger.de^
 ||utiq.t-online.de^
 ||utiq.tz.de^
@@ -169936,6 +169954,7 @@ watson.*.microsoft.com
 ||vehiclepatsyacacia.com^
 ||vehosw.com^
 ||vei2noca1.com^
+||veideasandcome.org^
 ||veih8bee.xhcdn.com^
 ||veilbenefit.com^
 ||veilcurtin.world^
@@ -177331,6 +177350,7 @@ watson.*.microsoft.com
 ||wulkanvegas.org^
 ||wuluxo.com^
 ||wum39126795crar5ja7su3qs.gardenfourum.com^
+||wumd.cn^
 ||wumii.com^
 ||wumufama.com^
 ||wundercounter.com^
