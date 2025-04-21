@@ -2,6 +2,10 @@ porofessor.gg##.vertical-ad-2-container
 porofessor.gg###bigTooltip
 porofessor.gg##.site-footer
 
+deeplol.gg##.h__contactus
+
+primeleague.gg###sidebar-partner
+
 hipdf.com###sharePopup > div.mei-dialog-wrap1:last-child > div.mei-modal-content1:first-child
 srf.ch##.srgssr-subdivisions
 
@@ -11,6 +15,18 @@ ebay-kleinanzeigen.de##div.mfp-wrap.mfp-close-btn-in.mfp-auto-cursor.mfp-ready:n
 genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_sideBar__yXGVR.Farm_stickyBar__85QIF:first-child > div:nth-child(2)
 genshin-center.com###__next > div.App_app__96S8v > main.page:nth-child(3) > div.Farm_farm__uhRH4:first-child > div.Farm_divider__XPwtq:last-child > div.Farm_content__AgSzr > div.Farm_listWrapper__RXUDB:last-child > div.units_lb1Wrapper__0Zd2d:nth-child(2)
 genshin-center.com###__next > div.App_app__96S8v > div.Footer_footer__GLL0J:last-child
+genshin-center.com##.units_lb1Wrapper__0Zd2d
+
+game8.co##div.footer-overlay:nth-child(10) > a.track_nier > img:last-child
+frzyc.github.io###root > div.MuiBox-root.css-16zniwk:first-child > footer.MuiPaper-root.MuiPaper-elevation.MuiPaper-elevation0.MuiAppBar-root.MuiAppBar-colorPrimary.MuiAppBar-positionStatic.css-yl7lcc:last-child
+genshin-impact.fandom.com##.discord-module
+
+hsr.seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white.w-full > div.mx-auto.bg-gray-800.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(3)
+hsr.seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mt-4:last-child > div.mx-auto.bg-gray-800.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(3)
+hsr.seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white > div.mx-auto.bg-gray-800.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(4)
+hsr.seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.text-white:first-child > div.mx-auto.bg-gray-800.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:nth-child(5)
+hsr.seelie.me###main > div.container.mx-auto.px-4.sm\:px-6.lg\:px-8.xl\:px-10.py-16.lg\:py-8.xl\:py-10:nth-child(2) > div.mx-auto.bg-gray-800.rounded.overflow-hidden.text-white.relative.h-\[250px\].md\:h-\[90px\].min-w-\[250px\].max-w-\[300px\].md\:min-w-\[728px\].md\:max-w-auto.mt-5:last-child
+
 
 twitch.tv###root > div.Layout-sc-nxg1ff-0.eoQePv > div.Layout-sc-nxg1ff-0.qViOJ:nth-child(2) > div.Layout-sc-nxg1ff-0.kSdScw:first-child > div.Layout-sc-nxg1ff-0.cSFwmv.consent-banner
 twitch.tv###f896048f7cb400f47f390e9f75f88c4e > div.Layout-sc-nxg1ff-0.iYwoNw.right-column.right-column--theatre.right-column--beside > div.Layout-sc-nxg1ff-0.hoDdPM:first-child > div.channel-root__right-column > div.Layout-sc-nxg1ff-0.hmkGMl > div.Layout-sc-nxg1ff-0.SVxtW.chat-shell.chat-shell__expanded > div.Layout-sc-nxg1ff-0.cHunhC > div.Layout-sc-nxg1ff-0.ciSpU.stream-chat > section.InjectLayout-sc-588ddc-0.chat-room.kmTSDC:last-child > div.Layout-sc-nxg1ff-0.gsjsMm.chat-room__content > div.Layout-sc-nxg1ff-0.gDuGLD:first-child > div.Layout-sc-nxg1ff-0.gDuGLD:first-child
@@ -34,6 +50,8 @@ tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > d
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.custom-content:nth-child(2)
 tracker.gg###app > div.trn-wrapper:last-child > div.trn-container:last-child > div.trn-content > main:first-child > div:nth-child(3) > div.container > div.cover:first-child > div.cover-content > div.hero > div.leaders:last-child
 
+vlr.gg##.d8fyh
+
 aiming.pro###ss-top
 
 metasrc.com###header_wrapper
@@ -42,10 +60,21 @@ metasrc.com###bottom_of_page
 
 youtube.com###footer
 youtube.com###voice-search-button
+youtube.com###chat-container
+youtube.com###fixed-secondary
+youtube.com###chatframe
+youtube.com###chat
+youtube.com###panels-full-bleed-container
 
 github.com##footer.footer.width-full.container-xl.p-responsive:nth-child(8)
 
 photopea.com##div.flexrow.app:last-child > div:last-child
+photopea.com##div.flexrow.app:last-child > div:nth-child(2)
+
+nytimes.com###gateway-content
+
+acrobat.adobe.com##.HomeBanner__homeBannerContents___Wfrwn
+acrobat.adobe.com##.HomeBanner__homeBanner___3mZ8A, .HomeBanner__homeBannerWebOnly___21oAG
 
 anti-adblocker$important
 
@@ -77,13 +106,41 @@ anti-adblocker$important
 @@||ichnaea-web.netflix.com^$important
 @@||news.ycombinator.com^$important,document
 @@||distiller.com^$elemhide
-
+@@||pin-river.data.ea.com^
+@@||claude.ai^$important,document
+@@||chatgpt.com^$important,document
+@@||sora.com^$important,document
 @@||s.youtube.com
 @@||video-stats.I.google.com
+@@||login.dhl.de^$important,document
+@@||my.writefull.com^$important,document
+@@||account.grammarly.com^$important,document
+@@||www.awbkoeln.de^$important,document
+@@||account.adobe.com^$important,document
+@@||www.jetbrains.com^$important,document
+@@||hansimglueck-burgergrill.de^$important,document
+@@||endeavouros.com^$important,document
+@@||10.0.0.3^$important,document
+@@||onlineservice.rheinenergie.com^$important,document
+@@||play.afreecatv.com^$important,document
+@@||www.hanseaticbank.de^$important,document
+@@||quay.io^$important,document
+@@||www.perplexity.ai^$important,document
+@@||account.squarespace.com^$important,document
+@@||lolesports.com^$important,document
+@@||www.stiloestile.com^$important,document
+@@||md.midori-japan.co.jp^$important,document
+@@||www.mobil.nrw^$important,document
+@@||www.strato.de^$important,document
 
+# wikipedia
 @@||wikipedia.org^$document
 wikipedia.org$$script, important
 de.m.wikipedia.org###siteNotice$important
+
+# geotastic
+@@||geotastic.net^$important
+@@||geotastic.net^$important,document
 
 ||howstuffworks.com
 

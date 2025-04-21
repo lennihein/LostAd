@@ -1,0 +1,24 @@
+{
+  "name": "LostAd Core",
+  "sources": [
+    {
+      "source": "losts_customs.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt"
+    },
+    {
+      "source": "https://easylist.to/easylist/easylist.txt"
+    },
+    {
+      "source": "https://easylist.to/easylist/easyprivacy.txt"
+    }
+  ],
+  "transformations": [
+    "StripBadFilterRules",
+    "OptimizeRules",
+    "Deduplicate",
+    "Compress",
+    "RemoveComments"
+  ]
+}

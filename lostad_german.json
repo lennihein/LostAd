@@ -1,0 +1,15 @@
+{
+  "name": "LostAd German",
+  "sources": [
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_6_German/filter.txt"
+    }
+  ],
+  "transformations": [
+    "StripBadFilterRules",
+    "OptimizeRules",
+    "Deduplicate",
+    "Compress",
+    "RemoveComments"
+  ]
+}
