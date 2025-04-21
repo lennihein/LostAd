@@ -27,10 +27,12 @@ MODULES=(
 # Build each module
 for module in "${MODULES[@]}"; do
   echo "[+] Building lostad_$module.txt..."
-  docker run --rm -t -v "$WORKDIR":/app lennihein/hostlist-compiler \
+  docker run --rm -t \
+    -v "$WORKDIR":/app \
+    -u $(id -u):$(id -g) \
+    lennihein/hostlist-compiler \
     hostlist-compiler -c "lostad_${module}.json" -o "lostad_${module}.txt"
-  # Fix file ownership
-  chown "$(id -u)":"$(id -g)" "lostad_${module}.txt"
+
 
   
   sort -o "lostad_${module}.txt"{,}
