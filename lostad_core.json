@@ -15,8 +15,6 @@
     }
   ],
   "transformations": [
-    "StripBadFilterRules",
-    "OptimizeRules",
     "Deduplicate",
     "Compress",
     "RemoveComments"

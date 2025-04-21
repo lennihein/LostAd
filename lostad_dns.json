@@ -46,8 +46,6 @@
     }
   ],
   "transformations": [
-    "StripBadFilterRules",
-    "RemoveModifiers",
     "Validate",
     "Deduplicate",
     "Compress",
