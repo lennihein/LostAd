@@ -9,7 +9,6 @@
     }
   ],
   "transformations": [
-    "StripBadFilterRules",
     "Deduplicate",
     "Compress",
     "RemoveComments"
