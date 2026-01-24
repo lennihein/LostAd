@@ -6,7 +6,7 @@
         "source": "losts_customs.txt"
     },
     {
-        "source": "https://o0.pages.dev/Pro/adblock.txt"
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt"
     },
     {
         "name": "WindowsSpyBlocker",
@@ -22,7 +22,7 @@
     },
     {
         "name": "Peter Lowe's List",
-        "source": "https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext"
+        "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/yoyo.org/hosts"
     },
     {
         "name": "Game Console Adblock List",

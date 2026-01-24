@@ -40,25 +40,23 @@ for module in "${MODULES[@]}"; do
   sed -i '/^!/d' "lostad_${module}.txt"
 
   # Metadata
-  echo -e "!\n! Expires: 1 day\n! Name: LostAd ${module^}\n[Adblock Plus 2.0]\n$(cat lostad_${module}.txt)" > "lostad_${module}.txt"
+  echo -e "!\n! Expires: 1 day\n! Name: LostAd ${module^}\n[Adblock Plus 2.0]" > "lostad_${module}.txt.tmp"
+  cat "lostad_${module}.txt" >> "lostad_${module}.txt.tmp"
+  mv "lostad_${module}.txt.tmp" "lostad_${module}.txt"
 done
 
 # Combine full list (everything but DNS)
-echo "[+] Combining full list..."
-cat lostad_core.txt \
-    lostad_social.txt \
-    lostad_cookies.txt \
-    lostad_tracking.txt \
-    lostad_annoyances.txt \
-    lostad_german.txt > lostad_full.txt
+echo "[+] Building lostad_full.txt..."
+docker run --rm -t \
+  -v "$WORKDIR":/app \
+  -u $(id -u):$(id -g) \
+  lennihein/hostlist-compiler \
+  hostlist-compiler -c "lostad_full.json" -o "lostad_full.txt"
 
-# Add metadata
-echo -e "!\n! Expires: 1 day\n! Name: LostAd Full\n[Adblock Plus 2.0]\n$(cat lostad_full.txt)" > lostad_full.txt
-
-# Generate lean version (first 250k lines)
-echo "[+] Generating lean list..."
-head -n 250000 lostad_full.txt > lostad_lean.txt
-echo -e "!\n! Expires: 1 day\n! Name: LostAd Lean\n[Adblock Plus 2.0]\n$(cat lostad_lean.txt)" > lostad_lean.txt
+# Metadata for Full List
+echo -e "!\n! Expires: 1 day\n! Name: LostAd Full\n[Adblock Plus 2.0]" > lostad_full.txt.tmp
+cat lostad_full.txt >> lostad_full.txt.tmp
+mv lostad_full.txt.tmp lostad_full.txt
 
 # Copy to Caddy output dir
 echo "[+] Deploying to $OUTPUT_DIR..."
