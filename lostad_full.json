@@ -1,0 +1,28 @@
+{
+  "name": "LostAd Full",
+  "sources": [
+    {
+      "source": "lostad_core.txt"
+    },
+    {
+      "source": "lostad_social.txt"
+    },
+    {
+      "source": "lostad_cookies.txt"
+    },
+    {
+      "source": "lostad_tracking.txt"
+    },
+    {
+      "source": "lostad_annoyances.txt"
+    },
+    {
+      "source": "lostad_german.txt"
+    }
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveComments"
+  ]
+}
