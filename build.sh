@@ -39,8 +39,15 @@ for module in "${MODULES[@]}"; do
   sed -i '/^$/d' "lostad_${module}.txt"
   sed -i '/^!/d' "lostad_${module}.txt"
 
+  # DNS Cleanup (Remove cosmetic and modifier rules from imported files like customs)
+  if [ "$module" = "dns" ]; then
+    sed -i '/#/d' "lostad_${module}.txt"
+    sed -i '/\$/d' "lostad_${module}.txt"
+    sed -i '/=/d' "lostad_${module}.txt"
+  fi
+
   # Metadata
-  echo -e "!\n! Expires: 1 day\n! Name: LostAd ${module^}\n[Adblock Plus 2.0]" > "lostad_${module}.txt.tmp"
+  echo -e "[Adblock Plus 2.0]\n! Title: LostAd ${module^}\n! Expires: 1 days" > "lostad_${module}.txt.tmp"
   cat "lostad_${module}.txt" >> "lostad_${module}.txt.tmp"
   mv "lostad_${module}.txt.tmp" "lostad_${module}.txt"
 done
@@ -54,7 +61,7 @@ docker run --rm -t \
   hostlist-compiler -c "lostad_full.json" -o "lostad_full.txt"
 
 # Metadata for Full List
-echo -e "!\n! Expires: 1 day\n! Name: LostAd Full\n[Adblock Plus 2.0]" > lostad_full.txt.tmp
+echo -e "[Adblock Plus 2.0]\n! Title: LostAd Full\n! Expires: 1 days" > lostad_full.txt.tmp
 cat lostad_full.txt >> lostad_full.txt.tmp
 mv lostad_full.txt.tmp lostad_full.txt
 

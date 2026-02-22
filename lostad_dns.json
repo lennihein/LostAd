@@ -37,10 +37,6 @@
         "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt"
     },
     {
-        "name": "Query Params",
-        "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_17_TrackParam/filter.txt"
-    },
-    {
         "name": "d3Host",
         "source": "https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt"
     }

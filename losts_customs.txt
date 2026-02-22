@@ -76,7 +76,7 @@ nytimes.com###gateway-content
 acrobat.adobe.com##.HomeBanner__homeBannerContents___Wfrwn
 acrobat.adobe.com##.HomeBanner__homeBanner___3mZ8A, .HomeBanner__homeBannerWebOnly___21oAG
 
-anti-adblocker$important
+*anti-adblocker*$important
 
 ##.container--sponsored, .container--sponsored--nitropay, .visible
 ##.container--share
@@ -135,7 +135,7 @@ anti-adblocker$important
 
 # wikipedia
 @@||wikipedia.org^$document
-wikipedia.org$$script, important
+@@||wikipedia.org^$script,important
 de.m.wikipedia.org###siteNotice$important
 
 # geotastic
