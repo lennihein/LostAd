@@ -38,6 +38,7 @@ for module in "${MODULES[@]}"; do
   sort -o "lostad_${module}.txt"{,}
   sed -i '/^$/d' "lostad_${module}.txt"
   sed -i '/^!/d' "lostad_${module}.txt"
+  sed -i '/^\[Adblock/d' "lostad_${module}.txt"
 
   # DNS Cleanup (Remove cosmetic and modifier rules from imported files like customs)
   if [ "$module" = "dns" ]; then
@@ -45,11 +46,6 @@ for module in "${MODULES[@]}"; do
     sed -i '/\$/d' "lostad_${module}.txt"
     sed -i '/=/d' "lostad_${module}.txt"
   fi
-
-  # Metadata
-  echo -e "[Adblock Plus 2.0]\n! Title: LostAd ${module^}\n! Expires: 1 days" > "lostad_${module}.txt.tmp"
-  cat "lostad_${module}.txt" >> "lostad_${module}.txt.tmp"
-  mv "lostad_${module}.txt.tmp" "lostad_${module}.txt"
 done
 
 # Combine full list (everything but DNS)
@@ -59,6 +55,17 @@ docker run --rm -t \
   -u $(id -u):$(id -g) \
   lennihein/hostlist-compiler \
   hostlist-compiler -c "lostad_full.json" -o "lostad_full.txt"
+
+sed -i '/^$/d' "lostad_full.txt"
+sed -i '/^!/d' "lostad_full.txt"
+sed -i '/^\[Adblock/d' "lostad_full.txt"
+
+# Add metadata headers to all module lists
+for module in "${MODULES[@]}"; do
+  echo -e "[Adblock Plus 2.0]\n! Title: LostAd ${module^}\n! Expires: 1 days" > "lostad_${module}.txt.tmp"
+  cat "lostad_${module}.txt" >> "lostad_${module}.txt.tmp"
+  mv "lostad_${module}.txt.tmp" "lostad_${module}.txt"
+done
 
 # Metadata for Full List
 echo -e "[Adblock Plus 2.0]\n! Title: LostAd Full\n! Expires: 1 days" > lostad_full.txt.tmp
