@@ -76,13 +76,13 @@ nytimes.com###gateway-content
 acrobat.adobe.com##.HomeBanner__homeBannerContents___Wfrwn
 acrobat.adobe.com##.HomeBanner__homeBanner___3mZ8A, .HomeBanner__homeBannerWebOnly___21oAG
 
-*anti-adblocker*$important
+/anti-adblocker.js$script,important
 
 ##.container--sponsored, .container--sponsored--nitropay, .visible
 ##.container--share
 ##.css-1czd2me, .e7ebutk5
 ##.promo
-##.cookie*
+##[class*="cookie"]
 ##.autoprivacy, .pending
 ##*.front-page-carousel
 ###ad-vertical-left
@@ -159,7 +159,7 @@ watson.*.microsoft.com
 ###uhfCookieAlert
 ##.mihoyo-cookie-tips, .mihoyo-cookie-tips--bottom, .mihoyo-cookie-tips--pc
 
-||wikipedia.org###siteNotice^$important
+wikipedia.org###siteNotice
 
 ||sourcepoint.theguardian.com/index.html
 

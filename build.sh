@@ -24,17 +24,20 @@ MODULES=(
   dns
 )
 
-# Build each module
-for module in "${MODULES[@]}"; do
-  echo "[+] Building lostad_$module.txt..."
-  docker run --rm -t \
-    -v "$WORKDIR":/app \
-    -u $(id -u):$(id -g) \
-    lennihein/hostlist-compiler \
+# Build all modules and full list in a single container boot
+echo "[+] Building all modules and full list..."
+docker run --rm -t \
+  -v "$WORKDIR":/app \
+  -u $(id -u):$(id -g) \
+  lennihein/hostlist-compiler \
+  sh -c 'for module in core social cookies tracking annoyances german dns full; do
+    echo "[+] Compiling lostad_${module}.txt..."
     hostlist-compiler -c "lostad_${module}.json" -o "lostad_${module}.txt"
+  done'
 
-
-  
+# Clean metadata and perform operations for all lists (modules + full list)
+for module in "${MODULES[@]}" full; do
+  echo "[+] Cleaning and finalizing lostad_${module}.txt..."
   sort -o "lostad_${module}.txt"{,}
   sed -i '/^$/d' "lostad_${module}.txt"
   sed -i '/^!/d' "lostad_${module}.txt"
@@ -46,31 +49,10 @@ for module in "${MODULES[@]}"; do
     sed -i '/\$/d' "lostad_${module}.txt"
     sed -i '/=/d' "lostad_${module}.txt"
   fi
+
+  # Metadata Insertion
+  sed -i "1i [Adblock Plus 2.0]\n! Title: LostAd ${module^}\n! Expires: 1 days" "lostad_${module}.txt"
 done
-
-# Combine full list (everything but DNS)
-echo "[+] Building lostad_full.txt..."
-docker run --rm -t \
-  -v "$WORKDIR":/app \
-  -u $(id -u):$(id -g) \
-  lennihein/hostlist-compiler \
-  hostlist-compiler -c "lostad_full.json" -o "lostad_full.txt"
-
-sed -i '/^$/d' "lostad_full.txt"
-sed -i '/^!/d' "lostad_full.txt"
-sed -i '/^\[Adblock/d' "lostad_full.txt"
-
-# Add metadata headers to all module lists
-for module in "${MODULES[@]}"; do
-  echo -e "[Adblock Plus 2.0]\n! Title: LostAd ${module^}\n! Expires: 1 days" > "lostad_${module}.txt.tmp"
-  cat "lostad_${module}.txt" >> "lostad_${module}.txt.tmp"
-  mv "lostad_${module}.txt.tmp" "lostad_${module}.txt"
-done
-
-# Metadata for Full List
-echo -e "[Adblock Plus 2.0]\n! Title: LostAd Full\n! Expires: 1 days" > lostad_full.txt.tmp
-cat lostad_full.txt >> lostad_full.txt.tmp
-mv lostad_full.txt.tmp lostad_full.txt
 
 # Copy to Caddy output dir
 echo "[+] Deploying to $OUTPUT_DIR..."

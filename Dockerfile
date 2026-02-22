@@ -1,13 +1,8 @@
-from debian:latest
+FROM node:lts-alpine
 
-run apt update -y && apt upgrade -y
+VOLUME /app
+WORKDIR /app
 
-volume /app
-
-workdir /app
-
-run apt install npm -y
-
-run npm i -g @adguard/hostlist-compiler
+RUN npm i -g @adguard/hostlist-compiler
 
 CMD ["hostlist-compiler"]
