@@ -6,7 +6,7 @@
         "source": "losts_customs.txt"
     },
     {
-        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt"
+        "source": "https://raw.githubusercontent.com/badmojr/1Hosts/master/Lite/adblock.txt"
     },
     {
         "name": "WindowsSpyBlocker",

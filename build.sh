@@ -60,7 +60,7 @@ mv lostad_full.txt.tmp lostad_full.txt
 
 # Copy to Caddy output dir
 echo "[+] Deploying to $OUTPUT_DIR..."
-cp lostad_*.txt "$OUTPUT_DIR"
+cp lostad_*.txt install.html "$OUTPUT_DIR"
 
 # Optional: Push to GitHub mirror
 # git stage lostad_*.txt
