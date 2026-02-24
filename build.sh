@@ -58,9 +58,4 @@ done
 echo "[+] Deploying to $OUTPUT_DIR..."
 cp lostad_*.txt install.html "$OUTPUT_DIR"
 
-# Optional: Push to GitHub mirror
-# git stage lostad_*.txt
-# git commit -m "Build $(timestamp) UTC"
-# git push
-
 echo "[✓] Done! Built and deployed at $(timestamp) UTC"
