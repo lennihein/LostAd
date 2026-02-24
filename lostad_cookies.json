@@ -1,0 +1,16 @@
+{
+  "name": "LostAd Cookies",
+  "sources": [
+    {
+      "source": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt"
+    },
+    {
+      "source": "https://www.i-dont-care-about-cookies.eu/abp/"
+    }
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveComments"
+  ]
+}

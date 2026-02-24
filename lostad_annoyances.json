@@ -1,0 +1,16 @@
+{
+  "name": "LostAd Annoyances",
+  "sources": [
+    {
+      "source": "https://secure.fanboy.co.nz/fanboy-annoyance.txt"
+    },
+    {
+      "source": "https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_14_Annoyances/filter.txt"
+    }
+  ],
+  "transformations": [
+    "Deduplicate",
+    "Compress",
+    "RemoveComments"
+  ]
+}
