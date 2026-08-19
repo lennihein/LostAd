@@ -6,3 +6,5 @@ lostad_german.txt
 lostad_social.txt
 lostad_tracking.txt
 lostad_core.txt
+dist/
+node_modules/
