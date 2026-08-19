@@ -93,6 +93,7 @@ acrobat.adobe.com##.HomeBanner__homeBanner___3mZ8A, .HomeBanner__homeBannerWebOn
 
 @@||vscode.dev^$important,document
 @@||lostinthe.cloud^$important,document
+@@||lennihein.com^$important,document
 @@||github.dev^$important,document
 @@||www.icloud.com^$important,document
 @@||localhost^$important,document

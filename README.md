@@ -2,7 +2,7 @@
 
 A highly effective consolidated **content filter** and **DNS hostlist**, optimized for AdGuard, uBlock Origin, Pi-hole, AdGuard Home, and more.
 
-**To install LostAd, visit the [install page](https://adblock.lostinthe.cloud/install.html).**
+**To install LostAd, visit the [install page](https://adblock.lennihein.com/install.html).**
 
 ---
 
